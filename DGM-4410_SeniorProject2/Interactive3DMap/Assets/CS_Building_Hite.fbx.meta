@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 116d7a7c1f122d04c9fe1bac20ab4a5a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BigPillarAirCond
+    100002: BigPillarAirCond2
+    100004: CenterPieceChip
+    100006: CenterPieceChip1
+    100008: CS_Building1
+    100010: //RootNode
+    100012: ElevatorTubes
+    100014: group1
+    100016: group2
+    100018: group3
+    100020: group4
+    100022: group4 1
+    100024: group5
+    100026: group5 1
+    100028: group6
+    100030: group6 1
+    100032: LeftElevator
+    100034: LeftStaircase
+    100036: LooseAdornments
+    100038: MiddleStairCase
+    100040: pCube10
+    100042: pCube11
+    100044: pCube12
+    100046: pCube13
+    100048: pCube13 1
+    100050: pCube14
+    100052: pCube5
+    100054: pCube6
+    100056: pCube7
+    100058: pCube8
+    100060: pCube9
+    100062: pCylinder1
+    100064: pCylinder1 1
+    100066: pCylinder1 2
+    100068: pCylinder1 3
+    100070: pCylinder1 4
+    100072: pCylinder1 5
+    100074: pCylinder1 6
+    100076: pCylinder1 7
+    100078: pCylinder1 8
+    100080: Pillars
+    100082: pPlane1
+    100084: pPlane1 1
+    100086: pPlane1 2
+    100088: pPlane1 3
+    100090: pPlane1 4
+    100092: pPlane1 5
+    100094: pPlane1 6
+    100096: pPlane1 7
+    100098: pPlane1 8
+    100100: pPlane2
+    100102: pPlane2 1
+    100104: pPlane2 2
+    100106: pPlane2 3
+    100108: pPlane2 4
+    100110: pPlane2 5
+    100112: pPlane2 6
+    100114: pPlane2 7
+    100116: pPlane2 8
+    100118: RightElevator
+    100120: RightStaircase
+    100122: StairCases
+    100124: transform1
+    100126: transform10
+    100128: transform11
+    100130: transform12
+    100132: transform13
+    100134: transform14
+    100136: transform15
+    100138: transform16
+    100140: transform17
+    100142: transform18
+    100144: transform19
+    100146: transform2
+    100148: transform20
+    100150: transform21
+    100152: transform22
+    100154: transform23
+    100156: transform24
+    100158: transform25
+    100160: transform26
+    100162: transform27
+    100164: transform28
+    100166: transform29
+    100168: transform3
+    100170: transform30
+    100172: transform31
+    100174: transform32
+    100176: transform33
+    100178: transform34
+    100180: transform35
+    100182: transform36
+    100184: transform37
+    100186: transform38
+    100188: transform39
+    100190: transform4
+    100192: transform40
+    100194: transform41
+    100196: transform42
+    100198: transform43
+    100200: transform44
+    100202: transform45
+    100204: transform5
+    100206: transform6
+    100208: transform7
+    100210: transform8
+    100212: transform9
+    400000: BigPillarAirCond
+    400002: BigPillarAirCond2
+    400004: CenterPieceChip
+    400006: CenterPieceChip1
+    400008: CS_Building1
+    400010: //RootNode
+    400012: ElevatorTubes
+    400014: group1
+    400016: group2
+    400018: group3
+    400020: group4
+    400022: group4 1
+    400024: group5
+    400026: group5 1
+    400028: group6
+    400030: group6 1
+    400032: LeftElevator
+    400034: LeftStaircase
+    400036: LooseAdornments
+    400038: MiddleStairCase
+    400040: pCube10
+    400042: pCube11
+    400044: pCube12
+    400046: pCube13
+    400048: pCube13 1
+    400050: pCube14
+    400052: pCube5
+    400054: pCube6
+    400056: pCube7
+    400058: pCube8
+    400060: pCube9
+    400062: pCylinder1
+    400064: pCylinder1 1
+    400066: pCylinder1 2
+    400068: pCylinder1 3
+    400070: pCylinder1 4
+    400072: pCylinder1 5
+    400074: pCylinder1 6
+    400076: pCylinder1 7
+    400078: pCylinder1 8
+    400080: Pillars
+    400082: pPlane1
+    400084: pPlane1 1
+    400086: pPlane1 2
+    400088: pPlane1 3
+    400090: pPlane1 4
+    400092: pPlane1 5
+    400094: pPlane1 6
+    400096: pPlane1 7
+    400098: pPlane1 8
+    400100: pPlane2
+    400102: pPlane2 1
+    400104: pPlane2 2
+    400106: pPlane2 3
+    400108: pPlane2 4
+    400110: pPlane2 5
+    400112: pPlane2 6
+    400114: pPlane2 7
+    400116: pPlane2 8
+    400118: RightElevator
+    400120: RightStaircase
+    400122: StairCases
+    400124: transform1
+    400126: transform10
+    400128: transform11
+    400130: transform12
+    400132: transform13
+    400134: transform14
+    400136: transform15
+    400138: transform16
+    400140: transform17
+    400142: transform18
+    400144: transform19
+    400146: transform2
+    400148: transform20
+    400150: transform21
+    400152: transform22
+    400154: transform23
+    400156: transform24
+    400158: transform25
+    400160: transform26
+    400162: transform27
+    400164: transform28
+    400166: transform29
+    400168: transform3
+    400170: transform30
+    400172: transform31
+    400174: transform32
+    400176: transform33
+    400178: transform34
+    400180: transform35
+    400182: transform36
+    400184: transform37
+    400186: transform38
+    400188: transform39
+    400190: transform4
+    400192: transform40
+    400194: transform41
+    400196: transform42
+    400198: transform43
+    400200: transform44
+    400202: transform45
+    400204: transform5
+    400206: transform6
+    400208: transform7
+    400210: transform8
+    400212: transform9
+    2100000: lambert1
+    2300000: CenterPieceChip1
+    3300000: CenterPieceChip1
+    4300000: CenterPieceChip1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

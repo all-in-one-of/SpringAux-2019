@@ -1,0 +1,9 @@
+proc ImportMultiplePhotos(string $filePath, int $startingPhoto, int $numOfPhotos)
+{
+    int $input = $numOfPhotos;
+    for ($i = 0; $i < $input; $i++)
+    {
+        imagePlane -fn ($filePath + " (" + ($startingPhoto + $i) + ")" + ".jpg") ;
+    }
+}
+ImportMultiplePhotos("C:/Users/10712935/Desktop/3DMap_Hite/Photographs/CSBuilding/Floor5/HallWay-ToClass-/Hallway", 17, 6);

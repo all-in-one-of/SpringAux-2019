@@ -1,0 +1,1 @@
+# This folder represents all of the smaller files associated with my senior year GameLevel class.

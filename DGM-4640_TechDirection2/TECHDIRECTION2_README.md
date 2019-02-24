@@ -1,0 +1,1 @@
+# This folder represents the work I have completed for my TechDirection class.

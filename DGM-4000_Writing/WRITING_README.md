@@ -1,0 +1,1 @@
+# This folder represents all the work I have done for my DGM-4000 Writing class.

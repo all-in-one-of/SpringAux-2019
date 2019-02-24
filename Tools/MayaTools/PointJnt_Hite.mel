@@ -1,0 +1,18 @@
+proc pointJnt()
+
+{
+    string $sels[] = `ls -sl`;
+    //Make an aim constriant between the two joints
+    aimConstraint -offset 0 0 0 -weight 1 -aimVector 1 0 0 -upVector 0 1 0 -worldUpType "vector" -worldUpVector 0 1 0;
+    select $sels[1];
+    pickWalk -d down;
+    doDelete;
+    select $sels[1];
+    float $jointRotation[] = `xform -q -ws -ro $sels[1]`;
+    joint -edit -o ($jointRotation[0]) ($jointRotation[1]) ($jointRotation[2]);
+    rotate 0 0 0;
+    select -r $sels[0];
+    select -add $sels[1];
+}
+
+pointJnt();

@@ -1,0 +1,5738 @@
+fileFormatVersion: 2
+guid: 07bb6bcfdbebf044881a8a4a2d135292
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AuxBigPipe
+    100002: AuxBigPipe_Hite:AuxBigPipe_FloorCon
+    100004: AuxBigPipe_Hite:AuxBigPipe_PipeCon
+    100006: AuxBigPipe_Hite:AuxBigPipe_Straight
+    100008: AuxBigPipe_PipeCon
+    100010: AuxBigPipe_Straight
+    100012: AuxBigPipe_Straight1
+    100014: BathRoomInfoSign_Hite:BathroomInfoSign_Pole
+    100016: BathRoomInfoSign_Hite:BathroomInfoSign_Sign
+    100018: BathroomInfoSign_Pole
+    100020: BathroomInfoSign_Pole 1
+    100022: BathroomInfoSign_Pole 2
+    100024: BathroomInfoSign_Pole 3
+    100026: BathroomInfoSign_Pole 4
+    100028: BathroomInfoSign_Pole 5
+    100030: BathroomInfoSign_Pole 6
+    100032: BathroomInfoSign_Sign
+    100034: BathroomInfoSign_Sign 1
+    100036: BathroomInfoSign_Sign 2
+    100038: BathroomInfoSign_Sign 3
+    100040: BathroomInfoSign_Sign 4
+    100042: BathroomInfoSign_Sign 5
+    100044: BathroomInfoSign_Sign 6
+    100046: BathRoomWallSign
+    100048: BathRoomWallSign1
+    100050: BathRoomWallSign2
+    100052: BathRoomWallSign3
+    100054: BathRoomWallSign4
+    100056: BathRoomWallSign5
+    100058: BathRoomWallSign6
+    100060: BathRoomWallSign7
+    100062: BathRoomWallSigns
+    100064: CeilingLight_Var2
+    100066: CeilingLight_Var2_Base
+    100068: CeilingLight_Var2_Base 1
+    100070: CeilingLight_Var2_Base 2
+    100072: CeilingLight_Var2_Base 3
+    100074: CeilingLight_Var2_Base 4
+    100076: CeilingLight_Var2_Base 5
+    100078: CeilingLight_Var2_Base 6
+    100080: CeilingLight_Var2_Hite:CeilingLight_Var2_Base
+    100082: CeilingLight_Var2_Hite:CeilingLight_Var2_Mount
+    100084: CeilingLight_Var2_Hite:CeilingLight_Var2_Poles
+    100086: CeilingLight_Var2_Hite:CeilingLight_Var2_Slats
+    100088: CeilingLight_Var2_Mount
+    100090: CeilingLight_Var2_Mount 1
+    100092: CeilingLight_Var2_Mount 2
+    100094: CeilingLight_Var2_Mount 3
+    100096: CeilingLight_Var2_Mount 4
+    100098: CeilingLight_Var2_Mount 5
+    100100: CeilingLight_Var2_Mount 6
+    100102: CeilingLight_Var2_Mount1
+    100104: CeilingLight_Var2_Mount1 1
+    100106: CeilingLight_Var2_Poles
+    100108: CeilingLight_Var2_Poles 1
+    100110: CeilingLight_Var2_Poles 2
+    100112: CeilingLight_Var2_Poles 3
+    100114: CeilingLight_Var2_Poles 4
+    100116: CeilingLight_Var2_Poles 5
+    100118: CeilingLight_Var2_Poles 6
+    100120: CeilingLight_Var2_Poles1
+    100122: CeilingLight_Var2_Poles1 1
+    100124: CeilingLight_Var2_Slats
+    100126: CeilingLight_Var2_Slats 1
+    100128: CeilingLight_Var2_Slats 2
+    100130: CeilingLight_Var2_Slats 3
+    100132: CeilingLight_Var2_Slats 4
+    100134: CeilingLight_Var2_Slats 5
+    100136: CeilingLight_Var2_Slats 6
+    100138: CeilingLight_Var3
+    100140: CeilingLight_Var4
+    100142: CeilingLight_Var5
+    100144: CeilingLight_Var6
+    100146: CeilingLight_Var7
+    100148: CeilingLight_Var8
+    100150: CeilingLight_Var9
+    100152: CeilingLights_Var2
+    100154: Centerpiece
+    100156: CenterPieceChip
+    100158: Clock
+    100160: Clock1
+    100162: Clock2
+    100164: Clock3
+    100166: Clock_Base
+    100168: Clock_Base 1
+    100170: Clock_Base 2
+    100172: Clock_HandPin
+    100174: Clock_HandPin 1
+    100176: Clock_HandPin 2
+    100178: Clock_Hite:Clock_Base
+    100180: Clock_Hite:Clock_HandPin
+    100182: Clock_Hite:Clock_HourHand
+    100184: Clock_Hite:Clock_MinuteHand
+    100186: Clock_Hite:Clock_SecondHand
+    100188: Clock_Hite:Clock_Shield
+    100190: Clock_HourHand
+    100192: Clock_HourHand 1
+    100194: Clock_HourHand 2
+    100196: Clock_MinuteHand
+    100198: Clock_MinuteHand 1
+    100200: Clock_MinuteHand 2
+    100202: Clock_SecondHand
+    100204: Clock_SecondHand 1
+    100206: Clock_SecondHand 2
+    100208: Clock_Shield
+    100210: Clock_Shield 1
+    100212: Clock_Shield 2
+    100214: Clocks
+    100216: Corner_Railing
+    100218: Corner_Railing1
+    100220: Corner_Railing2
+    100222: Corner_Railing3
+    100224: Corner_Railing4
+    100226: Corner_Railing5
+    100228: CS_Building1
+    100230: CS_Building_Door:polySurface1
+    100232: //RootNode
+    100234: CylintricalDesk
+    100236: CylintricalDesk_Hite:CylinDesk_Support1
+    100238: CylintricalDesk_Hite:CylinDesk_Support2
+    100240: CylintricalDesk_Hite:CylinDesk_Support3
+    100242: CylintricalDesk_Hite:CylinDesk_TableTop
+    100244: Doors
+    100246: ElevatorBtnPanel
+    100248: ElevatorBtnPanel1
+    100250: ElevatorBtnPanel2
+    100252: ElevatorBtnPanel3
+    100254: ElevatorBtnPanel4
+    100256: ElevatorBtnPanel5
+    100258: ElevatorBtnPanel6
+    100260: ElevatorBtnPanel7
+    100262: ElevatorBtnPanel_DownBtn
+    100264: ElevatorBtnPanel_DownBtn 1
+    100266: ElevatorBtnPanel_DownBtn 2
+    100268: ElevatorBtnPanel_DownBtn 3
+    100270: ElevatorBtnPanel_DownBtn 4
+    100272: ElevatorBtnPanel_DownBtn 5
+    100274: ElevatorBtnPanel_DownBtn 6
+    100276: ElevatorBtnPanel_Hite:ElevatorBtnPanel_DownBtn
+    100278: ElevatorBtnPanel_Hite:ElevatorBtnPanel_Panel
+    100280: ElevatorBtnPanel_Hite:ElevatorBtnPanel_UpBtn
+    100282: ElevatorBtnPanel_Panel
+    100284: ElevatorBtnPanel_Panel 1
+    100286: ElevatorBtnPanel_Panel 2
+    100288: ElevatorBtnPanel_Panel 3
+    100290: ElevatorBtnPanel_Panel 4
+    100292: ElevatorBtnPanel_Panel 5
+    100294: ElevatorBtnPanel_Panel 6
+    100296: ElevatorBtnPanel_UpBtn
+    100298: ElevatorBtnPanel_UpBtn 1
+    100300: ElevatorBtnPanel_UpBtn 2
+    100302: ElevatorBtnPanel_UpBtn 3
+    100304: ElevatorBtnPanel_UpBtn 4
+    100306: ElevatorBtnPanel_UpBtn 5
+    100308: ElevatorBtnPanel_UpBtn 6
+    100310: ElevatorBtnPanels
+    100312: ElevatorTubes
+    100314: End_Railing
+    100316: End_Railing1
+    100318: End_Railing10
+    100320: End_Railing2
+    100322: End_Railing2 1
+    100324: End_Railing3
+    100326: End_Railing4
+    100328: End_Railing5
+    100330: End_Railing6
+    100332: End_Railing7
+    100334: End_Railing8
+    100336: End_Railing9
+    100338: Floor1
+    100340: Floor2
+    100342: Floor3
+    100344: Floor4
+    100346: Floor5Railings
+    100348: Floor6Railings
+    100350: Floor7Railings
+    100352: FloorRefPhotos
+    100354: FlyerWallMount
+    100356: FlyerWallMount_Hite:pCube1
+    100358: FlyerWallMount_Hite:pCube12
+    100360: FlyerWallMount_Hite:pPlane1
+    100362: FrameBkp
+    100364: FrameBkp 1
+    100366: FrameBkp 10
+    100368: FrameBkp 11
+    100370: FrameBkp 12
+    100372: FrameBkp 13
+    100374: FrameBkp 14
+    100376: FrameBkp 15
+    100378: FrameBkp 16
+    100380: FrameBkp 17
+    100382: FrameBkp 18
+    100384: FrameBkp 19
+    100386: FrameBkp 2
+    100388: FrameBkp 20
+    100390: FrameBkp 21
+    100392: FrameBkp 22
+    100394: FrameBkp 3
+    100396: FrameBkp 4
+    100398: FrameBkp 5
+    100400: FrameBkp 6
+    100402: FrameBkp 7
+    100404: FrameBkp 8
+    100406: FrameBkp 9
+    100408: group34
+    100410: group35
+    100412: group36
+    100414: group37
+    100416: group38
+    100418: group39
+    100420: group40
+    100422: group40 1
+    100424: group40 2
+    100426: group40 3
+    100428: group40 4
+    100430: group40 5
+    100432: group41
+    100434: group41 1
+    100436: group41 2
+    100438: group41 3
+    100440: group41 4
+    100442: group41 5
+    100444: InfoFlag
+    100446: InfoFlag1
+    100448: InfoFlag2
+    100450: InfoFlag3
+    100452: InfoFlag4
+    100454: InfoFlag_Bolts
+    100456: InfoFlag_Bolts 1
+    100458: InfoFlag_Bolts 2
+    100460: InfoFlag_Bolts 3
+    100462: InfoFlag_Flag
+    100464: InfoFlag_Flag 1
+    100466: InfoFlag_Flag 2
+    100468: InfoFlag_Flag 3
+    100470: InfoFlag_Hite:InfoFlag_Bolts
+    100472: InfoFlag_Hite:InfoFlag_Flag
+    100474: InfoFlags
+    100476: InfoSign
+    100478: InfoSign_Hite:InfoSign_Base
+    100480: InfoSign_Hite:InfoSign_Face
+    100482: InfoSign_Hite:InfoSign_Flag
+    100484: InfoSign_Hite:InfoSign_Supports
+    100486: LeftElevator
+    100488: LooseAdornments
+    100490: MainFloorBigPipe
+    100492: MainFloorBigPipe1
+    100494: MainFloorBigPipe2
+    100496: MainFloorBigPipe3
+    100498: MainFloorBigPipe_Hite:MFBigPipe_Cap
+    100500: MainFloorBigPipe_Hite:MFBigPipe_FloorCon
+    100502: MainFloorBigPipe_Hite:MFBigPipe_PipeCon
+    100504: MainFloorBigPipe_Hite:MFBigPipe_Straight
+    100506: MainFloorBigPipe_Hite:MFBigPipe_WallCon
+    100508: MainFloorBigPipes
+    100510: MetalDoor_Var1
+    100512: MetalDoor_Var1 1
+    100514: MetalDoor_Var1 2
+    100516: MetalDoor_Var1 3
+    100518: MetalDoor_Var1 4
+    100520: MetalDoor_Var1 5
+    100522: MetalDoor_Var1_Frame
+    100524: MetalDoor_Var1_Frame 1
+    100526: MetalDoor_Var1_Frame 10
+    100528: MetalDoor_Var1_Frame 11
+    100530: MetalDoor_Var1_Frame 12
+    100532: MetalDoor_Var1_Frame 13
+    100534: MetalDoor_Var1_Frame 14
+    100536: MetalDoor_Var1_Frame 15
+    100538: MetalDoor_Var1_Frame 16
+    100540: MetalDoor_Var1_Frame 2
+    100542: MetalDoor_Var1_Frame 3
+    100544: MetalDoor_Var1_Frame 4
+    100546: MetalDoor_Var1_Frame 5
+    100548: MetalDoor_Var1_Frame 6
+    100550: MetalDoor_Var1_Frame 7
+    100552: MetalDoor_Var1_Frame 8
+    100554: MetalDoor_Var1_Frame 9
+    100556: MetalDoor_Var1_Frame1
+    100558: MetalDoor_Var1_Frame1 1
+    100560: MetalDoor_Var1_Frame1 2
+    100562: MetalDoor_Var1_Frame1 3
+    100564: MetalDoor_Var1_Frame1 4
+    100566: MetalDoor_Var1_Frame1 5
+    100568: MetalDoor_Var1_Handle
+    100570: MetalDoor_Var1_Handle 1
+    100572: MetalDoor_Var1_Handle 10
+    100574: MetalDoor_Var1_Handle 11
+    100576: MetalDoor_Var1_Handle 12
+    100578: MetalDoor_Var1_Handle 13
+    100580: MetalDoor_Var1_Handle 14
+    100582: MetalDoor_Var1_Handle 15
+    100584: MetalDoor_Var1_Handle 16
+    100586: MetalDoor_Var1_Handle 2
+    100588: MetalDoor_Var1_Handle 3
+    100590: MetalDoor_Var1_Handle 4
+    100592: MetalDoor_Var1_Handle 5
+    100594: MetalDoor_Var1_Handle 6
+    100596: MetalDoor_Var1_Handle 7
+    100598: MetalDoor_Var1_Handle 8
+    100600: MetalDoor_Var1_Handle 9
+    100602: MetalDoor_Var1_Handle1
+    100604: MetalDoor_Var1_Handle1 1
+    100606: MetalDoor_Var1_Handle1 2
+    100608: MetalDoor_Var1_Handle1 3
+    100610: MetalDoor_Var1_Handle1 4
+    100612: MetalDoor_Var1_Handle1 5
+    100614: MetalDoor_Var1_Hite:FrameBkp
+    100616: MetalDoor_Var1_Hite:MetalDoor_Var1_Frame
+    100618: MetalDoor_Var1_Hite:MetalDoor_Var1_Handle
+    100620: MetalDoor_Var1_Hite:MetalDoor_Var1_PullH
+    100622: MetalDoor_Var1_Hite:MetalDoor_Var1_PushH
+    100624: MetalDoor_Var1_PullH
+    100626: MetalDoor_Var1_PullH 1
+    100628: MetalDoor_Var1_PullH 10
+    100630: MetalDoor_Var1_PullH 11
+    100632: MetalDoor_Var1_PullH 12
+    100634: MetalDoor_Var1_PullH 13
+    100636: MetalDoor_Var1_PullH 14
+    100638: MetalDoor_Var1_PullH 15
+    100640: MetalDoor_Var1_PullH 16
+    100642: MetalDoor_Var1_PullH 2
+    100644: MetalDoor_Var1_PullH 3
+    100646: MetalDoor_Var1_PullH 4
+    100648: MetalDoor_Var1_PullH 5
+    100650: MetalDoor_Var1_PullH 6
+    100652: MetalDoor_Var1_PullH 7
+    100654: MetalDoor_Var1_PullH 8
+    100656: MetalDoor_Var1_PullH 9
+    100658: MetalDoor_Var1_PullH1
+    100660: MetalDoor_Var1_PullH1 1
+    100662: MetalDoor_Var1_PullH1 2
+    100664: MetalDoor_Var1_PullH1 3
+    100666: MetalDoor_Var1_PullH1 4
+    100668: MetalDoor_Var1_PullH1 5
+    100670: MetalDoor_Var1_PushH
+    100672: MetalDoor_Var1_PushH 1
+    100674: MetalDoor_Var1_PushH 10
+    100676: MetalDoor_Var1_PushH 11
+    100678: MetalDoor_Var1_PushH 12
+    100680: MetalDoor_Var1_PushH 13
+    100682: MetalDoor_Var1_PushH 14
+    100684: MetalDoor_Var1_PushH 15
+    100686: MetalDoor_Var1_PushH 16
+    100688: MetalDoor_Var1_PushH 2
+    100690: MetalDoor_Var1_PushH 3
+    100692: MetalDoor_Var1_PushH 4
+    100694: MetalDoor_Var1_PushH 5
+    100696: MetalDoor_Var1_PushH 6
+    100698: MetalDoor_Var1_PushH 7
+    100700: MetalDoor_Var1_PushH 8
+    100702: MetalDoor_Var1_PushH 9
+    100704: MetalDoor_Var1_PushH1
+    100706: MetalDoor_Var1_PushH1 1
+    100708: MetalDoor_Var1_PushH1 2
+    100710: MetalDoor_Var1_PushH1 3
+    100712: MetalDoor_Var1_PushH1 4
+    100714: MetalDoor_Var1_PushH1 5
+    100716: MetalDoor_Var2
+    100718: MetalDoor_Var2 1
+    100720: MetalDoor_Var2 2
+    100722: MetalDoor_Var2 3
+    100724: MetalDoor_Var2 4
+    100726: MetalDoor_Var2 5
+    100728: MetalDoor_Var3
+    100730: MetalDoor_Var3 1
+    100732: MetalDoor_Var3 2
+    100734: MetalDoor_Var3 3
+    100736: MetalDoor_Var3 4
+    100738: MetalDoor_Var3 5
+    100740: MetalDoor_Var4
+    100742: MetalDoor_Var4 1
+    100744: MetalDoor_Var4 2
+    100746: MetalDoor_Var4 3
+    100748: MetalDoor_Var4 4
+    100750: MetalDoor_Var4 5
+    100752: MetalDoorSpan
+    100754: MetalDoorSpan1
+    100756: MetalDoorSpan2
+    100758: MetalDoorSpan3
+    100760: MetalDoorSpan4
+    100762: MetalDoorSpan5
+    100764: MetalDoorSpans
+    100766: MetalFrame
+    100768: MetalFrame 1
+    100770: MetalFrame 2
+    100772: MetalFrame 3
+    100774: MetalFrame 4
+    100776: MetalFrame_ConVarStright
+    100778: MetalFrame_ConVarStright 1
+    100780: MetalFrame_ConVarStright 2
+    100782: MetalFrame_ConVarStright 3
+    100784: MetalFrame_ConVarStright 4
+    100786: MetalFrame_Cross
+    100788: MetalFrame_Cross 1
+    100790: MetalFrame_Cross 2
+    100792: MetalFrame_Cross 3
+    100794: MetalFrame_Cross 4
+    100796: MetalFrame_Cross 5
+    100798: MetalFrame_Cross1
+    100800: MetalFrame_Cross1 1
+    100802: MetalFrame_Cross1 2
+    100804: MetalFrame_Cross1 3
+    100806: MetalFrame_Cross1 4
+    100808: MetalFrame_Cross1 5
+    100810: MetalFrame_Cross2
+    100812: MetalFrame_Cross2 1
+    100814: MetalFrame_Cross2 2
+    100816: MetalFrame_Cross2 3
+    100818: MetalFrame_Cross2 4
+    100820: MetalFrame_Cross2 5
+    100822: MetalFrame_Cross3
+    100824: MetalFrame_Cross3 1
+    100826: MetalFrame_Cross3 2
+    100828: MetalFrame_Cross3 3
+    100830: MetalFrame_Cross3 4
+    100832: MetalFrame_Cross3 5
+    100834: MetalFrame_Cross4
+    100836: MetalFrame_Cross4 1
+    100838: MetalFrame_Cross4 2
+    100840: MetalFrame_Cross4 3
+    100842: MetalFrame_Cross4 4
+    100844: MetalFrame_Cross4 5
+    100846: MetalFrame_Cross5
+    100848: MetalFrame_Cross5 1
+    100850: MetalFrame_Cross5 2
+    100852: MetalFrame_Cross5 3
+    100854: MetalFrame_Cross5 4
+    100856: MetalFrame_Cross5 5
+    100858: MetalFrame_Cross6
+    100860: MetalFrame_Cross6 1
+    100862: MetalFrame_Cross6 2
+    100864: MetalFrame_Cross6 3
+    100866: MetalFrame_Cross6 4
+    100868: MetalFrame_DbleStraight
+    100870: MetalFrame_DbleStraight 1
+    100872: MetalFrame_DbleStraight 2
+    100874: MetalFrame_DbleStraight 3
+    100876: MetalFrame_DbleStraight 4
+    100878: MetalFrame_DbleStraight 5
+    100880: MetalFrame_DbleStraight2
+    100882: MetalFrame_DbleStraight2 1
+    100884: MetalFrame_DbleStraight2 2
+    100886: MetalFrame_DbleStraight2 3
+    100888: MetalFrame_DbleStraight2 4
+    100890: MetalFrame_DbleStraight2 5
+    100892: MetalFrame_DbleStraight3
+    100894: MetalFrame_DbleStraight3 1
+    100896: MetalFrame_DbleStraight3 2
+    100898: MetalFrame_DbleStraight3 3
+    100900: MetalFrame_DbleStraight3 4
+    100902: MetalFrame_DbleStraight3 5
+    100904: MetalFrame_DbleStraight4
+    100906: MetalFrame_DbleStraight4 1
+    100908: MetalFrame_DbleStraight4 2
+    100910: MetalFrame_DbleStraight4 3
+    100912: MetalFrame_DbleStraight4 4
+    100914: MetalFrame_DbleStraight4 5
+    100916: MetalFrame_DbleStraight5
+    100918: MetalFrame_DbleStraight5 1
+    100920: MetalFrame_DbleStraight5 2
+    100922: MetalFrame_DbleStraight5 3
+    100924: MetalFrame_DbleStraight5 4
+    100926: MetalFrame_Hite:MetalFrame
+    100928: MetalFrame_Hite:MetalFrame_ConVarStright
+    100930: MetalFrame_Hite:MetalFrame_Cross
+    100932: MetalFrame_Hite:MetalFrame_DbleStraight
+    100934: MetalFrame_Hite:MetalFrame_L
+    100936: MetalFrame_Hite:MetalFrame_Straight
+    100938: MetalFrame_Hite:MetalFrame_T
+    100940: MetalFrame_L
+    100942: MetalFrame_L 1
+    100944: MetalFrame_L 2
+    100946: MetalFrame_L 3
+    100948: MetalFrame_L 4
+    100950: MetalFrame_L 5
+    100952: MetalFrame_L1
+    100954: MetalFrame_L1 1
+    100956: MetalFrame_L1 2
+    100958: MetalFrame_L1 3
+    100960: MetalFrame_L1 4
+    100962: MetalFrame_L1 5
+    100964: MetalFrame_L2
+    100966: MetalFrame_L2 1
+    100968: MetalFrame_L2 2
+    100970: MetalFrame_L2 3
+    100972: MetalFrame_L2 4
+    100974: MetalFrame_L2 5
+    100976: MetalFrame_L3
+    100978: MetalFrame_L3 1
+    100980: MetalFrame_L3 2
+    100982: MetalFrame_L3 3
+    100984: MetalFrame_L3 4
+    100986: MetalFrame_L3 5
+    100988: MetalFrame_L4
+    100990: MetalFrame_L4 1
+    100992: MetalFrame_L4 2
+    100994: MetalFrame_L4 3
+    100996: MetalFrame_L4 4
+    100998: MetalFrame_L4 5
+    101000: MetalFrame_L5
+    101002: MetalFrame_L5 1
+    101004: MetalFrame_L5 2
+    101006: MetalFrame_L5 3
+    101008: MetalFrame_L5 4
+    101010: MetalFrame_L5 5
+    101012: MetalFrame_L6
+    101014: MetalFrame_L6 1
+    101016: MetalFrame_L6 2
+    101018: MetalFrame_L6 3
+    101020: MetalFrame_L6 4
+    101022: MetalFrame_L6 5
+    101024: MetalFrame_L7
+    101026: MetalFrame_L7 1
+    101028: MetalFrame_L7 2
+    101030: MetalFrame_L7 3
+    101032: MetalFrame_L7 4
+    101034: MetalFrame_L7 5
+    101036: MetalFrame_L8
+    101038: MetalFrame_L8 1
+    101040: MetalFrame_L8 2
+    101042: MetalFrame_L8 3
+    101044: MetalFrame_L8 4
+    101046: MetalFrame_Straight
+    101048: MetalFrame_Straight 1
+    101050: MetalFrame_Straight 2
+    101052: MetalFrame_Straight 3
+    101054: MetalFrame_Straight 4
+    101056: MetalFrame_T
+    101058: MetalFrame_T 1
+    101060: MetalFrame_T 2
+    101062: MetalFrame_T 3
+    101064: MetalFrame_T 4
+    101066: MetalFrame_T 5
+    101068: MetalFrame_T1
+    101070: MetalFrame_T1 1
+    101072: MetalFrame_T1 2
+    101074: MetalFrame_T1 3
+    101076: MetalFrame_T1 4
+    101078: MetalFrame_T1 5
+    101080: MetalFrame_T10
+    101082: MetalFrame_T10 1
+    101084: MetalFrame_T10 2
+    101086: MetalFrame_T10 3
+    101088: MetalFrame_T10 4
+    101090: MetalFrame_T10 5
+    101092: MetalFrame_T11
+    101094: MetalFrame_T11 1
+    101096: MetalFrame_T11 2
+    101098: MetalFrame_T11 3
+    101100: MetalFrame_T11 4
+    101102: MetalFrame_T11 5
+    101104: MetalFrame_T12
+    101106: MetalFrame_T12 1
+    101108: MetalFrame_T12 2
+    101110: MetalFrame_T12 3
+    101112: MetalFrame_T12 4
+    101114: MetalFrame_T12 5
+    101116: MetalFrame_T13
+    101118: MetalFrame_T13 1
+    101120: MetalFrame_T13 2
+    101122: MetalFrame_T13 3
+    101124: MetalFrame_T13 4
+    101126: MetalFrame_T13 5
+    101128: MetalFrame_T14
+    101130: MetalFrame_T14 1
+    101132: MetalFrame_T14 2
+    101134: MetalFrame_T14 3
+    101136: MetalFrame_T14 4
+    101138: MetalFrame_T14 5
+    101140: MetalFrame_T15
+    101142: MetalFrame_T15 1
+    101144: MetalFrame_T15 2
+    101146: MetalFrame_T15 3
+    101148: MetalFrame_T15 4
+    101150: MetalFrame_T15 5
+    101152: MetalFrame_T16
+    101154: MetalFrame_T16 1
+    101156: MetalFrame_T16 2
+    101158: MetalFrame_T16 3
+    101160: MetalFrame_T16 4
+    101162: MetalFrame_T16 5
+    101164: MetalFrame_T17
+    101166: MetalFrame_T17 1
+    101168: MetalFrame_T17 2
+    101170: MetalFrame_T17 3
+    101172: MetalFrame_T17 4
+    101174: MetalFrame_T2
+    101176: MetalFrame_T2 1
+    101178: MetalFrame_T2 2
+    101180: MetalFrame_T2 3
+    101182: MetalFrame_T2 4
+    101184: MetalFrame_T2 5
+    101186: MetalFrame_T3
+    101188: MetalFrame_T3 1
+    101190: MetalFrame_T3 2
+    101192: MetalFrame_T3 3
+    101194: MetalFrame_T3 4
+    101196: MetalFrame_T3 5
+    101198: MetalFrame_T4
+    101200: MetalFrame_T4 1
+    101202: MetalFrame_T4 2
+    101204: MetalFrame_T4 3
+    101206: MetalFrame_T4 4
+    101208: MetalFrame_T4 5
+    101210: MetalFrame_T5
+    101212: MetalFrame_T5 1
+    101214: MetalFrame_T5 2
+    101216: MetalFrame_T5 3
+    101218: MetalFrame_T5 4
+    101220: MetalFrame_T5 5
+    101222: MetalFrame_T6
+    101224: MetalFrame_T6 1
+    101226: MetalFrame_T6 2
+    101228: MetalFrame_T6 3
+    101230: MetalFrame_T6 4
+    101232: MetalFrame_T6 5
+    101234: MetalFrame_T7
+    101236: MetalFrame_T7 1
+    101238: MetalFrame_T7 2
+    101240: MetalFrame_T7 3
+    101242: MetalFrame_T7 4
+    101244: MetalFrame_T7 5
+    101246: MetalFrame_T9
+    101248: MetalFrame_T9 1
+    101250: MetalFrame_T9 2
+    101252: MetalFrame_T9 3
+    101254: MetalFrame_T9 4
+    101256: MetalFrame_T9 5
+    101258: MFBigPipe_Cap
+    101260: MFBigPipe_Cap 1
+    101262: MFBigPipe_Cap 2
+    101264: MFBigPipe_Connector1
+    101266: MFBigPipe_Connector1 1
+    101268: MFBigPipe_Connector1 2
+    101270: MFBigPipe_Connector1 3
+    101272: MFBigPipe_Connector10
+    101274: MFBigPipe_Connector10 1
+    101276: MFBigPipe_Connector10 2
+    101278: MFBigPipe_Connector10 3
+    101280: MFBigPipe_Connector11
+    101282: MFBigPipe_Connector11 1
+    101284: MFBigPipe_Connector11 2
+    101286: MFBigPipe_Connector11 3
+    101288: MFBigPipe_Connector12
+    101290: MFBigPipe_Connector12 1
+    101292: MFBigPipe_Connector12 2
+    101294: MFBigPipe_Connector12 3
+    101296: MFBigPipe_Connector13
+    101298: MFBigPipe_Connector13 1
+    101300: MFBigPipe_Connector13 2
+    101302: MFBigPipe_Connector13 3
+    101304: MFBigPipe_Connector14
+    101306: MFBigPipe_Connector14 1
+    101308: MFBigPipe_Connector14 2
+    101310: MFBigPipe_Connector14 3
+    101312: MFBigPipe_Connector15
+    101314: MFBigPipe_Connector15 1
+    101316: MFBigPipe_Connector15 2
+    101318: MFBigPipe_Connector15 3
+    101320: MFBigPipe_Connector16
+    101322: MFBigPipe_Connector16 1
+    101324: MFBigPipe_Connector16 2
+    101326: MFBigPipe_Connector16 3
+    101328: MFBigPipe_Connector17
+    101330: MFBigPipe_Connector17 1
+    101332: MFBigPipe_Connector17 2
+    101334: MFBigPipe_Connector17 3
+    101336: MFBigPipe_Connector18
+    101338: MFBigPipe_Connector18 1
+    101340: MFBigPipe_Connector18 2
+    101342: MFBigPipe_Connector18 3
+    101344: MFBigPipe_Connector19
+    101346: MFBigPipe_Connector19 1
+    101348: MFBigPipe_Connector19 2
+    101350: MFBigPipe_Connector19 3
+    101352: MFBigPipe_Connector20
+    101354: MFBigPipe_Connector20 1
+    101356: MFBigPipe_Connector20 2
+    101358: MFBigPipe_Connector20 3
+    101360: MFBigPipe_Connector21
+    101362: MFBigPipe_Connector21 1
+    101364: MFBigPipe_Connector21 2
+    101366: MFBigPipe_Connector21 3
+    101368: MFBigPipe_Connector22
+    101370: MFBigPipe_Connector22 1
+    101372: MFBigPipe_Connector22 2
+    101374: MFBigPipe_Connector22 3
+    101376: MFBigPipe_Connector23
+    101378: MFBigPipe_Connector23 1
+    101380: MFBigPipe_Connector23 2
+    101382: MFBigPipe_Connector23 3
+    101384: MFBigPipe_FloorCon
+    101386: MFBigPipe_FloorCon 1
+    101388: MFBigPipe_FloorCon 2
+    101390: MFBigPipe_PipeCon
+    101392: MFBigPipe_PipeCon 1
+    101394: MFBigPipe_PipeCon 2
+    101396: MFBigPipe_PipeCon3
+    101398: MFBigPipe_PipeCon3 1
+    101400: MFBigPipe_PipeCon3 2
+    101402: MFBigPipe_PipeCon3 3
+    101404: MFBigPipe_PipeCon4
+    101406: MFBigPipe_PipeCon4 1
+    101408: MFBigPipe_PipeCon4 2
+    101410: MFBigPipe_PipeCon4 3
+    101412: MFBigPipe_PipeCon5
+    101414: MFBigPipe_PipeCon5 1
+    101416: MFBigPipe_PipeCon5 2
+    101418: MFBigPipe_PipeCon5 3
+    101420: MFBigPipe_Straight
+    101422: MFBigPipe_Straight 1
+    101424: MFBigPipe_Straight 2
+    101426: MFBigPipe_Straight 3
+    101428: MFBigPipe_Straight1
+    101430: MFBigPipe_Straight1 1
+    101432: MFBigPipe_Straight1 2
+    101434: MFBigPipe_Straight10
+    101436: MFBigPipe_Straight10 1
+    101438: MFBigPipe_Straight10 2
+    101440: MFBigPipe_Straight10 3
+    101442: MFBigPipe_Straight11
+    101444: MFBigPipe_Straight11 1
+    101446: MFBigPipe_Straight11 2
+    101448: MFBigPipe_Straight11 3
+    101450: MFBigPipe_Straight6
+    101452: MFBigPipe_Straight6 1
+    101454: MFBigPipe_Straight6 2
+    101456: MFBigPipe_Straight6 3
+    101458: MFBigPipe_Straight7
+    101460: MFBigPipe_Straight7 1
+    101462: MFBigPipe_Straight7 2
+    101464: MFBigPipe_Straight7 3
+    101466: MFBigPipe_Straight8
+    101468: MFBigPipe_Straight8 1
+    101470: MFBigPipe_Straight8 2
+    101472: MFBigPipe_Straight8 3
+    101474: MFBigPipe_Straight9
+    101476: MFBigPipe_Straight9 1
+    101478: MFBigPipe_Straight9 2
+    101480: MFBigPipe_Straight9 3
+    101482: MFBigPipe_WallCon
+    101484: MFBigPipe_WallCon 1
+    101486: MFBigPipe_WallCon 2
+    101488: MFBigPipe_WallCon3
+    101490: MFBigPipe_WallCon3 1
+    101492: MFBigPipe_WallCon3 2
+    101494: MFBigPipe_WallCon3 3
+    101496: MFBigPipe_WallCon4
+    101498: MFBigPipe_WallCon4 1
+    101500: MFBigPipe_WallCon4 2
+    101502: MFBigPipe_WallCon4 3
+    101504: Middle_Railing
+    101506: Middle_Railing1
+    101508: Middle_Railing1 1
+    101510: Middle_Railing10
+    101512: Middle_Railing11
+    101514: Middle_Railing12
+    101516: Middle_Railing13
+    101518: Middle_Railing14
+    101520: Middle_Railing15
+    101522: Middle_Railing16
+    101524: Middle_Railing17
+    101526: Middle_Railing17 1
+    101528: Middle_Railing18
+    101530: Middle_Railing19
+    101532: Middle_Railing2
+    101534: Middle_Railing2 1
+    101536: Middle_Railing2 2
+    101538: Middle_Railing20
+    101540: Middle_Railing21
+    101542: Middle_Railing22
+    101544: Middle_Railing23
+    101546: Middle_Railing24
+    101548: Middle_Railing25
+    101550: Middle_Railing26
+    101552: Middle_Railing27
+    101554: Middle_Railing27 1
+    101556: Middle_Railing28
+    101558: Middle_Railing28 1
+    101560: Middle_Railing29
+    101562: Middle_Railing29 1
+    101564: Middle_Railing3
+    101566: Middle_Railing30
+    101568: Middle_Railing30 1
+    101570: Middle_Railing31
+    101572: Middle_Railing31 1
+    101574: Middle_Railing32
+    101576: Middle_Railing33
+    101578: Middle_Railing34
+    101580: Middle_Railing35
+    101582: Middle_Railing36
+    101584: Middle_Railing37
+    101586: Middle_Railing38
+    101588: Middle_Railing39
+    101590: Middle_Railing4
+    101592: Middle_Railing40
+    101594: Middle_Railing41
+    101596: Middle_Railing42
+    101598: Middle_Railing43
+    101600: Middle_Railing44
+    101602: Middle_Railing45
+    101604: Middle_Railing46
+    101606: Middle_Railing47
+    101608: Middle_Railing48
+    101610: Middle_Railing49
+    101612: Middle_Railing5
+    101614: Middle_Railing50
+    101616: Middle_Railing51
+    101618: Middle_Railing52
+    101620: Middle_Railing53
+    101622: Middle_Railing54
+    101624: Middle_Railing55
+    101626: Middle_Railing56
+    101628: Middle_Railing57
+    101630: Middle_Railing58
+    101632: Middle_Railing59
+    101634: Middle_Railing6
+    101636: Middle_Railing60
+    101638: Middle_Railing61
+    101640: Middle_Railing62
+    101642: Middle_Railing63
+    101644: Middle_Railing64
+    101646: Middle_Railing65
+    101648: Middle_Railing66
+    101650: Middle_Railing67
+    101652: Middle_Railing68
+    101654: Middle_Railing69
+    101656: Middle_Railing7
+    101658: Middle_Railing70
+    101660: Middle_Railing71
+    101662: Middle_Railing72
+    101664: Middle_Railing73
+    101666: Middle_Railing8
+    101668: Middle_Railing9
+    101670: NavMesh
+    101672: NineTBend
+    101674: NineTBend 1
+    101676: NineTBend 2
+    101678: NineTBend 3
+    101680: NineTBend1
+    101682: NineTBend1 1
+    101684: NineTBend1 2
+    101686: NineTBend1 3
+    101688: NineTBend10
+    101690: NineTBend10 1
+    101692: NineTBend10 2
+    101694: NineTBend10 3
+    101696: NineTBend11
+    101698: NineTBend11 1
+    101700: NineTBend11 2
+    101702: NineTBend11 3
+    101704: NineTBend12
+    101706: NineTBend12 1
+    101708: NineTBend12 2
+    101710: NineTBend12 3
+    101712: NineTBend13
+    101714: NineTBend13 1
+    101716: NineTBend13 2
+    101718: NineTBend13 3
+    101720: NineTBend14
+    101722: NineTBend14 1
+    101724: NineTBend14 2
+    101726: NineTBend14 3
+    101728: NineTBend15
+    101730: NineTBend15 1
+    101732: NineTBend15 2
+    101734: NineTBend15 3
+    101736: NineTBend16
+    101738: NineTBend16 1
+    101740: NineTBend16 2
+    101742: NineTBend16 3
+    101744: NineTBend17
+    101746: NineTBend17 1
+    101748: NineTBend17 2
+    101750: NineTBend17 3
+    101752: NineTBend18
+    101754: NineTBend18 1
+    101756: NineTBend18 2
+    101758: NineTBend18 3
+    101760: NineTBend19
+    101762: NineTBend19 1
+    101764: NineTBend19 2
+    101766: NineTBend19 3
+    101768: NineTBend2
+    101770: NineTBend2 1
+    101772: NineTBend2 2
+    101774: NineTBend2 3
+    101776: NineTBend20
+    101778: NineTBend20 1
+    101780: NineTBend20 2
+    101782: NineTBend20 3
+    101784: NineTBend21
+    101786: NineTBend21 1
+    101788: NineTBend21 2
+    101790: NineTBend21 3
+    101792: NineTBend22
+    101794: NineTBend22 1
+    101796: NineTBend22 2
+    101798: NineTBend22 3
+    101800: NineTBend23
+    101802: NineTBend23 1
+    101804: NineTBend23 2
+    101806: NineTBend23 3
+    101808: NineTBend24
+    101810: NineTBend24 1
+    101812: NineTBend24 2
+    101814: NineTBend24 3
+    101816: NineTBend25
+    101818: NineTBend25 1
+    101820: NineTBend25 2
+    101822: NineTBend3
+    101824: NineTBend3 1
+    101826: NineTBend3 2
+    101828: NineTBend3 3
+    101830: NineTBend4
+    101832: NineTBend4 1
+    101834: NineTBend4 2
+    101836: NineTBend4 3
+    101838: NineTBend5
+    101840: NineTBend5 1
+    101842: NineTBend5 2
+    101844: NineTBend5 3
+    101846: NineTBend6
+    101848: NineTBend6 1
+    101850: NineTBend6 2
+    101852: NineTBend6 3
+    101854: NineTBend7
+    101856: NineTBend7 1
+    101858: NineTBend7 2
+    101860: NineTBend7 3
+    101862: NineTBend8
+    101864: NineTBend8 1
+    101866: NineTBend8 2
+    101868: NineTBend8 3
+    101870: NineTBend9
+    101872: NineTBend9 1
+    101874: NineTBend9 2
+    101876: NineTBend9 3
+    101878: NotInUse
+    101880: OrigStairs
+    101882: Pillars
+    101884: PipeBendSet1
+    101886: PipeBendSet2
+    101888: PipeBendSet3
+    101890: PipeBendSet4
+    101892: PipeBendSet:NineTBend
+    101894: polySurface1
+    101896: polySurface1 1
+    101898: polySurface10
+    101900: polySurface11
+    101902: polySurface12
+    101904: polySurface13
+    101906: polySurface14
+    101908: polySurface15
+    101910: polySurface16
+    101912: polySurface17
+    101914: polySurface18
+    101916: polySurface19
+    101918: polySurface2
+    101920: polySurface20
+    101922: polySurface21
+    101924: polySurface22
+    101926: polySurface23
+    101928: polySurface24
+    101930: polySurface25
+    101932: polySurface26
+    101934: polySurface27
+    101936: polySurface28
+    101938: polySurface29
+    101940: polySurface30
+    101942: polySurface31
+    101944: polySurface32
+    101946: polySurface33
+    101948: polySurface34
+    101950: polySurface35
+    101952: polySurface36
+    101954: polySurface37
+    101956: polySurface38
+    101958: polySurface39
+    101960: polySurface4
+    101962: polySurface40
+    101964: polySurface41
+    101966: polySurface42
+    101968: polySurface43
+    101970: polySurface44
+    101972: polySurface45
+    101974: polySurface46
+    101976: polySurface47
+    101978: polySurface48
+    101980: polySurface49
+    101982: polySurface5
+    101984: polySurface50
+    101986: polySurface51
+    101988: polySurface52
+    101990: polySurface53
+    101992: polySurface54
+    101994: polySurface55
+    101996: polySurface56
+    101998: polySurface57
+    102000: polySurface58
+    102002: polySurface59
+    102004: polySurface6
+    102006: polySurface60
+    102008: polySurface61
+    102010: polySurface62
+    102012: polySurface63
+    102014: polySurface64
+    102016: polySurface65
+    102018: polySurface66
+    102020: polySurface67
+    102022: polySurface68
+    102024: polySurface7
+    102026: polySurface8
+    102028: polySurface9
+    102030: Railing_Hite:End_Railing
+    102032: Railing_Hite:Middle_Railing
+    102034: Railing_Hite:polySurface66
+    102036: Railing_Hite:Straight_Railing
+    102038: Railing_Hite:WallEnd_Railing
+    102040: RailingBasemodel
+    102042: RailingCorner_Hite:Corner_Railing
+    102044: Railings
+    102046: RecyclingCan_Var1_Hite:polySurface1
+    102048: RecyclingCansTallVar
+    102050: RightElevator
+    102052: Roof
+    102054: RoundRecBin_Hite:RoundRecyclingBin
+    102056: RoundRecBin_Hite:RoundRecyclingBinBase
+    102058: RoundRecBin_Hite:RoundRecyclingBinLid
+    102060: RoundRecyclingBin
+    102062: RoundRecyclingBin1
+    102064: RoundRecyclingBin10
+    102066: RoundRecyclingBin11
+    102068: RoundRecyclingBin12
+    102070: RoundRecyclingBin13
+    102072: RoundRecyclingBin14
+    102074: RoundRecyclingBin2
+    102076: RoundRecyclingBin3
+    102078: RoundRecyclingBin4
+    102080: RoundRecyclingBin5
+    102082: RoundRecyclingBin6
+    102084: RoundRecyclingBin7
+    102086: RoundRecyclingBin8
+    102088: RoundRecyclingBin9
+    102090: RoundRecyclingBinBase
+    102092: RoundRecyclingBinBase 1
+    102094: RoundRecyclingBinBase 10
+    102096: RoundRecyclingBinBase 11
+    102098: RoundRecyclingBinBase 12
+    102100: RoundRecyclingBinBase 13
+    102102: RoundRecyclingBinBase 14
+    102104: RoundRecyclingBinBase 2
+    102106: RoundRecyclingBinBase 3
+    102108: RoundRecyclingBinBase 4
+    102110: RoundRecyclingBinBase 5
+    102112: RoundRecyclingBinBase 6
+    102114: RoundRecyclingBinBase 7
+    102116: RoundRecyclingBinBase 8
+    102118: RoundRecyclingBinBase 9
+    102120: RoundRecyclingBinLid
+    102122: RoundRecyclingBinLid 1
+    102124: RoundRecyclingBinLid 10
+    102126: RoundRecyclingBinLid 11
+    102128: RoundRecyclingBinLid 12
+    102130: RoundRecyclingBinLid 13
+    102132: RoundRecyclingBinLid 14
+    102134: RoundRecyclingBinLid 2
+    102136: RoundRecyclingBinLid 3
+    102138: RoundRecyclingBinLid 4
+    102140: RoundRecyclingBinLid 5
+    102142: RoundRecyclingBinLid 6
+    102144: RoundRecyclingBinLid 7
+    102146: RoundRecyclingBinLid 8
+    102148: RoundRecyclingBinLid 9
+    102150: RoundRecyclingCans
+    102152: StairCases
+    102154: StairsEastAux
+    102156: StairsMainLobby
+    102158: StairsWestAux
+    102160: Straight_Railing
+    102162: Straight_Railing1
+    102164: Straight_Railing10
+    102166: Straight_Railing11
+    102168: Straight_Railing12
+    102170: Straight_Railing13
+    102172: Straight_Railing14
+    102174: Straight_Railing15
+    102176: Straight_Railing16
+    102178: Straight_Railing17
+    102180: Straight_Railing18
+    102182: Straight_Railing19
+    102184: Straight_Railing20
+    102186: Straight_Railing21
+    102188: Straight_Railing22
+    102190: Straight_Railing23
+    102192: Straight_Railing24
+    102194: Straight_Railing25
+    102196: Straight_Railing25 1
+    102198: Straight_Railing26
+    102200: Straight_Railing26 1
+    102202: Straight_Railing27
+    102204: Straight_Railing28
+    102206: Straight_Railing29
+    102208: Straight_Railing3
+    102210: Straight_Railing3 1
+    102212: Straight_Railing30
+    102214: Straight_Railing31
+    102216: Straight_Railing32
+    102218: Straight_Railing33
+    102220: Straight_Railing34
+    102222: Straight_Railing35
+    102224: Straight_Railing36
+    102226: Straight_Railing38
+    102228: Straight_Railing38 1
+    102230: Straight_Railing39
+    102232: Straight_Railing39 1
+    102234: Straight_Railing4
+    102236: Straight_Railing4 1
+    102238: Straight_Railing4 2
+    102240: Straight_Railing40
+    102242: Straight_Railing40 1
+    102244: Straight_Railing41
+    102246: Straight_Railing41 1
+    102248: Straight_Railing42
+    102250: Straight_Railing42 1
+    102252: Straight_Railing43
+    102254: Straight_Railing43 1
+    102256: Straight_Railing44
+    102258: Straight_Railing45
+    102260: Straight_Railing46
+    102262: Straight_Railing47
+    102264: Straight_Railing48
+    102266: Straight_Railing49
+    102268: Straight_Railing5
+    102270: Straight_Railing50
+    102272: Straight_Railing51
+    102274: Straight_Railing52
+    102276: Straight_Railing53
+    102278: Straight_Railing54
+    102280: Straight_Railing55
+    102282: Straight_Railing56
+    102284: Straight_Railing57
+    102286: Straight_Railing58
+    102288: Straight_Railing59
+    102290: Straight_Railing6
+    102292: Straight_Railing60
+    102294: Straight_Railing61
+    102296: Straight_Railing62
+    102298: Straight_Railing63
+    102300: Straight_Railing64
+    102302: Straight_Railing65
+    102304: Straight_Railing66
+    102306: Straight_Railing67
+    102308: Straight_Railing68
+    102310: Straight_Railing69
+    102312: Straight_Railing7
+    102314: Straight_Railing70
+    102316: Straight_Railing71
+    102318: Straight_Railing72
+    102320: Straight_Railing73
+    102322: Straight_Railing74
+    102324: Straight_Railing75
+    102326: Straight_Railing76
+    102328: Straight_Railing77
+    102330: Straight_Railing78
+    102332: Straight_Railing79
+    102334: Straight_Railing8
+    102336: Straight_Railing80
+    102338: Straight_Railing81
+    102340: Straight_Railing82
+    102342: Straight_Railing83
+    102344: Straight_Railing84
+    102346: Straight_Railing85
+    102348: Straight_Railing86
+    102350: Straight_Railing87
+    102352: Straight_Railing88
+    102354: Straight_Railing89
+    102356: Straight_Railing9
+    102358: Straight_Railing90
+    102360: Straight_Railing91
+    102362: Straight_Railing92
+    102364: Straight_Railing93
+    102366: Straight_Railing94
+    102368: Straight_Railing95
+    102370: Straight_Railing96
+    102372: Straight_Railing97
+    102374: WallEnd_Railing1
+    102376: WallEnd_Railing10
+    102378: WallEnd_Railing10 1
+    102380: WallEnd_Railing11
+    102382: WallEnd_Railing11 1
+    102384: WallEnd_Railing12
+    102386: WallEnd_Railing12 1
+    102388: WallEnd_Railing13
+    102390: WallEnd_Railing14
+    102392: WallEnd_Railing15
+    102394: WallEnd_Railing16
+    102396: WallEnd_Railing17
+    102398: WallEnd_Railing18
+    102400: WallEnd_Railing19
+    102402: WallEnd_Railing20
+    102404: WallEnd_Railing21
+    102406: WallEnd_Railing3
+    102408: WallEnd_Railing4
+    102410: WallEnd_Railing4 1
+    102412: WallEnd_Railing4 2
+    102414: WallEnd_Railing6
+    102416: WallEnd_Railing7
+    102418: WallEnd_Railing8
+    102420: WallEnd_Railing9
+    400000: AuxBigPipe
+    400002: AuxBigPipe_Hite:AuxBigPipe_FloorCon
+    400004: AuxBigPipe_Hite:AuxBigPipe_PipeCon
+    400006: AuxBigPipe_Hite:AuxBigPipe_Straight
+    400008: AuxBigPipe_PipeCon
+    400010: AuxBigPipe_Straight
+    400012: AuxBigPipe_Straight1
+    400014: BathRoomInfoSign_Hite:BathroomInfoSign_Pole
+    400016: BathRoomInfoSign_Hite:BathroomInfoSign_Sign
+    400018: BathroomInfoSign_Pole
+    400020: BathroomInfoSign_Pole 1
+    400022: BathroomInfoSign_Pole 2
+    400024: BathroomInfoSign_Pole 3
+    400026: BathroomInfoSign_Pole 4
+    400028: BathroomInfoSign_Pole 5
+    400030: BathroomInfoSign_Pole 6
+    400032: BathroomInfoSign_Sign
+    400034: BathroomInfoSign_Sign 1
+    400036: BathroomInfoSign_Sign 2
+    400038: BathroomInfoSign_Sign 3
+    400040: BathroomInfoSign_Sign 4
+    400042: BathroomInfoSign_Sign 5
+    400044: BathroomInfoSign_Sign 6
+    400046: BathRoomWallSign
+    400048: BathRoomWallSign1
+    400050: BathRoomWallSign2
+    400052: BathRoomWallSign3
+    400054: BathRoomWallSign4
+    400056: BathRoomWallSign5
+    400058: BathRoomWallSign6
+    400060: BathRoomWallSign7
+    400062: BathRoomWallSigns
+    400064: CeilingLight_Var2
+    400066: CeilingLight_Var2_Base
+    400068: CeilingLight_Var2_Base 1
+    400070: CeilingLight_Var2_Base 2
+    400072: CeilingLight_Var2_Base 3
+    400074: CeilingLight_Var2_Base 4
+    400076: CeilingLight_Var2_Base 5
+    400078: CeilingLight_Var2_Base 6
+    400080: CeilingLight_Var2_Hite:CeilingLight_Var2_Base
+    400082: CeilingLight_Var2_Hite:CeilingLight_Var2_Mount
+    400084: CeilingLight_Var2_Hite:CeilingLight_Var2_Poles
+    400086: CeilingLight_Var2_Hite:CeilingLight_Var2_Slats
+    400088: CeilingLight_Var2_Mount
+    400090: CeilingLight_Var2_Mount 1
+    400092: CeilingLight_Var2_Mount 2
+    400094: CeilingLight_Var2_Mount 3
+    400096: CeilingLight_Var2_Mount 4
+    400098: CeilingLight_Var2_Mount 5
+    400100: CeilingLight_Var2_Mount 6
+    400102: CeilingLight_Var2_Mount1
+    400104: CeilingLight_Var2_Mount1 1
+    400106: CeilingLight_Var2_Poles
+    400108: CeilingLight_Var2_Poles 1
+    400110: CeilingLight_Var2_Poles 2
+    400112: CeilingLight_Var2_Poles 3
+    400114: CeilingLight_Var2_Poles 4
+    400116: CeilingLight_Var2_Poles 5
+    400118: CeilingLight_Var2_Poles 6
+    400120: CeilingLight_Var2_Poles1
+    400122: CeilingLight_Var2_Poles1 1
+    400124: CeilingLight_Var2_Slats
+    400126: CeilingLight_Var2_Slats 1
+    400128: CeilingLight_Var2_Slats 2
+    400130: CeilingLight_Var2_Slats 3
+    400132: CeilingLight_Var2_Slats 4
+    400134: CeilingLight_Var2_Slats 5
+    400136: CeilingLight_Var2_Slats 6
+    400138: CeilingLight_Var3
+    400140: CeilingLight_Var4
+    400142: CeilingLight_Var5
+    400144: CeilingLight_Var6
+    400146: CeilingLight_Var7
+    400148: CeilingLight_Var8
+    400150: CeilingLight_Var9
+    400152: CeilingLights_Var2
+    400154: Centerpiece
+    400156: CenterPieceChip
+    400158: Clock
+    400160: Clock1
+    400162: Clock2
+    400164: Clock3
+    400166: Clock_Base
+    400168: Clock_Base 1
+    400170: Clock_Base 2
+    400172: Clock_HandPin
+    400174: Clock_HandPin 1
+    400176: Clock_HandPin 2
+    400178: Clock_Hite:Clock_Base
+    400180: Clock_Hite:Clock_HandPin
+    400182: Clock_Hite:Clock_HourHand
+    400184: Clock_Hite:Clock_MinuteHand
+    400186: Clock_Hite:Clock_SecondHand
+    400188: Clock_Hite:Clock_Shield
+    400190: Clock_HourHand
+    400192: Clock_HourHand 1
+    400194: Clock_HourHand 2
+    400196: Clock_MinuteHand
+    400198: Clock_MinuteHand 1
+    400200: Clock_MinuteHand 2
+    400202: Clock_SecondHand
+    400204: Clock_SecondHand 1
+    400206: Clock_SecondHand 2
+    400208: Clock_Shield
+    400210: Clock_Shield 1
+    400212: Clock_Shield 2
+    400214: Clocks
+    400216: Corner_Railing
+    400218: Corner_Railing1
+    400220: Corner_Railing2
+    400222: Corner_Railing3
+    400224: Corner_Railing4
+    400226: Corner_Railing5
+    400228: CS_Building1
+    400230: CS_Building_Door:polySurface1
+    400232: //RootNode
+    400234: CylintricalDesk
+    400236: CylintricalDesk_Hite:CylinDesk_Support1
+    400238: CylintricalDesk_Hite:CylinDesk_Support2
+    400240: CylintricalDesk_Hite:CylinDesk_Support3
+    400242: CylintricalDesk_Hite:CylinDesk_TableTop
+    400244: Doors
+    400246: ElevatorBtnPanel
+    400248: ElevatorBtnPanel1
+    400250: ElevatorBtnPanel2
+    400252: ElevatorBtnPanel3
+    400254: ElevatorBtnPanel4
+    400256: ElevatorBtnPanel5
+    400258: ElevatorBtnPanel6
+    400260: ElevatorBtnPanel7
+    400262: ElevatorBtnPanel_DownBtn
+    400264: ElevatorBtnPanel_DownBtn 1
+    400266: ElevatorBtnPanel_DownBtn 2
+    400268: ElevatorBtnPanel_DownBtn 3
+    400270: ElevatorBtnPanel_DownBtn 4
+    400272: ElevatorBtnPanel_DownBtn 5
+    400274: ElevatorBtnPanel_DownBtn 6
+    400276: ElevatorBtnPanel_Hite:ElevatorBtnPanel_DownBtn
+    400278: ElevatorBtnPanel_Hite:ElevatorBtnPanel_Panel
+    400280: ElevatorBtnPanel_Hite:ElevatorBtnPanel_UpBtn
+    400282: ElevatorBtnPanel_Panel
+    400284: ElevatorBtnPanel_Panel 1
+    400286: ElevatorBtnPanel_Panel 2
+    400288: ElevatorBtnPanel_Panel 3
+    400290: ElevatorBtnPanel_Panel 4
+    400292: ElevatorBtnPanel_Panel 5
+    400294: ElevatorBtnPanel_Panel 6
+    400296: ElevatorBtnPanel_UpBtn
+    400298: ElevatorBtnPanel_UpBtn 1
+    400300: ElevatorBtnPanel_UpBtn 2
+    400302: ElevatorBtnPanel_UpBtn 3
+    400304: ElevatorBtnPanel_UpBtn 4
+    400306: ElevatorBtnPanel_UpBtn 5
+    400308: ElevatorBtnPanel_UpBtn 6
+    400310: ElevatorBtnPanels
+    400312: ElevatorTubes
+    400314: End_Railing
+    400316: End_Railing1
+    400318: End_Railing10
+    400320: End_Railing2
+    400322: End_Railing2 1
+    400324: End_Railing3
+    400326: End_Railing4
+    400328: End_Railing5
+    400330: End_Railing6
+    400332: End_Railing7
+    400334: End_Railing8
+    400336: End_Railing9
+    400338: Floor1
+    400340: Floor2
+    400342: Floor3
+    400344: Floor4
+    400346: Floor5Railings
+    400348: Floor6Railings
+    400350: Floor7Railings
+    400352: FloorRefPhotos
+    400354: FlyerWallMount
+    400356: FlyerWallMount_Hite:pCube1
+    400358: FlyerWallMount_Hite:pCube12
+    400360: FlyerWallMount_Hite:pPlane1
+    400362: FrameBkp
+    400364: FrameBkp 1
+    400366: FrameBkp 10
+    400368: FrameBkp 11
+    400370: FrameBkp 12
+    400372: FrameBkp 13
+    400374: FrameBkp 14
+    400376: FrameBkp 15
+    400378: FrameBkp 16
+    400380: FrameBkp 17
+    400382: FrameBkp 18
+    400384: FrameBkp 19
+    400386: FrameBkp 2
+    400388: FrameBkp 20
+    400390: FrameBkp 21
+    400392: FrameBkp 22
+    400394: FrameBkp 3
+    400396: FrameBkp 4
+    400398: FrameBkp 5
+    400400: FrameBkp 6
+    400402: FrameBkp 7
+    400404: FrameBkp 8
+    400406: FrameBkp 9
+    400408: group34
+    400410: group35
+    400412: group36
+    400414: group37
+    400416: group38
+    400418: group39
+    400420: group40
+    400422: group40 1
+    400424: group40 2
+    400426: group40 3
+    400428: group40 4
+    400430: group40 5
+    400432: group41
+    400434: group41 1
+    400436: group41 2
+    400438: group41 3
+    400440: group41 4
+    400442: group41 5
+    400444: InfoFlag
+    400446: InfoFlag1
+    400448: InfoFlag2
+    400450: InfoFlag3
+    400452: InfoFlag4
+    400454: InfoFlag_Bolts
+    400456: InfoFlag_Bolts 1
+    400458: InfoFlag_Bolts 2
+    400460: InfoFlag_Bolts 3
+    400462: InfoFlag_Flag
+    400464: InfoFlag_Flag 1
+    400466: InfoFlag_Flag 2
+    400468: InfoFlag_Flag 3
+    400470: InfoFlag_Hite:InfoFlag_Bolts
+    400472: InfoFlag_Hite:InfoFlag_Flag
+    400474: InfoFlags
+    400476: InfoSign
+    400478: InfoSign_Hite:InfoSign_Base
+    400480: InfoSign_Hite:InfoSign_Face
+    400482: InfoSign_Hite:InfoSign_Flag
+    400484: InfoSign_Hite:InfoSign_Supports
+    400486: LeftElevator
+    400488: LooseAdornments
+    400490: MainFloorBigPipe
+    400492: MainFloorBigPipe1
+    400494: MainFloorBigPipe2
+    400496: MainFloorBigPipe3
+    400498: MainFloorBigPipe_Hite:MFBigPipe_Cap
+    400500: MainFloorBigPipe_Hite:MFBigPipe_FloorCon
+    400502: MainFloorBigPipe_Hite:MFBigPipe_PipeCon
+    400504: MainFloorBigPipe_Hite:MFBigPipe_Straight
+    400506: MainFloorBigPipe_Hite:MFBigPipe_WallCon
+    400508: MainFloorBigPipes
+    400510: MetalDoor_Var1
+    400512: MetalDoor_Var1 1
+    400514: MetalDoor_Var1 2
+    400516: MetalDoor_Var1 3
+    400518: MetalDoor_Var1 4
+    400520: MetalDoor_Var1 5
+    400522: MetalDoor_Var1_Frame
+    400524: MetalDoor_Var1_Frame 1
+    400526: MetalDoor_Var1_Frame 10
+    400528: MetalDoor_Var1_Frame 11
+    400530: MetalDoor_Var1_Frame 12
+    400532: MetalDoor_Var1_Frame 13
+    400534: MetalDoor_Var1_Frame 14
+    400536: MetalDoor_Var1_Frame 15
+    400538: MetalDoor_Var1_Frame 16
+    400540: MetalDoor_Var1_Frame 2
+    400542: MetalDoor_Var1_Frame 3
+    400544: MetalDoor_Var1_Frame 4
+    400546: MetalDoor_Var1_Frame 5
+    400548: MetalDoor_Var1_Frame 6
+    400550: MetalDoor_Var1_Frame 7
+    400552: MetalDoor_Var1_Frame 8
+    400554: MetalDoor_Var1_Frame 9
+    400556: MetalDoor_Var1_Frame1
+    400558: MetalDoor_Var1_Frame1 1
+    400560: MetalDoor_Var1_Frame1 2
+    400562: MetalDoor_Var1_Frame1 3
+    400564: MetalDoor_Var1_Frame1 4
+    400566: MetalDoor_Var1_Frame1 5
+    400568: MetalDoor_Var1_Handle
+    400570: MetalDoor_Var1_Handle 1
+    400572: MetalDoor_Var1_Handle 10
+    400574: MetalDoor_Var1_Handle 11
+    400576: MetalDoor_Var1_Handle 12
+    400578: MetalDoor_Var1_Handle 13
+    400580: MetalDoor_Var1_Handle 14
+    400582: MetalDoor_Var1_Handle 15
+    400584: MetalDoor_Var1_Handle 16
+    400586: MetalDoor_Var1_Handle 2
+    400588: MetalDoor_Var1_Handle 3
+    400590: MetalDoor_Var1_Handle 4
+    400592: MetalDoor_Var1_Handle 5
+    400594: MetalDoor_Var1_Handle 6
+    400596: MetalDoor_Var1_Handle 7
+    400598: MetalDoor_Var1_Handle 8
+    400600: MetalDoor_Var1_Handle 9
+    400602: MetalDoor_Var1_Handle1
+    400604: MetalDoor_Var1_Handle1 1
+    400606: MetalDoor_Var1_Handle1 2
+    400608: MetalDoor_Var1_Handle1 3
+    400610: MetalDoor_Var1_Handle1 4
+    400612: MetalDoor_Var1_Handle1 5
+    400614: MetalDoor_Var1_Hite:FrameBkp
+    400616: MetalDoor_Var1_Hite:MetalDoor_Var1_Frame
+    400618: MetalDoor_Var1_Hite:MetalDoor_Var1_Handle
+    400620: MetalDoor_Var1_Hite:MetalDoor_Var1_PullH
+    400622: MetalDoor_Var1_Hite:MetalDoor_Var1_PushH
+    400624: MetalDoor_Var1_PullH
+    400626: MetalDoor_Var1_PullH 1
+    400628: MetalDoor_Var1_PullH 10
+    400630: MetalDoor_Var1_PullH 11
+    400632: MetalDoor_Var1_PullH 12
+    400634: MetalDoor_Var1_PullH 13
+    400636: MetalDoor_Var1_PullH 14
+    400638: MetalDoor_Var1_PullH 15
+    400640: MetalDoor_Var1_PullH 16
+    400642: MetalDoor_Var1_PullH 2
+    400644: MetalDoor_Var1_PullH 3
+    400646: MetalDoor_Var1_PullH 4
+    400648: MetalDoor_Var1_PullH 5
+    400650: MetalDoor_Var1_PullH 6
+    400652: MetalDoor_Var1_PullH 7
+    400654: MetalDoor_Var1_PullH 8
+    400656: MetalDoor_Var1_PullH 9
+    400658: MetalDoor_Var1_PullH1
+    400660: MetalDoor_Var1_PullH1 1
+    400662: MetalDoor_Var1_PullH1 2
+    400664: MetalDoor_Var1_PullH1 3
+    400666: MetalDoor_Var1_PullH1 4
+    400668: MetalDoor_Var1_PullH1 5
+    400670: MetalDoor_Var1_PushH
+    400672: MetalDoor_Var1_PushH 1
+    400674: MetalDoor_Var1_PushH 10
+    400676: MetalDoor_Var1_PushH 11
+    400678: MetalDoor_Var1_PushH 12
+    400680: MetalDoor_Var1_PushH 13
+    400682: MetalDoor_Var1_PushH 14
+    400684: MetalDoor_Var1_PushH 15
+    400686: MetalDoor_Var1_PushH 16
+    400688: MetalDoor_Var1_PushH 2
+    400690: MetalDoor_Var1_PushH 3
+    400692: MetalDoor_Var1_PushH 4
+    400694: MetalDoor_Var1_PushH 5
+    400696: MetalDoor_Var1_PushH 6
+    400698: MetalDoor_Var1_PushH 7
+    400700: MetalDoor_Var1_PushH 8
+    400702: MetalDoor_Var1_PushH 9
+    400704: MetalDoor_Var1_PushH1
+    400706: MetalDoor_Var1_PushH1 1
+    400708: MetalDoor_Var1_PushH1 2
+    400710: MetalDoor_Var1_PushH1 3
+    400712: MetalDoor_Var1_PushH1 4
+    400714: MetalDoor_Var1_PushH1 5
+    400716: MetalDoor_Var2
+    400718: MetalDoor_Var2 1
+    400720: MetalDoor_Var2 2
+    400722: MetalDoor_Var2 3
+    400724: MetalDoor_Var2 4
+    400726: MetalDoor_Var2 5
+    400728: MetalDoor_Var3
+    400730: MetalDoor_Var3 1
+    400732: MetalDoor_Var3 2
+    400734: MetalDoor_Var3 3
+    400736: MetalDoor_Var3 4
+    400738: MetalDoor_Var3 5
+    400740: MetalDoor_Var4
+    400742: MetalDoor_Var4 1
+    400744: MetalDoor_Var4 2
+    400746: MetalDoor_Var4 3
+    400748: MetalDoor_Var4 4
+    400750: MetalDoor_Var4 5
+    400752: MetalDoorSpan
+    400754: MetalDoorSpan1
+    400756: MetalDoorSpan2
+    400758: MetalDoorSpan3
+    400760: MetalDoorSpan4
+    400762: MetalDoorSpan5
+    400764: MetalDoorSpans
+    400766: MetalFrame
+    400768: MetalFrame 1
+    400770: MetalFrame 2
+    400772: MetalFrame 3
+    400774: MetalFrame 4
+    400776: MetalFrame_ConVarStright
+    400778: MetalFrame_ConVarStright 1
+    400780: MetalFrame_ConVarStright 2
+    400782: MetalFrame_ConVarStright 3
+    400784: MetalFrame_ConVarStright 4
+    400786: MetalFrame_Cross
+    400788: MetalFrame_Cross 1
+    400790: MetalFrame_Cross 2
+    400792: MetalFrame_Cross 3
+    400794: MetalFrame_Cross 4
+    400796: MetalFrame_Cross 5
+    400798: MetalFrame_Cross1
+    400800: MetalFrame_Cross1 1
+    400802: MetalFrame_Cross1 2
+    400804: MetalFrame_Cross1 3
+    400806: MetalFrame_Cross1 4
+    400808: MetalFrame_Cross1 5
+    400810: MetalFrame_Cross2
+    400812: MetalFrame_Cross2 1
+    400814: MetalFrame_Cross2 2
+    400816: MetalFrame_Cross2 3
+    400818: MetalFrame_Cross2 4
+    400820: MetalFrame_Cross2 5
+    400822: MetalFrame_Cross3
+    400824: MetalFrame_Cross3 1
+    400826: MetalFrame_Cross3 2
+    400828: MetalFrame_Cross3 3
+    400830: MetalFrame_Cross3 4
+    400832: MetalFrame_Cross3 5
+    400834: MetalFrame_Cross4
+    400836: MetalFrame_Cross4 1
+    400838: MetalFrame_Cross4 2
+    400840: MetalFrame_Cross4 3
+    400842: MetalFrame_Cross4 4
+    400844: MetalFrame_Cross4 5
+    400846: MetalFrame_Cross5
+    400848: MetalFrame_Cross5 1
+    400850: MetalFrame_Cross5 2
+    400852: MetalFrame_Cross5 3
+    400854: MetalFrame_Cross5 4
+    400856: MetalFrame_Cross5 5
+    400858: MetalFrame_Cross6
+    400860: MetalFrame_Cross6 1
+    400862: MetalFrame_Cross6 2
+    400864: MetalFrame_Cross6 3
+    400866: MetalFrame_Cross6 4
+    400868: MetalFrame_DbleStraight
+    400870: MetalFrame_DbleStraight 1
+    400872: MetalFrame_DbleStraight 2
+    400874: MetalFrame_DbleStraight 3
+    400876: MetalFrame_DbleStraight 4
+    400878: MetalFrame_DbleStraight 5
+    400880: MetalFrame_DbleStraight2
+    400882: MetalFrame_DbleStraight2 1
+    400884: MetalFrame_DbleStraight2 2
+    400886: MetalFrame_DbleStraight2 3
+    400888: MetalFrame_DbleStraight2 4
+    400890: MetalFrame_DbleStraight2 5
+    400892: MetalFrame_DbleStraight3
+    400894: MetalFrame_DbleStraight3 1
+    400896: MetalFrame_DbleStraight3 2
+    400898: MetalFrame_DbleStraight3 3
+    400900: MetalFrame_DbleStraight3 4
+    400902: MetalFrame_DbleStraight3 5
+    400904: MetalFrame_DbleStraight4
+    400906: MetalFrame_DbleStraight4 1
+    400908: MetalFrame_DbleStraight4 2
+    400910: MetalFrame_DbleStraight4 3
+    400912: MetalFrame_DbleStraight4 4
+    400914: MetalFrame_DbleStraight4 5
+    400916: MetalFrame_DbleStraight5
+    400918: MetalFrame_DbleStraight5 1
+    400920: MetalFrame_DbleStraight5 2
+    400922: MetalFrame_DbleStraight5 3
+    400924: MetalFrame_DbleStraight5 4
+    400926: MetalFrame_Hite:MetalFrame
+    400928: MetalFrame_Hite:MetalFrame_ConVarStright
+    400930: MetalFrame_Hite:MetalFrame_Cross
+    400932: MetalFrame_Hite:MetalFrame_DbleStraight
+    400934: MetalFrame_Hite:MetalFrame_L
+    400936: MetalFrame_Hite:MetalFrame_Straight
+    400938: MetalFrame_Hite:MetalFrame_T
+    400940: MetalFrame_L
+    400942: MetalFrame_L 1
+    400944: MetalFrame_L 2
+    400946: MetalFrame_L 3
+    400948: MetalFrame_L 4
+    400950: MetalFrame_L 5
+    400952: MetalFrame_L1
+    400954: MetalFrame_L1 1
+    400956: MetalFrame_L1 2
+    400958: MetalFrame_L1 3
+    400960: MetalFrame_L1 4
+    400962: MetalFrame_L1 5
+    400964: MetalFrame_L2
+    400966: MetalFrame_L2 1
+    400968: MetalFrame_L2 2
+    400970: MetalFrame_L2 3
+    400972: MetalFrame_L2 4
+    400974: MetalFrame_L2 5
+    400976: MetalFrame_L3
+    400978: MetalFrame_L3 1
+    400980: MetalFrame_L3 2
+    400982: MetalFrame_L3 3
+    400984: MetalFrame_L3 4
+    400986: MetalFrame_L3 5
+    400988: MetalFrame_L4
+    400990: MetalFrame_L4 1
+    400992: MetalFrame_L4 2
+    400994: MetalFrame_L4 3
+    400996: MetalFrame_L4 4
+    400998: MetalFrame_L4 5
+    401000: MetalFrame_L5
+    401002: MetalFrame_L5 1
+    401004: MetalFrame_L5 2
+    401006: MetalFrame_L5 3
+    401008: MetalFrame_L5 4
+    401010: MetalFrame_L5 5
+    401012: MetalFrame_L6
+    401014: MetalFrame_L6 1
+    401016: MetalFrame_L6 2
+    401018: MetalFrame_L6 3
+    401020: MetalFrame_L6 4
+    401022: MetalFrame_L6 5
+    401024: MetalFrame_L7
+    401026: MetalFrame_L7 1
+    401028: MetalFrame_L7 2
+    401030: MetalFrame_L7 3
+    401032: MetalFrame_L7 4
+    401034: MetalFrame_L7 5
+    401036: MetalFrame_L8
+    401038: MetalFrame_L8 1
+    401040: MetalFrame_L8 2
+    401042: MetalFrame_L8 3
+    401044: MetalFrame_L8 4
+    401046: MetalFrame_Straight
+    401048: MetalFrame_Straight 1
+    401050: MetalFrame_Straight 2
+    401052: MetalFrame_Straight 3
+    401054: MetalFrame_Straight 4
+    401056: MetalFrame_T
+    401058: MetalFrame_T 1
+    401060: MetalFrame_T 2
+    401062: MetalFrame_T 3
+    401064: MetalFrame_T 4
+    401066: MetalFrame_T 5
+    401068: MetalFrame_T1
+    401070: MetalFrame_T1 1
+    401072: MetalFrame_T1 2
+    401074: MetalFrame_T1 3
+    401076: MetalFrame_T1 4
+    401078: MetalFrame_T1 5
+    401080: MetalFrame_T10
+    401082: MetalFrame_T10 1
+    401084: MetalFrame_T10 2
+    401086: MetalFrame_T10 3
+    401088: MetalFrame_T10 4
+    401090: MetalFrame_T10 5
+    401092: MetalFrame_T11
+    401094: MetalFrame_T11 1
+    401096: MetalFrame_T11 2
+    401098: MetalFrame_T11 3
+    401100: MetalFrame_T11 4
+    401102: MetalFrame_T11 5
+    401104: MetalFrame_T12
+    401106: MetalFrame_T12 1
+    401108: MetalFrame_T12 2
+    401110: MetalFrame_T12 3
+    401112: MetalFrame_T12 4
+    401114: MetalFrame_T12 5
+    401116: MetalFrame_T13
+    401118: MetalFrame_T13 1
+    401120: MetalFrame_T13 2
+    401122: MetalFrame_T13 3
+    401124: MetalFrame_T13 4
+    401126: MetalFrame_T13 5
+    401128: MetalFrame_T14
+    401130: MetalFrame_T14 1
+    401132: MetalFrame_T14 2
+    401134: MetalFrame_T14 3
+    401136: MetalFrame_T14 4
+    401138: MetalFrame_T14 5
+    401140: MetalFrame_T15
+    401142: MetalFrame_T15 1
+    401144: MetalFrame_T15 2
+    401146: MetalFrame_T15 3
+    401148: MetalFrame_T15 4
+    401150: MetalFrame_T15 5
+    401152: MetalFrame_T16
+    401154: MetalFrame_T16 1
+    401156: MetalFrame_T16 2
+    401158: MetalFrame_T16 3
+    401160: MetalFrame_T16 4
+    401162: MetalFrame_T16 5
+    401164: MetalFrame_T17
+    401166: MetalFrame_T17 1
+    401168: MetalFrame_T17 2
+    401170: MetalFrame_T17 3
+    401172: MetalFrame_T17 4
+    401174: MetalFrame_T2
+    401176: MetalFrame_T2 1
+    401178: MetalFrame_T2 2
+    401180: MetalFrame_T2 3
+    401182: MetalFrame_T2 4
+    401184: MetalFrame_T2 5
+    401186: MetalFrame_T3
+    401188: MetalFrame_T3 1
+    401190: MetalFrame_T3 2
+    401192: MetalFrame_T3 3
+    401194: MetalFrame_T3 4
+    401196: MetalFrame_T3 5
+    401198: MetalFrame_T4
+    401200: MetalFrame_T4 1
+    401202: MetalFrame_T4 2
+    401204: MetalFrame_T4 3
+    401206: MetalFrame_T4 4
+    401208: MetalFrame_T4 5
+    401210: MetalFrame_T5
+    401212: MetalFrame_T5 1
+    401214: MetalFrame_T5 2
+    401216: MetalFrame_T5 3
+    401218: MetalFrame_T5 4
+    401220: MetalFrame_T5 5
+    401222: MetalFrame_T6
+    401224: MetalFrame_T6 1
+    401226: MetalFrame_T6 2
+    401228: MetalFrame_T6 3
+    401230: MetalFrame_T6 4
+    401232: MetalFrame_T6 5
+    401234: MetalFrame_T7
+    401236: MetalFrame_T7 1
+    401238: MetalFrame_T7 2
+    401240: MetalFrame_T7 3
+    401242: MetalFrame_T7 4
+    401244: MetalFrame_T7 5
+    401246: MetalFrame_T9
+    401248: MetalFrame_T9 1
+    401250: MetalFrame_T9 2
+    401252: MetalFrame_T9 3
+    401254: MetalFrame_T9 4
+    401256: MetalFrame_T9 5
+    401258: MFBigPipe_Cap
+    401260: MFBigPipe_Cap 1
+    401262: MFBigPipe_Cap 2
+    401264: MFBigPipe_Connector1
+    401266: MFBigPipe_Connector1 1
+    401268: MFBigPipe_Connector1 2
+    401270: MFBigPipe_Connector1 3
+    401272: MFBigPipe_Connector10
+    401274: MFBigPipe_Connector10 1
+    401276: MFBigPipe_Connector10 2
+    401278: MFBigPipe_Connector10 3
+    401280: MFBigPipe_Connector11
+    401282: MFBigPipe_Connector11 1
+    401284: MFBigPipe_Connector11 2
+    401286: MFBigPipe_Connector11 3
+    401288: MFBigPipe_Connector12
+    401290: MFBigPipe_Connector12 1
+    401292: MFBigPipe_Connector12 2
+    401294: MFBigPipe_Connector12 3
+    401296: MFBigPipe_Connector13
+    401298: MFBigPipe_Connector13 1
+    401300: MFBigPipe_Connector13 2
+    401302: MFBigPipe_Connector13 3
+    401304: MFBigPipe_Connector14
+    401306: MFBigPipe_Connector14 1
+    401308: MFBigPipe_Connector14 2
+    401310: MFBigPipe_Connector14 3
+    401312: MFBigPipe_Connector15
+    401314: MFBigPipe_Connector15 1
+    401316: MFBigPipe_Connector15 2
+    401318: MFBigPipe_Connector15 3
+    401320: MFBigPipe_Connector16
+    401322: MFBigPipe_Connector16 1
+    401324: MFBigPipe_Connector16 2
+    401326: MFBigPipe_Connector16 3
+    401328: MFBigPipe_Connector17
+    401330: MFBigPipe_Connector17 1
+    401332: MFBigPipe_Connector17 2
+    401334: MFBigPipe_Connector17 3
+    401336: MFBigPipe_Connector18
+    401338: MFBigPipe_Connector18 1
+    401340: MFBigPipe_Connector18 2
+    401342: MFBigPipe_Connector18 3
+    401344: MFBigPipe_Connector19
+    401346: MFBigPipe_Connector19 1
+    401348: MFBigPipe_Connector19 2
+    401350: MFBigPipe_Connector19 3
+    401352: MFBigPipe_Connector20
+    401354: MFBigPipe_Connector20 1
+    401356: MFBigPipe_Connector20 2
+    401358: MFBigPipe_Connector20 3
+    401360: MFBigPipe_Connector21
+    401362: MFBigPipe_Connector21 1
+    401364: MFBigPipe_Connector21 2
+    401366: MFBigPipe_Connector21 3
+    401368: MFBigPipe_Connector22
+    401370: MFBigPipe_Connector22 1
+    401372: MFBigPipe_Connector22 2
+    401374: MFBigPipe_Connector22 3
+    401376: MFBigPipe_Connector23
+    401378: MFBigPipe_Connector23 1
+    401380: MFBigPipe_Connector23 2
+    401382: MFBigPipe_Connector23 3
+    401384: MFBigPipe_FloorCon
+    401386: MFBigPipe_FloorCon 1
+    401388: MFBigPipe_FloorCon 2
+    401390: MFBigPipe_PipeCon
+    401392: MFBigPipe_PipeCon 1
+    401394: MFBigPipe_PipeCon 2
+    401396: MFBigPipe_PipeCon3
+    401398: MFBigPipe_PipeCon3 1
+    401400: MFBigPipe_PipeCon3 2
+    401402: MFBigPipe_PipeCon3 3
+    401404: MFBigPipe_PipeCon4
+    401406: MFBigPipe_PipeCon4 1
+    401408: MFBigPipe_PipeCon4 2
+    401410: MFBigPipe_PipeCon4 3
+    401412: MFBigPipe_PipeCon5
+    401414: MFBigPipe_PipeCon5 1
+    401416: MFBigPipe_PipeCon5 2
+    401418: MFBigPipe_PipeCon5 3
+    401420: MFBigPipe_Straight
+    401422: MFBigPipe_Straight 1
+    401424: MFBigPipe_Straight 2
+    401426: MFBigPipe_Straight 3
+    401428: MFBigPipe_Straight1
+    401430: MFBigPipe_Straight1 1
+    401432: MFBigPipe_Straight1 2
+    401434: MFBigPipe_Straight10
+    401436: MFBigPipe_Straight10 1
+    401438: MFBigPipe_Straight10 2
+    401440: MFBigPipe_Straight10 3
+    401442: MFBigPipe_Straight11
+    401444: MFBigPipe_Straight11 1
+    401446: MFBigPipe_Straight11 2
+    401448: MFBigPipe_Straight11 3
+    401450: MFBigPipe_Straight6
+    401452: MFBigPipe_Straight6 1
+    401454: MFBigPipe_Straight6 2
+    401456: MFBigPipe_Straight6 3
+    401458: MFBigPipe_Straight7
+    401460: MFBigPipe_Straight7 1
+    401462: MFBigPipe_Straight7 2
+    401464: MFBigPipe_Straight7 3
+    401466: MFBigPipe_Straight8
+    401468: MFBigPipe_Straight8 1
+    401470: MFBigPipe_Straight8 2
+    401472: MFBigPipe_Straight8 3
+    401474: MFBigPipe_Straight9
+    401476: MFBigPipe_Straight9 1
+    401478: MFBigPipe_Straight9 2
+    401480: MFBigPipe_Straight9 3
+    401482: MFBigPipe_WallCon
+    401484: MFBigPipe_WallCon 1
+    401486: MFBigPipe_WallCon 2
+    401488: MFBigPipe_WallCon3
+    401490: MFBigPipe_WallCon3 1
+    401492: MFBigPipe_WallCon3 2
+    401494: MFBigPipe_WallCon3 3
+    401496: MFBigPipe_WallCon4
+    401498: MFBigPipe_WallCon4 1
+    401500: MFBigPipe_WallCon4 2
+    401502: MFBigPipe_WallCon4 3
+    401504: Middle_Railing
+    401506: Middle_Railing1
+    401508: Middle_Railing1 1
+    401510: Middle_Railing10
+    401512: Middle_Railing11
+    401514: Middle_Railing12
+    401516: Middle_Railing13
+    401518: Middle_Railing14
+    401520: Middle_Railing15
+    401522: Middle_Railing16
+    401524: Middle_Railing17
+    401526: Middle_Railing17 1
+    401528: Middle_Railing18
+    401530: Middle_Railing19
+    401532: Middle_Railing2
+    401534: Middle_Railing2 1
+    401536: Middle_Railing2 2
+    401538: Middle_Railing20
+    401540: Middle_Railing21
+    401542: Middle_Railing22
+    401544: Middle_Railing23
+    401546: Middle_Railing24
+    401548: Middle_Railing25
+    401550: Middle_Railing26
+    401552: Middle_Railing27
+    401554: Middle_Railing27 1
+    401556: Middle_Railing28
+    401558: Middle_Railing28 1
+    401560: Middle_Railing29
+    401562: Middle_Railing29 1
+    401564: Middle_Railing3
+    401566: Middle_Railing30
+    401568: Middle_Railing30 1
+    401570: Middle_Railing31
+    401572: Middle_Railing31 1
+    401574: Middle_Railing32
+    401576: Middle_Railing33
+    401578: Middle_Railing34
+    401580: Middle_Railing35
+    401582: Middle_Railing36
+    401584: Middle_Railing37
+    401586: Middle_Railing38
+    401588: Middle_Railing39
+    401590: Middle_Railing4
+    401592: Middle_Railing40
+    401594: Middle_Railing41
+    401596: Middle_Railing42
+    401598: Middle_Railing43
+    401600: Middle_Railing44
+    401602: Middle_Railing45
+    401604: Middle_Railing46
+    401606: Middle_Railing47
+    401608: Middle_Railing48
+    401610: Middle_Railing49
+    401612: Middle_Railing5
+    401614: Middle_Railing50
+    401616: Middle_Railing51
+    401618: Middle_Railing52
+    401620: Middle_Railing53
+    401622: Middle_Railing54
+    401624: Middle_Railing55
+    401626: Middle_Railing56
+    401628: Middle_Railing57
+    401630: Middle_Railing58
+    401632: Middle_Railing59
+    401634: Middle_Railing6
+    401636: Middle_Railing60
+    401638: Middle_Railing61
+    401640: Middle_Railing62
+    401642: Middle_Railing63
+    401644: Middle_Railing64
+    401646: Middle_Railing65
+    401648: Middle_Railing66
+    401650: Middle_Railing67
+    401652: Middle_Railing68
+    401654: Middle_Railing69
+    401656: Middle_Railing7
+    401658: Middle_Railing70
+    401660: Middle_Railing71
+    401662: Middle_Railing72
+    401664: Middle_Railing73
+    401666: Middle_Railing8
+    401668: Middle_Railing9
+    401670: NavMesh
+    401672: NineTBend
+    401674: NineTBend 1
+    401676: NineTBend 2
+    401678: NineTBend 3
+    401680: NineTBend1
+    401682: NineTBend1 1
+    401684: NineTBend1 2
+    401686: NineTBend1 3
+    401688: NineTBend10
+    401690: NineTBend10 1
+    401692: NineTBend10 2
+    401694: NineTBend10 3
+    401696: NineTBend11
+    401698: NineTBend11 1
+    401700: NineTBend11 2
+    401702: NineTBend11 3
+    401704: NineTBend12
+    401706: NineTBend12 1
+    401708: NineTBend12 2
+    401710: NineTBend12 3
+    401712: NineTBend13
+    401714: NineTBend13 1
+    401716: NineTBend13 2
+    401718: NineTBend13 3
+    401720: NineTBend14
+    401722: NineTBend14 1
+    401724: NineTBend14 2
+    401726: NineTBend14 3
+    401728: NineTBend15
+    401730: NineTBend15 1
+    401732: NineTBend15 2
+    401734: NineTBend15 3
+    401736: NineTBend16
+    401738: NineTBend16 1
+    401740: NineTBend16 2
+    401742: NineTBend16 3
+    401744: NineTBend17
+    401746: NineTBend17 1
+    401748: NineTBend17 2
+    401750: NineTBend17 3
+    401752: NineTBend18
+    401754: NineTBend18 1
+    401756: NineTBend18 2
+    401758: NineTBend18 3
+    401760: NineTBend19
+    401762: NineTBend19 1
+    401764: NineTBend19 2
+    401766: NineTBend19 3
+    401768: NineTBend2
+    401770: NineTBend2 1
+    401772: NineTBend2 2
+    401774: NineTBend2 3
+    401776: NineTBend20
+    401778: NineTBend20 1
+    401780: NineTBend20 2
+    401782: NineTBend20 3
+    401784: NineTBend21
+    401786: NineTBend21 1
+    401788: NineTBend21 2
+    401790: NineTBend21 3
+    401792: NineTBend22
+    401794: NineTBend22 1
+    401796: NineTBend22 2
+    401798: NineTBend22 3
+    401800: NineTBend23
+    401802: NineTBend23 1
+    401804: NineTBend23 2
+    401806: NineTBend23 3
+    401808: NineTBend24
+    401810: NineTBend24 1
+    401812: NineTBend24 2
+    401814: NineTBend24 3
+    401816: NineTBend25
+    401818: NineTBend25 1
+    401820: NineTBend25 2
+    401822: NineTBend3
+    401824: NineTBend3 1
+    401826: NineTBend3 2
+    401828: NineTBend3 3
+    401830: NineTBend4
+    401832: NineTBend4 1
+    401834: NineTBend4 2
+    401836: NineTBend4 3
+    401838: NineTBend5
+    401840: NineTBend5 1
+    401842: NineTBend5 2
+    401844: NineTBend5 3
+    401846: NineTBend6
+    401848: NineTBend6 1
+    401850: NineTBend6 2
+    401852: NineTBend6 3
+    401854: NineTBend7
+    401856: NineTBend7 1
+    401858: NineTBend7 2
+    401860: NineTBend7 3
+    401862: NineTBend8
+    401864: NineTBend8 1
+    401866: NineTBend8 2
+    401868: NineTBend8 3
+    401870: NineTBend9
+    401872: NineTBend9 1
+    401874: NineTBend9 2
+    401876: NineTBend9 3
+    401878: NotInUse
+    401880: OrigStairs
+    401882: Pillars
+    401884: PipeBendSet1
+    401886: PipeBendSet2
+    401888: PipeBendSet3
+    401890: PipeBendSet4
+    401892: PipeBendSet:NineTBend
+    401894: polySurface1
+    401896: polySurface1 1
+    401898: polySurface10
+    401900: polySurface11
+    401902: polySurface12
+    401904: polySurface13
+    401906: polySurface14
+    401908: polySurface15
+    401910: polySurface16
+    401912: polySurface17
+    401914: polySurface18
+    401916: polySurface19
+    401918: polySurface2
+    401920: polySurface20
+    401922: polySurface21
+    401924: polySurface22
+    401926: polySurface23
+    401928: polySurface24
+    401930: polySurface25
+    401932: polySurface26
+    401934: polySurface27
+    401936: polySurface28
+    401938: polySurface29
+    401940: polySurface30
+    401942: polySurface31
+    401944: polySurface32
+    401946: polySurface33
+    401948: polySurface34
+    401950: polySurface35
+    401952: polySurface36
+    401954: polySurface37
+    401956: polySurface38
+    401958: polySurface39
+    401960: polySurface4
+    401962: polySurface40
+    401964: polySurface41
+    401966: polySurface42
+    401968: polySurface43
+    401970: polySurface44
+    401972: polySurface45
+    401974: polySurface46
+    401976: polySurface47
+    401978: polySurface48
+    401980: polySurface49
+    401982: polySurface5
+    401984: polySurface50
+    401986: polySurface51
+    401988: polySurface52
+    401990: polySurface53
+    401992: polySurface54
+    401994: polySurface55
+    401996: polySurface56
+    401998: polySurface57
+    402000: polySurface58
+    402002: polySurface59
+    402004: polySurface6
+    402006: polySurface60
+    402008: polySurface61
+    402010: polySurface62
+    402012: polySurface63
+    402014: polySurface64
+    402016: polySurface65
+    402018: polySurface66
+    402020: polySurface67
+    402022: polySurface68
+    402024: polySurface7
+    402026: polySurface8
+    402028: polySurface9
+    402030: Railing_Hite:End_Railing
+    402032: Railing_Hite:Middle_Railing
+    402034: Railing_Hite:polySurface66
+    402036: Railing_Hite:Straight_Railing
+    402038: Railing_Hite:WallEnd_Railing
+    402040: RailingBasemodel
+    402042: RailingCorner_Hite:Corner_Railing
+    402044: Railings
+    402046: RecyclingCan_Var1_Hite:polySurface1
+    402048: RecyclingCansTallVar
+    402050: RightElevator
+    402052: Roof
+    402054: RoundRecBin_Hite:RoundRecyclingBin
+    402056: RoundRecBin_Hite:RoundRecyclingBinBase
+    402058: RoundRecBin_Hite:RoundRecyclingBinLid
+    402060: RoundRecyclingBin
+    402062: RoundRecyclingBin1
+    402064: RoundRecyclingBin10
+    402066: RoundRecyclingBin11
+    402068: RoundRecyclingBin12
+    402070: RoundRecyclingBin13
+    402072: RoundRecyclingBin14
+    402074: RoundRecyclingBin2
+    402076: RoundRecyclingBin3
+    402078: RoundRecyclingBin4
+    402080: RoundRecyclingBin5
+    402082: RoundRecyclingBin6
+    402084: RoundRecyclingBin7
+    402086: RoundRecyclingBin8
+    402088: RoundRecyclingBin9
+    402090: RoundRecyclingBinBase
+    402092: RoundRecyclingBinBase 1
+    402094: RoundRecyclingBinBase 10
+    402096: RoundRecyclingBinBase 11
+    402098: RoundRecyclingBinBase 12
+    402100: RoundRecyclingBinBase 13
+    402102: RoundRecyclingBinBase 14
+    402104: RoundRecyclingBinBase 2
+    402106: RoundRecyclingBinBase 3
+    402108: RoundRecyclingBinBase 4
+    402110: RoundRecyclingBinBase 5
+    402112: RoundRecyclingBinBase 6
+    402114: RoundRecyclingBinBase 7
+    402116: RoundRecyclingBinBase 8
+    402118: RoundRecyclingBinBase 9
+    402120: RoundRecyclingBinLid
+    402122: RoundRecyclingBinLid 1
+    402124: RoundRecyclingBinLid 10
+    402126: RoundRecyclingBinLid 11
+    402128: RoundRecyclingBinLid 12
+    402130: RoundRecyclingBinLid 13
+    402132: RoundRecyclingBinLid 14
+    402134: RoundRecyclingBinLid 2
+    402136: RoundRecyclingBinLid 3
+    402138: RoundRecyclingBinLid 4
+    402140: RoundRecyclingBinLid 5
+    402142: RoundRecyclingBinLid 6
+    402144: RoundRecyclingBinLid 7
+    402146: RoundRecyclingBinLid 8
+    402148: RoundRecyclingBinLid 9
+    402150: RoundRecyclingCans
+    402152: StairCases
+    402154: StairsEastAux
+    402156: StairsMainLobby
+    402158: StairsWestAux
+    402160: Straight_Railing
+    402162: Straight_Railing1
+    402164: Straight_Railing10
+    402166: Straight_Railing11
+    402168: Straight_Railing12
+    402170: Straight_Railing13
+    402172: Straight_Railing14
+    402174: Straight_Railing15
+    402176: Straight_Railing16
+    402178: Straight_Railing17
+    402180: Straight_Railing18
+    402182: Straight_Railing19
+    402184: Straight_Railing20
+    402186: Straight_Railing21
+    402188: Straight_Railing22
+    402190: Straight_Railing23
+    402192: Straight_Railing24
+    402194: Straight_Railing25
+    402196: Straight_Railing25 1
+    402198: Straight_Railing26
+    402200: Straight_Railing26 1
+    402202: Straight_Railing27
+    402204: Straight_Railing28
+    402206: Straight_Railing29
+    402208: Straight_Railing3
+    402210: Straight_Railing3 1
+    402212: Straight_Railing30
+    402214: Straight_Railing31
+    402216: Straight_Railing32
+    402218: Straight_Railing33
+    402220: Straight_Railing34
+    402222: Straight_Railing35
+    402224: Straight_Railing36
+    402226: Straight_Railing38
+    402228: Straight_Railing38 1
+    402230: Straight_Railing39
+    402232: Straight_Railing39 1
+    402234: Straight_Railing4
+    402236: Straight_Railing4 1
+    402238: Straight_Railing4 2
+    402240: Straight_Railing40
+    402242: Straight_Railing40 1
+    402244: Straight_Railing41
+    402246: Straight_Railing41 1
+    402248: Straight_Railing42
+    402250: Straight_Railing42 1
+    402252: Straight_Railing43
+    402254: Straight_Railing43 1
+    402256: Straight_Railing44
+    402258: Straight_Railing45
+    402260: Straight_Railing46
+    402262: Straight_Railing47
+    402264: Straight_Railing48
+    402266: Straight_Railing49
+    402268: Straight_Railing5
+    402270: Straight_Railing50
+    402272: Straight_Railing51
+    402274: Straight_Railing52
+    402276: Straight_Railing53
+    402278: Straight_Railing54
+    402280: Straight_Railing55
+    402282: Straight_Railing56
+    402284: Straight_Railing57
+    402286: Straight_Railing58
+    402288: Straight_Railing59
+    402290: Straight_Railing6
+    402292: Straight_Railing60
+    402294: Straight_Railing61
+    402296: Straight_Railing62
+    402298: Straight_Railing63
+    402300: Straight_Railing64
+    402302: Straight_Railing65
+    402304: Straight_Railing66
+    402306: Straight_Railing67
+    402308: Straight_Railing68
+    402310: Straight_Railing69
+    402312: Straight_Railing7
+    402314: Straight_Railing70
+    402316: Straight_Railing71
+    402318: Straight_Railing72
+    402320: Straight_Railing73
+    402322: Straight_Railing74
+    402324: Straight_Railing75
+    402326: Straight_Railing76
+    402328: Straight_Railing77
+    402330: Straight_Railing78
+    402332: Straight_Railing79
+    402334: Straight_Railing8
+    402336: Straight_Railing80
+    402338: Straight_Railing81
+    402340: Straight_Railing82
+    402342: Straight_Railing83
+    402344: Straight_Railing84
+    402346: Straight_Railing85
+    402348: Straight_Railing86
+    402350: Straight_Railing87
+    402352: Straight_Railing88
+    402354: Straight_Railing89
+    402356: Straight_Railing9
+    402358: Straight_Railing90
+    402360: Straight_Railing91
+    402362: Straight_Railing92
+    402364: Straight_Railing93
+    402366: Straight_Railing94
+    402368: Straight_Railing95
+    402370: Straight_Railing96
+    402372: Straight_Railing97
+    402374: WallEnd_Railing1
+    402376: WallEnd_Railing10
+    402378: WallEnd_Railing10 1
+    402380: WallEnd_Railing11
+    402382: WallEnd_Railing11 1
+    402384: WallEnd_Railing12
+    402386: WallEnd_Railing12 1
+    402388: WallEnd_Railing13
+    402390: WallEnd_Railing14
+    402392: WallEnd_Railing15
+    402394: WallEnd_Railing16
+    402396: WallEnd_Railing17
+    402398: WallEnd_Railing18
+    402400: WallEnd_Railing19
+    402402: WallEnd_Railing20
+    402404: WallEnd_Railing21
+    402406: WallEnd_Railing3
+    402408: WallEnd_Railing4
+    402410: WallEnd_Railing4 1
+    402412: WallEnd_Railing4 2
+    402414: WallEnd_Railing6
+    402416: WallEnd_Railing7
+    402418: WallEnd_Railing8
+    402420: WallEnd_Railing9
+    2100000: lambert1
+    2100002: White
+    2100004: TestTexture
+    2100006: blinn1
+    2100008: CS_Building_Door_blinn1SG1
+    2100010: CS_Building_Door_blinn2SG1
+    2100012: CS_Building_Door_anisotropic1SG1
+    2100014: CS_Building_Door_lambert2SG1
+    2100016: initialShadingGroup1
+    2100018: BigPipeMetal
+    2100020: BigPipeRung
+    2100022: BigPipeGreen
+    2100024: StairTempRed
+    2100026: lambert9
+    2300000: AuxBigPipe_Hite:AuxBigPipe_FloorCon
+    2300002: AuxBigPipe_Hite:AuxBigPipe_PipeCon
+    2300004: AuxBigPipe_Hite:AuxBigPipe_Straight
+    2300006: AuxBigPipe_PipeCon
+    2300008: AuxBigPipe_Straight
+    2300010: AuxBigPipe_Straight1
+    2300012: BathRoomInfoSign_Hite:BathroomInfoSign_Pole
+    2300014: BathRoomInfoSign_Hite:BathroomInfoSign_Sign
+    2300016: BathroomInfoSign_Pole
+    2300018: BathroomInfoSign_Pole 1
+    2300020: BathroomInfoSign_Pole 2
+    2300022: BathroomInfoSign_Pole 3
+    2300024: BathroomInfoSign_Pole 4
+    2300026: BathroomInfoSign_Pole 5
+    2300028: BathroomInfoSign_Pole 6
+    2300030: BathroomInfoSign_Sign
+    2300032: BathroomInfoSign_Sign 1
+    2300034: BathroomInfoSign_Sign 2
+    2300036: BathroomInfoSign_Sign 3
+    2300038: BathroomInfoSign_Sign 4
+    2300040: BathroomInfoSign_Sign 5
+    2300042: BathroomInfoSign_Sign 6
+    2300044: CeilingLight_Var2_Base
+    2300046: CeilingLight_Var2_Base 1
+    2300048: CeilingLight_Var2_Base 2
+    2300050: CeilingLight_Var2_Base 3
+    2300052: CeilingLight_Var2_Base 4
+    2300054: CeilingLight_Var2_Base 5
+    2300056: CeilingLight_Var2_Base 6
+    2300058: CeilingLight_Var2_Hite:CeilingLight_Var2_Base
+    2300060: CeilingLight_Var2_Hite:CeilingLight_Var2_Mount
+    2300062: CeilingLight_Var2_Hite:CeilingLight_Var2_Poles
+    2300064: CeilingLight_Var2_Hite:CeilingLight_Var2_Slats
+    2300066: CeilingLight_Var2_Mount
+    2300068: CeilingLight_Var2_Mount 1
+    2300070: CeilingLight_Var2_Mount 2
+    2300072: CeilingLight_Var2_Mount 3
+    2300074: CeilingLight_Var2_Mount 4
+    2300076: CeilingLight_Var2_Mount 5
+    2300078: CeilingLight_Var2_Mount 6
+    2300080: CeilingLight_Var2_Mount1
+    2300082: CeilingLight_Var2_Mount1 1
+    2300084: CeilingLight_Var2_Poles
+    2300086: CeilingLight_Var2_Poles 1
+    2300088: CeilingLight_Var2_Poles 2
+    2300090: CeilingLight_Var2_Poles 3
+    2300092: CeilingLight_Var2_Poles 4
+    2300094: CeilingLight_Var2_Poles 5
+    2300096: CeilingLight_Var2_Poles 6
+    2300098: CeilingLight_Var2_Poles1
+    2300100: CeilingLight_Var2_Poles1 1
+    2300102: CeilingLight_Var2_Slats
+    2300104: CeilingLight_Var2_Slats 1
+    2300106: CeilingLight_Var2_Slats 2
+    2300108: CeilingLight_Var2_Slats 3
+    2300110: CeilingLight_Var2_Slats 4
+    2300112: CeilingLight_Var2_Slats 5
+    2300114: CeilingLight_Var2_Slats 6
+    2300116: CenterPieceChip
+    2300118: Clock_Base
+    2300120: Clock_Base 1
+    2300122: Clock_Base 2
+    2300124: Clock_HandPin
+    2300126: Clock_HandPin 1
+    2300128: Clock_HandPin 2
+    2300130: Clock_Hite:Clock_Base
+    2300132: Clock_Hite:Clock_HandPin
+    2300134: Clock_Hite:Clock_HourHand
+    2300136: Clock_Hite:Clock_MinuteHand
+    2300138: Clock_Hite:Clock_SecondHand
+    2300140: Clock_Hite:Clock_Shield
+    2300142: Clock_HourHand
+    2300144: Clock_HourHand 1
+    2300146: Clock_HourHand 2
+    2300148: Clock_MinuteHand
+    2300150: Clock_MinuteHand 1
+    2300152: Clock_MinuteHand 2
+    2300154: Clock_SecondHand
+    2300156: Clock_SecondHand 1
+    2300158: Clock_SecondHand 2
+    2300160: Clock_Shield
+    2300162: Clock_Shield 1
+    2300164: Clock_Shield 2
+    2300166: Corner_Railing
+    2300168: Corner_Railing1
+    2300170: Corner_Railing2
+    2300172: Corner_Railing3
+    2300174: Corner_Railing4
+    2300176: Corner_Railing5
+    2300178: CS_Building1
+    2300180: CS_Building_Door:polySurface1
+    2300182: CylintricalDesk_Hite:CylinDesk_Support1
+    2300184: CylintricalDesk_Hite:CylinDesk_Support2
+    2300186: CylintricalDesk_Hite:CylinDesk_Support3
+    2300188: CylintricalDesk_Hite:CylinDesk_TableTop
+    2300190: ElevatorBtnPanel_DownBtn
+    2300192: ElevatorBtnPanel_DownBtn 1
+    2300194: ElevatorBtnPanel_DownBtn 2
+    2300196: ElevatorBtnPanel_DownBtn 3
+    2300198: ElevatorBtnPanel_DownBtn 4
+    2300200: ElevatorBtnPanel_DownBtn 5
+    2300202: ElevatorBtnPanel_DownBtn 6
+    2300204: ElevatorBtnPanel_Hite:ElevatorBtnPanel_DownBtn
+    2300206: ElevatorBtnPanel_Hite:ElevatorBtnPanel_Panel
+    2300208: ElevatorBtnPanel_Hite:ElevatorBtnPanel_UpBtn
+    2300210: ElevatorBtnPanel_Panel
+    2300212: ElevatorBtnPanel_Panel 1
+    2300214: ElevatorBtnPanel_Panel 2
+    2300216: ElevatorBtnPanel_Panel 3
+    2300218: ElevatorBtnPanel_Panel 4
+    2300220: ElevatorBtnPanel_Panel 5
+    2300222: ElevatorBtnPanel_Panel 6
+    2300224: ElevatorBtnPanel_UpBtn
+    2300226: ElevatorBtnPanel_UpBtn 1
+    2300228: ElevatorBtnPanel_UpBtn 2
+    2300230: ElevatorBtnPanel_UpBtn 3
+    2300232: ElevatorBtnPanel_UpBtn 4
+    2300234: ElevatorBtnPanel_UpBtn 5
+    2300236: ElevatorBtnPanel_UpBtn 6
+    2300238: ElevatorTubes
+    2300240: End_Railing
+    2300242: End_Railing1
+    2300244: End_Railing10
+    2300246: End_Railing2
+    2300248: End_Railing2 1
+    2300250: End_Railing3
+    2300252: End_Railing4
+    2300254: End_Railing5
+    2300256: End_Railing6
+    2300258: End_Railing7
+    2300260: End_Railing8
+    2300262: End_Railing9
+    2300264: FlyerWallMount_Hite:pCube1
+    2300266: FlyerWallMount_Hite:pCube12
+    2300268: FlyerWallMount_Hite:pPlane1
+    2300270: FrameBkp
+    2300272: FrameBkp 1
+    2300274: FrameBkp 10
+    2300276: FrameBkp 11
+    2300278: FrameBkp 12
+    2300280: FrameBkp 13
+    2300282: FrameBkp 14
+    2300284: FrameBkp 15
+    2300286: FrameBkp 16
+    2300288: FrameBkp 17
+    2300290: FrameBkp 18
+    2300292: FrameBkp 19
+    2300294: FrameBkp 2
+    2300296: FrameBkp 20
+    2300298: FrameBkp 21
+    2300300: FrameBkp 22
+    2300302: FrameBkp 3
+    2300304: FrameBkp 4
+    2300306: FrameBkp 5
+    2300308: FrameBkp 6
+    2300310: FrameBkp 7
+    2300312: FrameBkp 8
+    2300314: FrameBkp 9
+    2300316: InfoFlag_Bolts
+    2300318: InfoFlag_Bolts 1
+    2300320: InfoFlag_Bolts 2
+    2300322: InfoFlag_Bolts 3
+    2300324: InfoFlag_Flag
+    2300326: InfoFlag_Flag 1
+    2300328: InfoFlag_Flag 2
+    2300330: InfoFlag_Flag 3
+    2300332: InfoFlag_Hite:InfoFlag_Bolts
+    2300334: InfoFlag_Hite:InfoFlag_Flag
+    2300336: InfoSign_Hite:InfoSign_Base
+    2300338: InfoSign_Hite:InfoSign_Face
+    2300340: InfoSign_Hite:InfoSign_Flag
+    2300342: InfoSign_Hite:InfoSign_Supports
+    2300344: LeftElevator
+    2300346: MainFloorBigPipe_Hite:MFBigPipe_Cap
+    2300348: MainFloorBigPipe_Hite:MFBigPipe_FloorCon
+    2300350: MainFloorBigPipe_Hite:MFBigPipe_PipeCon
+    2300352: MainFloorBigPipe_Hite:MFBigPipe_Straight
+    2300354: MainFloorBigPipe_Hite:MFBigPipe_WallCon
+    2300356: MetalDoor_Var1_Frame
+    2300358: MetalDoor_Var1_Frame 1
+    2300360: MetalDoor_Var1_Frame 10
+    2300362: MetalDoor_Var1_Frame 11
+    2300364: MetalDoor_Var1_Frame 12
+    2300366: MetalDoor_Var1_Frame 13
+    2300368: MetalDoor_Var1_Frame 14
+    2300370: MetalDoor_Var1_Frame 15
+    2300372: MetalDoor_Var1_Frame 16
+    2300374: MetalDoor_Var1_Frame 2
+    2300376: MetalDoor_Var1_Frame 3
+    2300378: MetalDoor_Var1_Frame 4
+    2300380: MetalDoor_Var1_Frame 5
+    2300382: MetalDoor_Var1_Frame 6
+    2300384: MetalDoor_Var1_Frame 7
+    2300386: MetalDoor_Var1_Frame 8
+    2300388: MetalDoor_Var1_Frame 9
+    2300390: MetalDoor_Var1_Frame1
+    2300392: MetalDoor_Var1_Frame1 1
+    2300394: MetalDoor_Var1_Frame1 2
+    2300396: MetalDoor_Var1_Frame1 3
+    2300398: MetalDoor_Var1_Frame1 4
+    2300400: MetalDoor_Var1_Frame1 5
+    2300402: MetalDoor_Var1_Handle
+    2300404: MetalDoor_Var1_Handle 1
+    2300406: MetalDoor_Var1_Handle 10
+    2300408: MetalDoor_Var1_Handle 11
+    2300410: MetalDoor_Var1_Handle 12
+    2300412: MetalDoor_Var1_Handle 13
+    2300414: MetalDoor_Var1_Handle 14
+    2300416: MetalDoor_Var1_Handle 15
+    2300418: MetalDoor_Var1_Handle 16
+    2300420: MetalDoor_Var1_Handle 2
+    2300422: MetalDoor_Var1_Handle 3
+    2300424: MetalDoor_Var1_Handle 4
+    2300426: MetalDoor_Var1_Handle 5
+    2300428: MetalDoor_Var1_Handle 6
+    2300430: MetalDoor_Var1_Handle 7
+    2300432: MetalDoor_Var1_Handle 8
+    2300434: MetalDoor_Var1_Handle 9
+    2300436: MetalDoor_Var1_Handle1
+    2300438: MetalDoor_Var1_Handle1 1
+    2300440: MetalDoor_Var1_Handle1 2
+    2300442: MetalDoor_Var1_Handle1 3
+    2300444: MetalDoor_Var1_Handle1 4
+    2300446: MetalDoor_Var1_Handle1 5
+    2300448: MetalDoor_Var1_Hite:FrameBkp
+    2300450: MetalDoor_Var1_Hite:MetalDoor_Var1_Frame
+    2300452: MetalDoor_Var1_Hite:MetalDoor_Var1_Handle
+    2300454: MetalDoor_Var1_Hite:MetalDoor_Var1_PullH
+    2300456: MetalDoor_Var1_Hite:MetalDoor_Var1_PushH
+    2300458: MetalDoor_Var1_PullH
+    2300460: MetalDoor_Var1_PullH 1
+    2300462: MetalDoor_Var1_PullH 10
+    2300464: MetalDoor_Var1_PullH 11
+    2300466: MetalDoor_Var1_PullH 12
+    2300468: MetalDoor_Var1_PullH 13
+    2300470: MetalDoor_Var1_PullH 14
+    2300472: MetalDoor_Var1_PullH 15
+    2300474: MetalDoor_Var1_PullH 16
+    2300476: MetalDoor_Var1_PullH 2
+    2300478: MetalDoor_Var1_PullH 3
+    2300480: MetalDoor_Var1_PullH 4
+    2300482: MetalDoor_Var1_PullH 5
+    2300484: MetalDoor_Var1_PullH 6
+    2300486: MetalDoor_Var1_PullH 7
+    2300488: MetalDoor_Var1_PullH 8
+    2300490: MetalDoor_Var1_PullH 9
+    2300492: MetalDoor_Var1_PullH1
+    2300494: MetalDoor_Var1_PullH1 1
+    2300496: MetalDoor_Var1_PullH1 2
+    2300498: MetalDoor_Var1_PullH1 3
+    2300500: MetalDoor_Var1_PullH1 4
+    2300502: MetalDoor_Var1_PullH1 5
+    2300504: MetalDoor_Var1_PushH
+    2300506: MetalDoor_Var1_PushH 1
+    2300508: MetalDoor_Var1_PushH 10
+    2300510: MetalDoor_Var1_PushH 11
+    2300512: MetalDoor_Var1_PushH 12
+    2300514: MetalDoor_Var1_PushH 13
+    2300516: MetalDoor_Var1_PushH 14
+    2300518: MetalDoor_Var1_PushH 15
+    2300520: MetalDoor_Var1_PushH 16
+    2300522: MetalDoor_Var1_PushH 2
+    2300524: MetalDoor_Var1_PushH 3
+    2300526: MetalDoor_Var1_PushH 4
+    2300528: MetalDoor_Var1_PushH 5
+    2300530: MetalDoor_Var1_PushH 6
+    2300532: MetalDoor_Var1_PushH 7
+    2300534: MetalDoor_Var1_PushH 8
+    2300536: MetalDoor_Var1_PushH 9
+    2300538: MetalDoor_Var1_PushH1
+    2300540: MetalDoor_Var1_PushH1 1
+    2300542: MetalDoor_Var1_PushH1 2
+    2300544: MetalDoor_Var1_PushH1 3
+    2300546: MetalDoor_Var1_PushH1 4
+    2300548: MetalDoor_Var1_PushH1 5
+    2300550: MetalFrame_ConVarStright
+    2300552: MetalFrame_ConVarStright 1
+    2300554: MetalFrame_ConVarStright 2
+    2300556: MetalFrame_ConVarStright 3
+    2300558: MetalFrame_ConVarStright 4
+    2300560: MetalFrame_Cross
+    2300562: MetalFrame_Cross 1
+    2300564: MetalFrame_Cross 2
+    2300566: MetalFrame_Cross 3
+    2300568: MetalFrame_Cross 4
+    2300570: MetalFrame_Cross 5
+    2300572: MetalFrame_Cross1
+    2300574: MetalFrame_Cross1 1
+    2300576: MetalFrame_Cross1 2
+    2300578: MetalFrame_Cross1 3
+    2300580: MetalFrame_Cross1 4
+    2300582: MetalFrame_Cross1 5
+    2300584: MetalFrame_Cross2
+    2300586: MetalFrame_Cross2 1
+    2300588: MetalFrame_Cross2 2
+    2300590: MetalFrame_Cross2 3
+    2300592: MetalFrame_Cross2 4
+    2300594: MetalFrame_Cross2 5
+    2300596: MetalFrame_Cross3
+    2300598: MetalFrame_Cross3 1
+    2300600: MetalFrame_Cross3 2
+    2300602: MetalFrame_Cross3 3
+    2300604: MetalFrame_Cross3 4
+    2300606: MetalFrame_Cross3 5
+    2300608: MetalFrame_Cross4
+    2300610: MetalFrame_Cross4 1
+    2300612: MetalFrame_Cross4 2
+    2300614: MetalFrame_Cross4 3
+    2300616: MetalFrame_Cross4 4
+    2300618: MetalFrame_Cross4 5
+    2300620: MetalFrame_Cross5
+    2300622: MetalFrame_Cross5 1
+    2300624: MetalFrame_Cross5 2
+    2300626: MetalFrame_Cross5 3
+    2300628: MetalFrame_Cross5 4
+    2300630: MetalFrame_Cross5 5
+    2300632: MetalFrame_Cross6
+    2300634: MetalFrame_Cross6 1
+    2300636: MetalFrame_Cross6 2
+    2300638: MetalFrame_Cross6 3
+    2300640: MetalFrame_Cross6 4
+    2300642: MetalFrame_DbleStraight
+    2300644: MetalFrame_DbleStraight 1
+    2300646: MetalFrame_DbleStraight 2
+    2300648: MetalFrame_DbleStraight 3
+    2300650: MetalFrame_DbleStraight 4
+    2300652: MetalFrame_DbleStraight 5
+    2300654: MetalFrame_DbleStraight2
+    2300656: MetalFrame_DbleStraight2 1
+    2300658: MetalFrame_DbleStraight2 2
+    2300660: MetalFrame_DbleStraight2 3
+    2300662: MetalFrame_DbleStraight2 4
+    2300664: MetalFrame_DbleStraight2 5
+    2300666: MetalFrame_DbleStraight3
+    2300668: MetalFrame_DbleStraight3 1
+    2300670: MetalFrame_DbleStraight3 2
+    2300672: MetalFrame_DbleStraight3 3
+    2300674: MetalFrame_DbleStraight3 4
+    2300676: MetalFrame_DbleStraight3 5
+    2300678: MetalFrame_DbleStraight4
+    2300680: MetalFrame_DbleStraight4 1
+    2300682: MetalFrame_DbleStraight4 2
+    2300684: MetalFrame_DbleStraight4 3
+    2300686: MetalFrame_DbleStraight4 4
+    2300688: MetalFrame_DbleStraight4 5
+    2300690: MetalFrame_DbleStraight5
+    2300692: MetalFrame_DbleStraight5 1
+    2300694: MetalFrame_DbleStraight5 2
+    2300696: MetalFrame_DbleStraight5 3
+    2300698: MetalFrame_DbleStraight5 4
+    2300700: MetalFrame_Hite:MetalFrame_ConVarStright
+    2300702: MetalFrame_Hite:MetalFrame_Cross
+    2300704: MetalFrame_Hite:MetalFrame_DbleStraight
+    2300706: MetalFrame_Hite:MetalFrame_L
+    2300708: MetalFrame_Hite:MetalFrame_Straight
+    2300710: MetalFrame_Hite:MetalFrame_T
+    2300712: MetalFrame_L
+    2300714: MetalFrame_L 1
+    2300716: MetalFrame_L 2
+    2300718: MetalFrame_L 3
+    2300720: MetalFrame_L 4
+    2300722: MetalFrame_L 5
+    2300724: MetalFrame_L1
+    2300726: MetalFrame_L1 1
+    2300728: MetalFrame_L1 2
+    2300730: MetalFrame_L1 3
+    2300732: MetalFrame_L1 4
+    2300734: MetalFrame_L1 5
+    2300736: MetalFrame_L2
+    2300738: MetalFrame_L2 1
+    2300740: MetalFrame_L2 2
+    2300742: MetalFrame_L2 3
+    2300744: MetalFrame_L2 4
+    2300746: MetalFrame_L2 5
+    2300748: MetalFrame_L3
+    2300750: MetalFrame_L3 1
+    2300752: MetalFrame_L3 2
+    2300754: MetalFrame_L3 3
+    2300756: MetalFrame_L3 4
+    2300758: MetalFrame_L3 5
+    2300760: MetalFrame_L4
+    2300762: MetalFrame_L4 1
+    2300764: MetalFrame_L4 2
+    2300766: MetalFrame_L4 3
+    2300768: MetalFrame_L4 4
+    2300770: MetalFrame_L4 5
+    2300772: MetalFrame_L5
+    2300774: MetalFrame_L5 1
+    2300776: MetalFrame_L5 2
+    2300778: MetalFrame_L5 3
+    2300780: MetalFrame_L5 4
+    2300782: MetalFrame_L5 5
+    2300784: MetalFrame_L6
+    2300786: MetalFrame_L6 1
+    2300788: MetalFrame_L6 2
+    2300790: MetalFrame_L6 3
+    2300792: MetalFrame_L6 4
+    2300794: MetalFrame_L6 5
+    2300796: MetalFrame_L7
+    2300798: MetalFrame_L7 1
+    2300800: MetalFrame_L7 2
+    2300802: MetalFrame_L7 3
+    2300804: MetalFrame_L7 4
+    2300806: MetalFrame_L7 5
+    2300808: MetalFrame_L8
+    2300810: MetalFrame_L8 1
+    2300812: MetalFrame_L8 2
+    2300814: MetalFrame_L8 3
+    2300816: MetalFrame_L8 4
+    2300818: MetalFrame_Straight
+    2300820: MetalFrame_Straight 1
+    2300822: MetalFrame_Straight 2
+    2300824: MetalFrame_Straight 3
+    2300826: MetalFrame_Straight 4
+    2300828: MetalFrame_T
+    2300830: MetalFrame_T 1
+    2300832: MetalFrame_T 2
+    2300834: MetalFrame_T 3
+    2300836: MetalFrame_T 4
+    2300838: MetalFrame_T 5
+    2300840: MetalFrame_T1
+    2300842: MetalFrame_T1 1
+    2300844: MetalFrame_T1 2
+    2300846: MetalFrame_T1 3
+    2300848: MetalFrame_T1 4
+    2300850: MetalFrame_T1 5
+    2300852: MetalFrame_T10
+    2300854: MetalFrame_T10 1
+    2300856: MetalFrame_T10 2
+    2300858: MetalFrame_T10 3
+    2300860: MetalFrame_T10 4
+    2300862: MetalFrame_T10 5
+    2300864: MetalFrame_T11
+    2300866: MetalFrame_T11 1
+    2300868: MetalFrame_T11 2
+    2300870: MetalFrame_T11 3
+    2300872: MetalFrame_T11 4
+    2300874: MetalFrame_T11 5
+    2300876: MetalFrame_T12
+    2300878: MetalFrame_T12 1
+    2300880: MetalFrame_T12 2
+    2300882: MetalFrame_T12 3
+    2300884: MetalFrame_T12 4
+    2300886: MetalFrame_T12 5
+    2300888: MetalFrame_T13
+    2300890: MetalFrame_T13 1
+    2300892: MetalFrame_T13 2
+    2300894: MetalFrame_T13 3
+    2300896: MetalFrame_T13 4
+    2300898: MetalFrame_T13 5
+    2300900: MetalFrame_T14
+    2300902: MetalFrame_T14 1
+    2300904: MetalFrame_T14 2
+    2300906: MetalFrame_T14 3
+    2300908: MetalFrame_T14 4
+    2300910: MetalFrame_T14 5
+    2300912: MetalFrame_T15
+    2300914: MetalFrame_T15 1
+    2300916: MetalFrame_T15 2
+    2300918: MetalFrame_T15 3
+    2300920: MetalFrame_T15 4
+    2300922: MetalFrame_T15 5
+    2300924: MetalFrame_T16
+    2300926: MetalFrame_T16 1
+    2300928: MetalFrame_T16 2
+    2300930: MetalFrame_T16 3
+    2300932: MetalFrame_T16 4
+    2300934: MetalFrame_T16 5
+    2300936: MetalFrame_T17
+    2300938: MetalFrame_T17 1
+    2300940: MetalFrame_T17 2
+    2300942: MetalFrame_T17 3
+    2300944: MetalFrame_T17 4
+    2300946: MetalFrame_T2
+    2300948: MetalFrame_T2 1
+    2300950: MetalFrame_T2 2
+    2300952: MetalFrame_T2 3
+    2300954: MetalFrame_T2 4
+    2300956: MetalFrame_T2 5
+    2300958: MetalFrame_T3
+    2300960: MetalFrame_T3 1
+    2300962: MetalFrame_T3 2
+    2300964: MetalFrame_T3 3
+    2300966: MetalFrame_T3 4
+    2300968: MetalFrame_T3 5
+    2300970: MetalFrame_T4
+    2300972: MetalFrame_T4 1
+    2300974: MetalFrame_T4 2
+    2300976: MetalFrame_T4 3
+    2300978: MetalFrame_T4 4
+    2300980: MetalFrame_T4 5
+    2300982: MetalFrame_T5
+    2300984: MetalFrame_T5 1
+    2300986: MetalFrame_T5 2
+    2300988: MetalFrame_T5 3
+    2300990: MetalFrame_T5 4
+    2300992: MetalFrame_T5 5
+    2300994: MetalFrame_T6
+    2300996: MetalFrame_T6 1
+    2300998: MetalFrame_T6 2
+    2301000: MetalFrame_T6 3
+    2301002: MetalFrame_T6 4
+    2301004: MetalFrame_T6 5
+    2301006: MetalFrame_T7
+    2301008: MetalFrame_T7 1
+    2301010: MetalFrame_T7 2
+    2301012: MetalFrame_T7 3
+    2301014: MetalFrame_T7 4
+    2301016: MetalFrame_T7 5
+    2301018: MetalFrame_T9
+    2301020: MetalFrame_T9 1
+    2301022: MetalFrame_T9 2
+    2301024: MetalFrame_T9 3
+    2301026: MetalFrame_T9 4
+    2301028: MetalFrame_T9 5
+    2301030: MFBigPipe_Cap
+    2301032: MFBigPipe_Cap 1
+    2301034: MFBigPipe_Cap 2
+    2301036: MFBigPipe_Connector1
+    2301038: MFBigPipe_Connector1 1
+    2301040: MFBigPipe_Connector1 2
+    2301042: MFBigPipe_Connector1 3
+    2301044: MFBigPipe_Connector10
+    2301046: MFBigPipe_Connector10 1
+    2301048: MFBigPipe_Connector10 2
+    2301050: MFBigPipe_Connector10 3
+    2301052: MFBigPipe_Connector11
+    2301054: MFBigPipe_Connector11 1
+    2301056: MFBigPipe_Connector11 2
+    2301058: MFBigPipe_Connector11 3
+    2301060: MFBigPipe_Connector12
+    2301062: MFBigPipe_Connector12 1
+    2301064: MFBigPipe_Connector12 2
+    2301066: MFBigPipe_Connector12 3
+    2301068: MFBigPipe_Connector13
+    2301070: MFBigPipe_Connector13 1
+    2301072: MFBigPipe_Connector13 2
+    2301074: MFBigPipe_Connector13 3
+    2301076: MFBigPipe_Connector14
+    2301078: MFBigPipe_Connector14 1
+    2301080: MFBigPipe_Connector14 2
+    2301082: MFBigPipe_Connector14 3
+    2301084: MFBigPipe_Connector15
+    2301086: MFBigPipe_Connector15 1
+    2301088: MFBigPipe_Connector15 2
+    2301090: MFBigPipe_Connector15 3
+    2301092: MFBigPipe_Connector16
+    2301094: MFBigPipe_Connector16 1
+    2301096: MFBigPipe_Connector16 2
+    2301098: MFBigPipe_Connector16 3
+    2301100: MFBigPipe_Connector17
+    2301102: MFBigPipe_Connector17 1
+    2301104: MFBigPipe_Connector17 2
+    2301106: MFBigPipe_Connector17 3
+    2301108: MFBigPipe_Connector18
+    2301110: MFBigPipe_Connector18 1
+    2301112: MFBigPipe_Connector18 2
+    2301114: MFBigPipe_Connector18 3
+    2301116: MFBigPipe_Connector19
+    2301118: MFBigPipe_Connector19 1
+    2301120: MFBigPipe_Connector19 2
+    2301122: MFBigPipe_Connector19 3
+    2301124: MFBigPipe_Connector20
+    2301126: MFBigPipe_Connector20 1
+    2301128: MFBigPipe_Connector20 2
+    2301130: MFBigPipe_Connector20 3
+    2301132: MFBigPipe_Connector21
+    2301134: MFBigPipe_Connector21 1
+    2301136: MFBigPipe_Connector21 2
+    2301138: MFBigPipe_Connector21 3
+    2301140: MFBigPipe_Connector22
+    2301142: MFBigPipe_Connector22 1
+    2301144: MFBigPipe_Connector22 2
+    2301146: MFBigPipe_Connector22 3
+    2301148: MFBigPipe_Connector23
+    2301150: MFBigPipe_Connector23 1
+    2301152: MFBigPipe_Connector23 2
+    2301154: MFBigPipe_Connector23 3
+    2301156: MFBigPipe_FloorCon
+    2301158: MFBigPipe_FloorCon 1
+    2301160: MFBigPipe_FloorCon 2
+    2301162: MFBigPipe_PipeCon
+    2301164: MFBigPipe_PipeCon 1
+    2301166: MFBigPipe_PipeCon 2
+    2301168: MFBigPipe_PipeCon3
+    2301170: MFBigPipe_PipeCon3 1
+    2301172: MFBigPipe_PipeCon3 2
+    2301174: MFBigPipe_PipeCon3 3
+    2301176: MFBigPipe_PipeCon4
+    2301178: MFBigPipe_PipeCon4 1
+    2301180: MFBigPipe_PipeCon4 2
+    2301182: MFBigPipe_PipeCon4 3
+    2301184: MFBigPipe_PipeCon5
+    2301186: MFBigPipe_PipeCon5 1
+    2301188: MFBigPipe_PipeCon5 2
+    2301190: MFBigPipe_PipeCon5 3
+    2301192: MFBigPipe_Straight
+    2301194: MFBigPipe_Straight 1
+    2301196: MFBigPipe_Straight 2
+    2301198: MFBigPipe_Straight 3
+    2301200: MFBigPipe_Straight1
+    2301202: MFBigPipe_Straight1 1
+    2301204: MFBigPipe_Straight1 2
+    2301206: MFBigPipe_Straight10
+    2301208: MFBigPipe_Straight10 1
+    2301210: MFBigPipe_Straight10 2
+    2301212: MFBigPipe_Straight10 3
+    2301214: MFBigPipe_Straight11
+    2301216: MFBigPipe_Straight11 1
+    2301218: MFBigPipe_Straight11 2
+    2301220: MFBigPipe_Straight11 3
+    2301222: MFBigPipe_Straight6
+    2301224: MFBigPipe_Straight6 1
+    2301226: MFBigPipe_Straight6 2
+    2301228: MFBigPipe_Straight6 3
+    2301230: MFBigPipe_Straight7
+    2301232: MFBigPipe_Straight7 1
+    2301234: MFBigPipe_Straight7 2
+    2301236: MFBigPipe_Straight7 3
+    2301238: MFBigPipe_Straight8
+    2301240: MFBigPipe_Straight8 1
+    2301242: MFBigPipe_Straight8 2
+    2301244: MFBigPipe_Straight8 3
+    2301246: MFBigPipe_Straight9
+    2301248: MFBigPipe_Straight9 1
+    2301250: MFBigPipe_Straight9 2
+    2301252: MFBigPipe_Straight9 3
+    2301254: MFBigPipe_WallCon
+    2301256: MFBigPipe_WallCon 1
+    2301258: MFBigPipe_WallCon 2
+    2301260: MFBigPipe_WallCon3
+    2301262: MFBigPipe_WallCon3 1
+    2301264: MFBigPipe_WallCon3 2
+    2301266: MFBigPipe_WallCon3 3
+    2301268: MFBigPipe_WallCon4
+    2301270: MFBigPipe_WallCon4 1
+    2301272: MFBigPipe_WallCon4 2
+    2301274: MFBigPipe_WallCon4 3
+    2301276: Middle_Railing
+    2301278: Middle_Railing1
+    2301280: Middle_Railing1 1
+    2301282: Middle_Railing10
+    2301284: Middle_Railing11
+    2301286: Middle_Railing12
+    2301288: Middle_Railing13
+    2301290: Middle_Railing14
+    2301292: Middle_Railing15
+    2301294: Middle_Railing16
+    2301296: Middle_Railing17
+    2301298: Middle_Railing17 1
+    2301300: Middle_Railing18
+    2301302: Middle_Railing19
+    2301304: Middle_Railing2
+    2301306: Middle_Railing2 1
+    2301308: Middle_Railing2 2
+    2301310: Middle_Railing20
+    2301312: Middle_Railing21
+    2301314: Middle_Railing22
+    2301316: Middle_Railing23
+    2301318: Middle_Railing24
+    2301320: Middle_Railing25
+    2301322: Middle_Railing26
+    2301324: Middle_Railing27
+    2301326: Middle_Railing27 1
+    2301328: Middle_Railing28
+    2301330: Middle_Railing28 1
+    2301332: Middle_Railing29
+    2301334: Middle_Railing29 1
+    2301336: Middle_Railing3
+    2301338: Middle_Railing30
+    2301340: Middle_Railing30 1
+    2301342: Middle_Railing31
+    2301344: Middle_Railing31 1
+    2301346: Middle_Railing32
+    2301348: Middle_Railing33
+    2301350: Middle_Railing34
+    2301352: Middle_Railing35
+    2301354: Middle_Railing36
+    2301356: Middle_Railing37
+    2301358: Middle_Railing38
+    2301360: Middle_Railing39
+    2301362: Middle_Railing4
+    2301364: Middle_Railing40
+    2301366: Middle_Railing41
+    2301368: Middle_Railing42
+    2301370: Middle_Railing43
+    2301372: Middle_Railing44
+    2301374: Middle_Railing45
+    2301376: Middle_Railing46
+    2301378: Middle_Railing47
+    2301380: Middle_Railing48
+    2301382: Middle_Railing49
+    2301384: Middle_Railing5
+    2301386: Middle_Railing50
+    2301388: Middle_Railing51
+    2301390: Middle_Railing52
+    2301392: Middle_Railing53
+    2301394: Middle_Railing54
+    2301396: Middle_Railing55
+    2301398: Middle_Railing56
+    2301400: Middle_Railing57
+    2301402: Middle_Railing58
+    2301404: Middle_Railing59
+    2301406: Middle_Railing6
+    2301408: Middle_Railing60
+    2301410: Middle_Railing61
+    2301412: Middle_Railing62
+    2301414: Middle_Railing63
+    2301416: Middle_Railing64
+    2301418: Middle_Railing65
+    2301420: Middle_Railing66
+    2301422: Middle_Railing67
+    2301424: Middle_Railing68
+    2301426: Middle_Railing69
+    2301428: Middle_Railing7
+    2301430: Middle_Railing70
+    2301432: Middle_Railing71
+    2301434: Middle_Railing72
+    2301436: Middle_Railing73
+    2301438: Middle_Railing8
+    2301440: Middle_Railing9
+    2301442: NavMesh
+    2301444: NineTBend
+    2301446: NineTBend 1
+    2301448: NineTBend 2
+    2301450: NineTBend 3
+    2301452: NineTBend1
+    2301454: NineTBend1 1
+    2301456: NineTBend1 2
+    2301458: NineTBend1 3
+    2301460: NineTBend10
+    2301462: NineTBend10 1
+    2301464: NineTBend10 2
+    2301466: NineTBend10 3
+    2301468: NineTBend11
+    2301470: NineTBend11 1
+    2301472: NineTBend11 2
+    2301474: NineTBend11 3
+    2301476: NineTBend12
+    2301478: NineTBend12 1
+    2301480: NineTBend12 2
+    2301482: NineTBend12 3
+    2301484: NineTBend13
+    2301486: NineTBend13 1
+    2301488: NineTBend13 2
+    2301490: NineTBend13 3
+    2301492: NineTBend14
+    2301494: NineTBend14 1
+    2301496: NineTBend14 2
+    2301498: NineTBend14 3
+    2301500: NineTBend15
+    2301502: NineTBend15 1
+    2301504: NineTBend15 2
+    2301506: NineTBend15 3
+    2301508: NineTBend16
+    2301510: NineTBend16 1
+    2301512: NineTBend16 2
+    2301514: NineTBend16 3
+    2301516: NineTBend17
+    2301518: NineTBend17 1
+    2301520: NineTBend17 2
+    2301522: NineTBend17 3
+    2301524: NineTBend18
+    2301526: NineTBend18 1
+    2301528: NineTBend18 2
+    2301530: NineTBend18 3
+    2301532: NineTBend19
+    2301534: NineTBend19 1
+    2301536: NineTBend19 2
+    2301538: NineTBend19 3
+    2301540: NineTBend2
+    2301542: NineTBend2 1
+    2301544: NineTBend2 2
+    2301546: NineTBend2 3
+    2301548: NineTBend20
+    2301550: NineTBend20 1
+    2301552: NineTBend20 2
+    2301554: NineTBend20 3
+    2301556: NineTBend21
+    2301558: NineTBend21 1
+    2301560: NineTBend21 2
+    2301562: NineTBend21 3
+    2301564: NineTBend22
+    2301566: NineTBend22 1
+    2301568: NineTBend22 2
+    2301570: NineTBend22 3
+    2301572: NineTBend23
+    2301574: NineTBend23 1
+    2301576: NineTBend23 2
+    2301578: NineTBend23 3
+    2301580: NineTBend24
+    2301582: NineTBend24 1
+    2301584: NineTBend24 2
+    2301586: NineTBend24 3
+    2301588: NineTBend25
+    2301590: NineTBend25 1
+    2301592: NineTBend25 2
+    2301594: NineTBend3
+    2301596: NineTBend3 1
+    2301598: NineTBend3 2
+    2301600: NineTBend3 3
+    2301602: NineTBend4
+    2301604: NineTBend4 1
+    2301606: NineTBend4 2
+    2301608: NineTBend4 3
+    2301610: NineTBend5
+    2301612: NineTBend5 1
+    2301614: NineTBend5 2
+    2301616: NineTBend5 3
+    2301618: NineTBend6
+    2301620: NineTBend6 1
+    2301622: NineTBend6 2
+    2301624: NineTBend6 3
+    2301626: NineTBend7
+    2301628: NineTBend7 1
+    2301630: NineTBend7 2
+    2301632: NineTBend7 3
+    2301634: NineTBend8
+    2301636: NineTBend8 1
+    2301638: NineTBend8 2
+    2301640: NineTBend8 3
+    2301642: NineTBend9
+    2301644: NineTBend9 1
+    2301646: NineTBend9 2
+    2301648: NineTBend9 3
+    2301650: OrigStairs
+    2301652: Pillars
+    2301654: PipeBendSet:NineTBend
+    2301656: polySurface1
+    2301658: polySurface1 1
+    2301660: polySurface10
+    2301662: polySurface11
+    2301664: polySurface12
+    2301666: polySurface13
+    2301668: polySurface14
+    2301670: polySurface15
+    2301672: polySurface16
+    2301674: polySurface17
+    2301676: polySurface18
+    2301678: polySurface19
+    2301680: polySurface2
+    2301682: polySurface20
+    2301684: polySurface21
+    2301686: polySurface22
+    2301688: polySurface23
+    2301690: polySurface24
+    2301692: polySurface25
+    2301694: polySurface26
+    2301696: polySurface27
+    2301698: polySurface28
+    2301700: polySurface29
+    2301702: polySurface30
+    2301704: polySurface31
+    2301706: polySurface32
+    2301708: polySurface33
+    2301710: polySurface34
+    2301712: polySurface35
+    2301714: polySurface36
+    2301716: polySurface37
+    2301718: polySurface38
+    2301720: polySurface39
+    2301722: polySurface4
+    2301724: polySurface40
+    2301726: polySurface41
+    2301728: polySurface42
+    2301730: polySurface43
+    2301732: polySurface44
+    2301734: polySurface45
+    2301736: polySurface46
+    2301738: polySurface47
+    2301740: polySurface48
+    2301742: polySurface49
+    2301744: polySurface5
+    2301746: polySurface50
+    2301748: polySurface51
+    2301750: polySurface52
+    2301752: polySurface53
+    2301754: polySurface54
+    2301756: polySurface55
+    2301758: polySurface56
+    2301760: polySurface57
+    2301762: polySurface58
+    2301764: polySurface59
+    2301766: polySurface6
+    2301768: polySurface60
+    2301770: polySurface61
+    2301772: polySurface62
+    2301774: polySurface63
+    2301776: polySurface64
+    2301778: polySurface65
+    2301780: polySurface66
+    2301782: polySurface67
+    2301784: polySurface68
+    2301786: polySurface7
+    2301788: polySurface8
+    2301790: polySurface9
+    2301792: Railing_Hite:End_Railing
+    2301794: Railing_Hite:Middle_Railing
+    2301796: Railing_Hite:polySurface66
+    2301798: Railing_Hite:Straight_Railing
+    2301800: Railing_Hite:WallEnd_Railing
+    2301802: RailingCorner_Hite:Corner_Railing
+    2301804: RecyclingCan_Var1_Hite:polySurface1
+    2301806: RightElevator
+    2301808: Roof
+    2301810: RoundRecBin_Hite:RoundRecyclingBinBase
+    2301812: RoundRecBin_Hite:RoundRecyclingBinLid
+    2301814: RoundRecyclingBinBase
+    2301816: RoundRecyclingBinBase 1
+    2301818: RoundRecyclingBinBase 10
+    2301820: RoundRecyclingBinBase 11
+    2301822: RoundRecyclingBinBase 12
+    2301824: RoundRecyclingBinBase 13
+    2301826: RoundRecyclingBinBase 14
+    2301828: RoundRecyclingBinBase 2
+    2301830: RoundRecyclingBinBase 3
+    2301832: RoundRecyclingBinBase 4
+    2301834: RoundRecyclingBinBase 5
+    2301836: RoundRecyclingBinBase 6
+    2301838: RoundRecyclingBinBase 7
+    2301840: RoundRecyclingBinBase 8
+    2301842: RoundRecyclingBinBase 9
+    2301844: RoundRecyclingBinLid
+    2301846: RoundRecyclingBinLid 1
+    2301848: RoundRecyclingBinLid 10
+    2301850: RoundRecyclingBinLid 11
+    2301852: RoundRecyclingBinLid 12
+    2301854: RoundRecyclingBinLid 13
+    2301856: RoundRecyclingBinLid 14
+    2301858: RoundRecyclingBinLid 2
+    2301860: RoundRecyclingBinLid 3
+    2301862: RoundRecyclingBinLid 4
+    2301864: RoundRecyclingBinLid 5
+    2301866: RoundRecyclingBinLid 6
+    2301868: RoundRecyclingBinLid 7
+    2301870: RoundRecyclingBinLid 8
+    2301872: RoundRecyclingBinLid 9
+    2301874: StairsEastAux
+    2301876: StairsMainLobby
+    2301878: StairsWestAux
+    2301880: Straight_Railing
+    2301882: Straight_Railing1
+    2301884: Straight_Railing10
+    2301886: Straight_Railing11
+    2301888: Straight_Railing12
+    2301890: Straight_Railing13
+    2301892: Straight_Railing14
+    2301894: Straight_Railing15
+    2301896: Straight_Railing16
+    2301898: Straight_Railing17
+    2301900: Straight_Railing18
+    2301902: Straight_Railing19
+    2301904: Straight_Railing20
+    2301906: Straight_Railing21
+    2301908: Straight_Railing22
+    2301910: Straight_Railing23
+    2301912: Straight_Railing24
+    2301914: Straight_Railing25
+    2301916: Straight_Railing25 1
+    2301918: Straight_Railing26
+    2301920: Straight_Railing26 1
+    2301922: Straight_Railing27
+    2301924: Straight_Railing28
+    2301926: Straight_Railing29
+    2301928: Straight_Railing3
+    2301930: Straight_Railing3 1
+    2301932: Straight_Railing30
+    2301934: Straight_Railing31
+    2301936: Straight_Railing32
+    2301938: Straight_Railing33
+    2301940: Straight_Railing34
+    2301942: Straight_Railing35
+    2301944: Straight_Railing36
+    2301946: Straight_Railing38
+    2301948: Straight_Railing38 1
+    2301950: Straight_Railing39
+    2301952: Straight_Railing39 1
+    2301954: Straight_Railing4
+    2301956: Straight_Railing4 1
+    2301958: Straight_Railing4 2
+    2301960: Straight_Railing40
+    2301962: Straight_Railing40 1
+    2301964: Straight_Railing41
+    2301966: Straight_Railing41 1
+    2301968: Straight_Railing42
+    2301970: Straight_Railing42 1
+    2301972: Straight_Railing43
+    2301974: Straight_Railing43 1
+    2301976: Straight_Railing44
+    2301978: Straight_Railing45
+    2301980: Straight_Railing46
+    2301982: Straight_Railing47
+    2301984: Straight_Railing48
+    2301986: Straight_Railing49
+    2301988: Straight_Railing5
+    2301990: Straight_Railing50
+    2301992: Straight_Railing51
+    2301994: Straight_Railing52
+    2301996: Straight_Railing53
+    2301998: Straight_Railing54
+    2302000: Straight_Railing55
+    2302002: Straight_Railing56
+    2302004: Straight_Railing57
+    2302006: Straight_Railing58
+    2302008: Straight_Railing59
+    2302010: Straight_Railing6
+    2302012: Straight_Railing60
+    2302014: Straight_Railing61
+    2302016: Straight_Railing62
+    2302018: Straight_Railing63
+    2302020: Straight_Railing64
+    2302022: Straight_Railing65
+    2302024: Straight_Railing66
+    2302026: Straight_Railing67
+    2302028: Straight_Railing68
+    2302030: Straight_Railing69
+    2302032: Straight_Railing7
+    2302034: Straight_Railing70
+    2302036: Straight_Railing71
+    2302038: Straight_Railing72
+    2302040: Straight_Railing73
+    2302042: Straight_Railing74
+    2302044: Straight_Railing75
+    2302046: Straight_Railing76
+    2302048: Straight_Railing77
+    2302050: Straight_Railing78
+    2302052: Straight_Railing79
+    2302054: Straight_Railing8
+    2302056: Straight_Railing80
+    2302058: Straight_Railing81
+    2302060: Straight_Railing82
+    2302062: Straight_Railing83
+    2302064: Straight_Railing84
+    2302066: Straight_Railing85
+    2302068: Straight_Railing86
+    2302070: Straight_Railing87
+    2302072: Straight_Railing88
+    2302074: Straight_Railing89
+    2302076: Straight_Railing9
+    2302078: Straight_Railing90
+    2302080: Straight_Railing91
+    2302082: Straight_Railing92
+    2302084: Straight_Railing93
+    2302086: Straight_Railing94
+    2302088: Straight_Railing95
+    2302090: Straight_Railing96
+    2302092: Straight_Railing97
+    2302094: WallEnd_Railing1
+    2302096: WallEnd_Railing10
+    2302098: WallEnd_Railing10 1
+    2302100: WallEnd_Railing11
+    2302102: WallEnd_Railing11 1
+    2302104: WallEnd_Railing12
+    2302106: WallEnd_Railing12 1
+    2302108: WallEnd_Railing13
+    2302110: WallEnd_Railing14
+    2302112: WallEnd_Railing15
+    2302114: WallEnd_Railing16
+    2302116: WallEnd_Railing17
+    2302118: WallEnd_Railing18
+    2302120: WallEnd_Railing19
+    2302122: WallEnd_Railing20
+    2302124: WallEnd_Railing21
+    2302126: WallEnd_Railing3
+    2302128: WallEnd_Railing4
+    2302130: WallEnd_Railing4 1
+    2302132: WallEnd_Railing4 2
+    2302134: WallEnd_Railing6
+    2302136: WallEnd_Railing7
+    2302138: WallEnd_Railing8
+    2302140: WallEnd_Railing9
+    3300000: AuxBigPipe_Hite:AuxBigPipe_FloorCon
+    3300002: AuxBigPipe_Hite:AuxBigPipe_PipeCon
+    3300004: AuxBigPipe_Hite:AuxBigPipe_Straight
+    3300006: AuxBigPipe_PipeCon
+    3300008: AuxBigPipe_Straight
+    3300010: AuxBigPipe_Straight1
+    3300012: BathRoomInfoSign_Hite:BathroomInfoSign_Pole
+    3300014: BathRoomInfoSign_Hite:BathroomInfoSign_Sign
+    3300016: BathroomInfoSign_Pole
+    3300018: BathroomInfoSign_Pole 1
+    3300020: BathroomInfoSign_Pole 2
+    3300022: BathroomInfoSign_Pole 3
+    3300024: BathroomInfoSign_Pole 4
+    3300026: BathroomInfoSign_Pole 5
+    3300028: BathroomInfoSign_Pole 6
+    3300030: BathroomInfoSign_Sign
+    3300032: BathroomInfoSign_Sign 1
+    3300034: BathroomInfoSign_Sign 2
+    3300036: BathroomInfoSign_Sign 3
+    3300038: BathroomInfoSign_Sign 4
+    3300040: BathroomInfoSign_Sign 5
+    3300042: BathroomInfoSign_Sign 6
+    3300044: CeilingLight_Var2_Base
+    3300046: CeilingLight_Var2_Base 1
+    3300048: CeilingLight_Var2_Base 2
+    3300050: CeilingLight_Var2_Base 3
+    3300052: CeilingLight_Var2_Base 4
+    3300054: CeilingLight_Var2_Base 5
+    3300056: CeilingLight_Var2_Base 6
+    3300058: CeilingLight_Var2_Hite:CeilingLight_Var2_Base
+    3300060: CeilingLight_Var2_Hite:CeilingLight_Var2_Mount
+    3300062: CeilingLight_Var2_Hite:CeilingLight_Var2_Poles
+    3300064: CeilingLight_Var2_Hite:CeilingLight_Var2_Slats
+    3300066: CeilingLight_Var2_Mount
+    3300068: CeilingLight_Var2_Mount 1
+    3300070: CeilingLight_Var2_Mount 2
+    3300072: CeilingLight_Var2_Mount 3
+    3300074: CeilingLight_Var2_Mount 4
+    3300076: CeilingLight_Var2_Mount 5
+    3300078: CeilingLight_Var2_Mount 6
+    3300080: CeilingLight_Var2_Mount1
+    3300082: CeilingLight_Var2_Mount1 1
+    3300084: CeilingLight_Var2_Poles
+    3300086: CeilingLight_Var2_Poles 1
+    3300088: CeilingLight_Var2_Poles 2
+    3300090: CeilingLight_Var2_Poles 3
+    3300092: CeilingLight_Var2_Poles 4
+    3300094: CeilingLight_Var2_Poles 5
+    3300096: CeilingLight_Var2_Poles 6
+    3300098: CeilingLight_Var2_Poles1
+    3300100: CeilingLight_Var2_Poles1 1
+    3300102: CeilingLight_Var2_Slats
+    3300104: CeilingLight_Var2_Slats 1
+    3300106: CeilingLight_Var2_Slats 2
+    3300108: CeilingLight_Var2_Slats 3
+    3300110: CeilingLight_Var2_Slats 4
+    3300112: CeilingLight_Var2_Slats 5
+    3300114: CeilingLight_Var2_Slats 6
+    3300116: CenterPieceChip
+    3300118: Clock_Base
+    3300120: Clock_Base 1
+    3300122: Clock_Base 2
+    3300124: Clock_HandPin
+    3300126: Clock_HandPin 1
+    3300128: Clock_HandPin 2
+    3300130: Clock_Hite:Clock_Base
+    3300132: Clock_Hite:Clock_HandPin
+    3300134: Clock_Hite:Clock_HourHand
+    3300136: Clock_Hite:Clock_MinuteHand
+    3300138: Clock_Hite:Clock_SecondHand
+    3300140: Clock_Hite:Clock_Shield
+    3300142: Clock_HourHand
+    3300144: Clock_HourHand 1
+    3300146: Clock_HourHand 2
+    3300148: Clock_MinuteHand
+    3300150: Clock_MinuteHand 1
+    3300152: Clock_MinuteHand 2
+    3300154: Clock_SecondHand
+    3300156: Clock_SecondHand 1
+    3300158: Clock_SecondHand 2
+    3300160: Clock_Shield
+    3300162: Clock_Shield 1
+    3300164: Clock_Shield 2
+    3300166: Corner_Railing
+    3300168: Corner_Railing1
+    3300170: Corner_Railing2
+    3300172: Corner_Railing3
+    3300174: Corner_Railing4
+    3300176: Corner_Railing5
+    3300178: CS_Building1
+    3300180: CS_Building_Door:polySurface1
+    3300182: CylintricalDesk_Hite:CylinDesk_Support1
+    3300184: CylintricalDesk_Hite:CylinDesk_Support2
+    3300186: CylintricalDesk_Hite:CylinDesk_Support3
+    3300188: CylintricalDesk_Hite:CylinDesk_TableTop
+    3300190: ElevatorBtnPanel_DownBtn
+    3300192: ElevatorBtnPanel_DownBtn 1
+    3300194: ElevatorBtnPanel_DownBtn 2
+    3300196: ElevatorBtnPanel_DownBtn 3
+    3300198: ElevatorBtnPanel_DownBtn 4
+    3300200: ElevatorBtnPanel_DownBtn 5
+    3300202: ElevatorBtnPanel_DownBtn 6
+    3300204: ElevatorBtnPanel_Hite:ElevatorBtnPanel_DownBtn
+    3300206: ElevatorBtnPanel_Hite:ElevatorBtnPanel_Panel
+    3300208: ElevatorBtnPanel_Hite:ElevatorBtnPanel_UpBtn
+    3300210: ElevatorBtnPanel_Panel
+    3300212: ElevatorBtnPanel_Panel 1
+    3300214: ElevatorBtnPanel_Panel 2
+    3300216: ElevatorBtnPanel_Panel 3
+    3300218: ElevatorBtnPanel_Panel 4
+    3300220: ElevatorBtnPanel_Panel 5
+    3300222: ElevatorBtnPanel_Panel 6
+    3300224: ElevatorBtnPanel_UpBtn
+    3300226: ElevatorBtnPanel_UpBtn 1
+    3300228: ElevatorBtnPanel_UpBtn 2
+    3300230: ElevatorBtnPanel_UpBtn 3
+    3300232: ElevatorBtnPanel_UpBtn 4
+    3300234: ElevatorBtnPanel_UpBtn 5
+    3300236: ElevatorBtnPanel_UpBtn 6
+    3300238: ElevatorTubes
+    3300240: End_Railing
+    3300242: End_Railing1
+    3300244: End_Railing10
+    3300246: End_Railing2
+    3300248: End_Railing2 1
+    3300250: End_Railing3
+    3300252: End_Railing4
+    3300254: End_Railing5
+    3300256: End_Railing6
+    3300258: End_Railing7
+    3300260: End_Railing8
+    3300262: End_Railing9
+    3300264: FlyerWallMount_Hite:pCube1
+    3300266: FlyerWallMount_Hite:pCube12
+    3300268: FlyerWallMount_Hite:pPlane1
+    3300270: FrameBkp
+    3300272: FrameBkp 1
+    3300274: FrameBkp 10
+    3300276: FrameBkp 11
+    3300278: FrameBkp 12
+    3300280: FrameBkp 13
+    3300282: FrameBkp 14
+    3300284: FrameBkp 15
+    3300286: FrameBkp 16
+    3300288: FrameBkp 17
+    3300290: FrameBkp 18
+    3300292: FrameBkp 19
+    3300294: FrameBkp 2
+    3300296: FrameBkp 20
+    3300298: FrameBkp 21
+    3300300: FrameBkp 22
+    3300302: FrameBkp 3
+    3300304: FrameBkp 4
+    3300306: FrameBkp 5
+    3300308: FrameBkp 6
+    3300310: FrameBkp 7
+    3300312: FrameBkp 8
+    3300314: FrameBkp 9
+    3300316: InfoFlag_Bolts
+    3300318: InfoFlag_Bolts 1
+    3300320: InfoFlag_Bolts 2
+    3300322: InfoFlag_Bolts 3
+    3300324: InfoFlag_Flag
+    3300326: InfoFlag_Flag 1
+    3300328: InfoFlag_Flag 2
+    3300330: InfoFlag_Flag 3
+    3300332: InfoFlag_Hite:InfoFlag_Bolts
+    3300334: InfoFlag_Hite:InfoFlag_Flag
+    3300336: InfoSign_Hite:InfoSign_Base
+    3300338: InfoSign_Hite:InfoSign_Face
+    3300340: InfoSign_Hite:InfoSign_Flag
+    3300342: InfoSign_Hite:InfoSign_Supports
+    3300344: LeftElevator
+    3300346: MainFloorBigPipe_Hite:MFBigPipe_Cap
+    3300348: MainFloorBigPipe_Hite:MFBigPipe_FloorCon
+    3300350: MainFloorBigPipe_Hite:MFBigPipe_PipeCon
+    3300352: MainFloorBigPipe_Hite:MFBigPipe_Straight
+    3300354: MainFloorBigPipe_Hite:MFBigPipe_WallCon
+    3300356: MetalDoor_Var1_Frame
+    3300358: MetalDoor_Var1_Frame 1
+    3300360: MetalDoor_Var1_Frame 10
+    3300362: MetalDoor_Var1_Frame 11
+    3300364: MetalDoor_Var1_Frame 12
+    3300366: MetalDoor_Var1_Frame 13
+    3300368: MetalDoor_Var1_Frame 14
+    3300370: MetalDoor_Var1_Frame 15
+    3300372: MetalDoor_Var1_Frame 16
+    3300374: MetalDoor_Var1_Frame 2
+    3300376: MetalDoor_Var1_Frame 3
+    3300378: MetalDoor_Var1_Frame 4
+    3300380: MetalDoor_Var1_Frame 5
+    3300382: MetalDoor_Var1_Frame 6
+    3300384: MetalDoor_Var1_Frame 7
+    3300386: MetalDoor_Var1_Frame 8
+    3300388: MetalDoor_Var1_Frame 9
+    3300390: MetalDoor_Var1_Frame1
+    3300392: MetalDoor_Var1_Frame1 1
+    3300394: MetalDoor_Var1_Frame1 2
+    3300396: MetalDoor_Var1_Frame1 3
+    3300398: MetalDoor_Var1_Frame1 4
+    3300400: MetalDoor_Var1_Frame1 5
+    3300402: MetalDoor_Var1_Handle
+    3300404: MetalDoor_Var1_Handle 1
+    3300406: MetalDoor_Var1_Handle 10
+    3300408: MetalDoor_Var1_Handle 11
+    3300410: MetalDoor_Var1_Handle 12
+    3300412: MetalDoor_Var1_Handle 13
+    3300414: MetalDoor_Var1_Handle 14
+    3300416: MetalDoor_Var1_Handle 15
+    3300418: MetalDoor_Var1_Handle 16
+    3300420: MetalDoor_Var1_Handle 2
+    3300422: MetalDoor_Var1_Handle 3
+    3300424: MetalDoor_Var1_Handle 4
+    3300426: MetalDoor_Var1_Handle 5
+    3300428: MetalDoor_Var1_Handle 6
+    3300430: MetalDoor_Var1_Handle 7
+    3300432: MetalDoor_Var1_Handle 8
+    3300434: MetalDoor_Var1_Handle 9
+    3300436: MetalDoor_Var1_Handle1
+    3300438: MetalDoor_Var1_Handle1 1
+    3300440: MetalDoor_Var1_Handle1 2
+    3300442: MetalDoor_Var1_Handle1 3
+    3300444: MetalDoor_Var1_Handle1 4
+    3300446: MetalDoor_Var1_Handle1 5
+    3300448: MetalDoor_Var1_Hite:FrameBkp
+    3300450: MetalDoor_Var1_Hite:MetalDoor_Var1_Frame
+    3300452: MetalDoor_Var1_Hite:MetalDoor_Var1_Handle
+    3300454: MetalDoor_Var1_Hite:MetalDoor_Var1_PullH
+    3300456: MetalDoor_Var1_Hite:MetalDoor_Var1_PushH
+    3300458: MetalDoor_Var1_PullH
+    3300460: MetalDoor_Var1_PullH 1
+    3300462: MetalDoor_Var1_PullH 10
+    3300464: MetalDoor_Var1_PullH 11
+    3300466: MetalDoor_Var1_PullH 12
+    3300468: MetalDoor_Var1_PullH 13
+    3300470: MetalDoor_Var1_PullH 14
+    3300472: MetalDoor_Var1_PullH 15
+    3300474: MetalDoor_Var1_PullH 16
+    3300476: MetalDoor_Var1_PullH 2
+    3300478: MetalDoor_Var1_PullH 3
+    3300480: MetalDoor_Var1_PullH 4
+    3300482: MetalDoor_Var1_PullH 5
+    3300484: MetalDoor_Var1_PullH 6
+    3300486: MetalDoor_Var1_PullH 7
+    3300488: MetalDoor_Var1_PullH 8
+    3300490: MetalDoor_Var1_PullH 9
+    3300492: MetalDoor_Var1_PullH1
+    3300494: MetalDoor_Var1_PullH1 1
+    3300496: MetalDoor_Var1_PullH1 2
+    3300498: MetalDoor_Var1_PullH1 3
+    3300500: MetalDoor_Var1_PullH1 4
+    3300502: MetalDoor_Var1_PullH1 5
+    3300504: MetalDoor_Var1_PushH
+    3300506: MetalDoor_Var1_PushH 1
+    3300508: MetalDoor_Var1_PushH 10
+    3300510: MetalDoor_Var1_PushH 11
+    3300512: MetalDoor_Var1_PushH 12
+    3300514: MetalDoor_Var1_PushH 13
+    3300516: MetalDoor_Var1_PushH 14
+    3300518: MetalDoor_Var1_PushH 15
+    3300520: MetalDoor_Var1_PushH 16
+    3300522: MetalDoor_Var1_PushH 2
+    3300524: MetalDoor_Var1_PushH 3
+    3300526: MetalDoor_Var1_PushH 4
+    3300528: MetalDoor_Var1_PushH 5
+    3300530: MetalDoor_Var1_PushH 6
+    3300532: MetalDoor_Var1_PushH 7
+    3300534: MetalDoor_Var1_PushH 8
+    3300536: MetalDoor_Var1_PushH 9
+    3300538: MetalDoor_Var1_PushH1
+    3300540: MetalDoor_Var1_PushH1 1
+    3300542: MetalDoor_Var1_PushH1 2
+    3300544: MetalDoor_Var1_PushH1 3
+    3300546: MetalDoor_Var1_PushH1 4
+    3300548: MetalDoor_Var1_PushH1 5
+    3300550: MetalFrame_ConVarStright
+    3300552: MetalFrame_ConVarStright 1
+    3300554: MetalFrame_ConVarStright 2
+    3300556: MetalFrame_ConVarStright 3
+    3300558: MetalFrame_ConVarStright 4
+    3300560: MetalFrame_Cross
+    3300562: MetalFrame_Cross 1
+    3300564: MetalFrame_Cross 2
+    3300566: MetalFrame_Cross 3
+    3300568: MetalFrame_Cross 4
+    3300570: MetalFrame_Cross 5
+    3300572: MetalFrame_Cross1
+    3300574: MetalFrame_Cross1 1
+    3300576: MetalFrame_Cross1 2
+    3300578: MetalFrame_Cross1 3
+    3300580: MetalFrame_Cross1 4
+    3300582: MetalFrame_Cross1 5
+    3300584: MetalFrame_Cross2
+    3300586: MetalFrame_Cross2 1
+    3300588: MetalFrame_Cross2 2
+    3300590: MetalFrame_Cross2 3
+    3300592: MetalFrame_Cross2 4
+    3300594: MetalFrame_Cross2 5
+    3300596: MetalFrame_Cross3
+    3300598: MetalFrame_Cross3 1
+    3300600: MetalFrame_Cross3 2
+    3300602: MetalFrame_Cross3 3
+    3300604: MetalFrame_Cross3 4
+    3300606: MetalFrame_Cross3 5
+    3300608: MetalFrame_Cross4
+    3300610: MetalFrame_Cross4 1
+    3300612: MetalFrame_Cross4 2
+    3300614: MetalFrame_Cross4 3
+    3300616: MetalFrame_Cross4 4
+    3300618: MetalFrame_Cross4 5
+    3300620: MetalFrame_Cross5
+    3300622: MetalFrame_Cross5 1
+    3300624: MetalFrame_Cross5 2
+    3300626: MetalFrame_Cross5 3
+    3300628: MetalFrame_Cross5 4
+    3300630: MetalFrame_Cross5 5
+    3300632: MetalFrame_Cross6
+    3300634: MetalFrame_Cross6 1
+    3300636: MetalFrame_Cross6 2
+    3300638: MetalFrame_Cross6 3
+    3300640: MetalFrame_Cross6 4
+    3300642: MetalFrame_DbleStraight
+    3300644: MetalFrame_DbleStraight 1
+    3300646: MetalFrame_DbleStraight 2
+    3300648: MetalFrame_DbleStraight 3
+    3300650: MetalFrame_DbleStraight 4
+    3300652: MetalFrame_DbleStraight 5
+    3300654: MetalFrame_DbleStraight2
+    3300656: MetalFrame_DbleStraight2 1
+    3300658: MetalFrame_DbleStraight2 2
+    3300660: MetalFrame_DbleStraight2 3
+    3300662: MetalFrame_DbleStraight2 4
+    3300664: MetalFrame_DbleStraight2 5
+    3300666: MetalFrame_DbleStraight3
+    3300668: MetalFrame_DbleStraight3 1
+    3300670: MetalFrame_DbleStraight3 2
+    3300672: MetalFrame_DbleStraight3 3
+    3300674: MetalFrame_DbleStraight3 4
+    3300676: MetalFrame_DbleStraight3 5
+    3300678: MetalFrame_DbleStraight4
+    3300680: MetalFrame_DbleStraight4 1
+    3300682: MetalFrame_DbleStraight4 2
+    3300684: MetalFrame_DbleStraight4 3
+    3300686: MetalFrame_DbleStraight4 4
+    3300688: MetalFrame_DbleStraight4 5
+    3300690: MetalFrame_DbleStraight5
+    3300692: MetalFrame_DbleStraight5 1
+    3300694: MetalFrame_DbleStraight5 2
+    3300696: MetalFrame_DbleStraight5 3
+    3300698: MetalFrame_DbleStraight5 4
+    3300700: MetalFrame_Hite:MetalFrame_ConVarStright
+    3300702: MetalFrame_Hite:MetalFrame_Cross
+    3300704: MetalFrame_Hite:MetalFrame_DbleStraight
+    3300706: MetalFrame_Hite:MetalFrame_L
+    3300708: MetalFrame_Hite:MetalFrame_Straight
+    3300710: MetalFrame_Hite:MetalFrame_T
+    3300712: MetalFrame_L
+    3300714: MetalFrame_L 1
+    3300716: MetalFrame_L 2
+    3300718: MetalFrame_L 3
+    3300720: MetalFrame_L 4
+    3300722: MetalFrame_L 5
+    3300724: MetalFrame_L1
+    3300726: MetalFrame_L1 1
+    3300728: MetalFrame_L1 2
+    3300730: MetalFrame_L1 3
+    3300732: MetalFrame_L1 4
+    3300734: MetalFrame_L1 5
+    3300736: MetalFrame_L2
+    3300738: MetalFrame_L2 1
+    3300740: MetalFrame_L2 2
+    3300742: MetalFrame_L2 3
+    3300744: MetalFrame_L2 4
+    3300746: MetalFrame_L2 5
+    3300748: MetalFrame_L3
+    3300750: MetalFrame_L3 1
+    3300752: MetalFrame_L3 2
+    3300754: MetalFrame_L3 3
+    3300756: MetalFrame_L3 4
+    3300758: MetalFrame_L3 5
+    3300760: MetalFrame_L4
+    3300762: MetalFrame_L4 1
+    3300764: MetalFrame_L4 2
+    3300766: MetalFrame_L4 3
+    3300768: MetalFrame_L4 4
+    3300770: MetalFrame_L4 5
+    3300772: MetalFrame_L5
+    3300774: MetalFrame_L5 1
+    3300776: MetalFrame_L5 2
+    3300778: MetalFrame_L5 3
+    3300780: MetalFrame_L5 4
+    3300782: MetalFrame_L5 5
+    3300784: MetalFrame_L6
+    3300786: MetalFrame_L6 1
+    3300788: MetalFrame_L6 2
+    3300790: MetalFrame_L6 3
+    3300792: MetalFrame_L6 4
+    3300794: MetalFrame_L6 5
+    3300796: MetalFrame_L7
+    3300798: MetalFrame_L7 1
+    3300800: MetalFrame_L7 2
+    3300802: MetalFrame_L7 3
+    3300804: MetalFrame_L7 4
+    3300806: MetalFrame_L7 5
+    3300808: MetalFrame_L8
+    3300810: MetalFrame_L8 1
+    3300812: MetalFrame_L8 2
+    3300814: MetalFrame_L8 3
+    3300816: MetalFrame_L8 4
+    3300818: MetalFrame_Straight
+    3300820: MetalFrame_Straight 1
+    3300822: MetalFrame_Straight 2
+    3300824: MetalFrame_Straight 3
+    3300826: MetalFrame_Straight 4
+    3300828: MetalFrame_T
+    3300830: MetalFrame_T 1
+    3300832: MetalFrame_T 2
+    3300834: MetalFrame_T 3
+    3300836: MetalFrame_T 4
+    3300838: MetalFrame_T 5
+    3300840: MetalFrame_T1
+    3300842: MetalFrame_T1 1
+    3300844: MetalFrame_T1 2
+    3300846: MetalFrame_T1 3
+    3300848: MetalFrame_T1 4
+    3300850: MetalFrame_T1 5
+    3300852: MetalFrame_T10
+    3300854: MetalFrame_T10 1
+    3300856: MetalFrame_T10 2
+    3300858: MetalFrame_T10 3
+    3300860: MetalFrame_T10 4
+    3300862: MetalFrame_T10 5
+    3300864: MetalFrame_T11
+    3300866: MetalFrame_T11 1
+    3300868: MetalFrame_T11 2
+    3300870: MetalFrame_T11 3
+    3300872: MetalFrame_T11 4
+    3300874: MetalFrame_T11 5
+    3300876: MetalFrame_T12
+    3300878: MetalFrame_T12 1
+    3300880: MetalFrame_T12 2
+    3300882: MetalFrame_T12 3
+    3300884: MetalFrame_T12 4
+    3300886: MetalFrame_T12 5
+    3300888: MetalFrame_T13
+    3300890: MetalFrame_T13 1
+    3300892: MetalFrame_T13 2
+    3300894: MetalFrame_T13 3
+    3300896: MetalFrame_T13 4
+    3300898: MetalFrame_T13 5
+    3300900: MetalFrame_T14
+    3300902: MetalFrame_T14 1
+    3300904: MetalFrame_T14 2
+    3300906: MetalFrame_T14 3
+    3300908: MetalFrame_T14 4
+    3300910: MetalFrame_T14 5
+    3300912: MetalFrame_T15
+    3300914: MetalFrame_T15 1
+    3300916: MetalFrame_T15 2
+    3300918: MetalFrame_T15 3
+    3300920: MetalFrame_T15 4
+    3300922: MetalFrame_T15 5
+    3300924: MetalFrame_T16
+    3300926: MetalFrame_T16 1
+    3300928: MetalFrame_T16 2
+    3300930: MetalFrame_T16 3
+    3300932: MetalFrame_T16 4
+    3300934: MetalFrame_T16 5
+    3300936: MetalFrame_T17
+    3300938: MetalFrame_T17 1
+    3300940: MetalFrame_T17 2
+    3300942: MetalFrame_T17 3
+    3300944: MetalFrame_T17 4
+    3300946: MetalFrame_T2
+    3300948: MetalFrame_T2 1
+    3300950: MetalFrame_T2 2
+    3300952: MetalFrame_T2 3
+    3300954: MetalFrame_T2 4
+    3300956: MetalFrame_T2 5
+    3300958: MetalFrame_T3
+    3300960: MetalFrame_T3 1
+    3300962: MetalFrame_T3 2
+    3300964: MetalFrame_T3 3
+    3300966: MetalFrame_T3 4
+    3300968: MetalFrame_T3 5
+    3300970: MetalFrame_T4
+    3300972: MetalFrame_T4 1
+    3300974: MetalFrame_T4 2
+    3300976: MetalFrame_T4 3
+    3300978: MetalFrame_T4 4
+    3300980: MetalFrame_T4 5
+    3300982: MetalFrame_T5
+    3300984: MetalFrame_T5 1
+    3300986: MetalFrame_T5 2
+    3300988: MetalFrame_T5 3
+    3300990: MetalFrame_T5 4
+    3300992: MetalFrame_T5 5
+    3300994: MetalFrame_T6
+    3300996: MetalFrame_T6 1
+    3300998: MetalFrame_T6 2
+    3301000: MetalFrame_T6 3
+    3301002: MetalFrame_T6 4
+    3301004: MetalFrame_T6 5
+    3301006: MetalFrame_T7
+    3301008: MetalFrame_T7 1
+    3301010: MetalFrame_T7 2
+    3301012: MetalFrame_T7 3
+    3301014: MetalFrame_T7 4
+    3301016: MetalFrame_T7 5
+    3301018: MetalFrame_T9
+    3301020: MetalFrame_T9 1
+    3301022: MetalFrame_T9 2
+    3301024: MetalFrame_T9 3
+    3301026: MetalFrame_T9 4
+    3301028: MetalFrame_T9 5
+    3301030: MFBigPipe_Cap
+    3301032: MFBigPipe_Cap 1
+    3301034: MFBigPipe_Cap 2
+    3301036: MFBigPipe_Connector1
+    3301038: MFBigPipe_Connector1 1
+    3301040: MFBigPipe_Connector1 2
+    3301042: MFBigPipe_Connector1 3
+    3301044: MFBigPipe_Connector10
+    3301046: MFBigPipe_Connector10 1
+    3301048: MFBigPipe_Connector10 2
+    3301050: MFBigPipe_Connector10 3
+    3301052: MFBigPipe_Connector11
+    3301054: MFBigPipe_Connector11 1
+    3301056: MFBigPipe_Connector11 2
+    3301058: MFBigPipe_Connector11 3
+    3301060: MFBigPipe_Connector12
+    3301062: MFBigPipe_Connector12 1
+    3301064: MFBigPipe_Connector12 2
+    3301066: MFBigPipe_Connector12 3
+    3301068: MFBigPipe_Connector13
+    3301070: MFBigPipe_Connector13 1
+    3301072: MFBigPipe_Connector13 2
+    3301074: MFBigPipe_Connector13 3
+    3301076: MFBigPipe_Connector14
+    3301078: MFBigPipe_Connector14 1
+    3301080: MFBigPipe_Connector14 2
+    3301082: MFBigPipe_Connector14 3
+    3301084: MFBigPipe_Connector15
+    3301086: MFBigPipe_Connector15 1
+    3301088: MFBigPipe_Connector15 2
+    3301090: MFBigPipe_Connector15 3
+    3301092: MFBigPipe_Connector16
+    3301094: MFBigPipe_Connector16 1
+    3301096: MFBigPipe_Connector16 2
+    3301098: MFBigPipe_Connector16 3
+    3301100: MFBigPipe_Connector17
+    3301102: MFBigPipe_Connector17 1
+    3301104: MFBigPipe_Connector17 2
+    3301106: MFBigPipe_Connector17 3
+    3301108: MFBigPipe_Connector18
+    3301110: MFBigPipe_Connector18 1
+    3301112: MFBigPipe_Connector18 2
+    3301114: MFBigPipe_Connector18 3
+    3301116: MFBigPipe_Connector19
+    3301118: MFBigPipe_Connector19 1
+    3301120: MFBigPipe_Connector19 2
+    3301122: MFBigPipe_Connector19 3
+    3301124: MFBigPipe_Connector20
+    3301126: MFBigPipe_Connector20 1
+    3301128: MFBigPipe_Connector20 2
+    3301130: MFBigPipe_Connector20 3
+    3301132: MFBigPipe_Connector21
+    3301134: MFBigPipe_Connector21 1
+    3301136: MFBigPipe_Connector21 2
+    3301138: MFBigPipe_Connector21 3
+    3301140: MFBigPipe_Connector22
+    3301142: MFBigPipe_Connector22 1
+    3301144: MFBigPipe_Connector22 2
+    3301146: MFBigPipe_Connector22 3
+    3301148: MFBigPipe_Connector23
+    3301150: MFBigPipe_Connector23 1
+    3301152: MFBigPipe_Connector23 2
+    3301154: MFBigPipe_Connector23 3
+    3301156: MFBigPipe_FloorCon
+    3301158: MFBigPipe_FloorCon 1
+    3301160: MFBigPipe_FloorCon 2
+    3301162: MFBigPipe_PipeCon
+    3301164: MFBigPipe_PipeCon 1
+    3301166: MFBigPipe_PipeCon 2
+    3301168: MFBigPipe_PipeCon3
+    3301170: MFBigPipe_PipeCon3 1
+    3301172: MFBigPipe_PipeCon3 2
+    3301174: MFBigPipe_PipeCon3 3
+    3301176: MFBigPipe_PipeCon4
+    3301178: MFBigPipe_PipeCon4 1
+    3301180: MFBigPipe_PipeCon4 2
+    3301182: MFBigPipe_PipeCon4 3
+    3301184: MFBigPipe_PipeCon5
+    3301186: MFBigPipe_PipeCon5 1
+    3301188: MFBigPipe_PipeCon5 2
+    3301190: MFBigPipe_PipeCon5 3
+    3301192: MFBigPipe_Straight
+    3301194: MFBigPipe_Straight 1
+    3301196: MFBigPipe_Straight 2
+    3301198: MFBigPipe_Straight 3
+    3301200: MFBigPipe_Straight1
+    3301202: MFBigPipe_Straight1 1
+    3301204: MFBigPipe_Straight1 2
+    3301206: MFBigPipe_Straight10
+    3301208: MFBigPipe_Straight10 1
+    3301210: MFBigPipe_Straight10 2
+    3301212: MFBigPipe_Straight10 3
+    3301214: MFBigPipe_Straight11
+    3301216: MFBigPipe_Straight11 1
+    3301218: MFBigPipe_Straight11 2
+    3301220: MFBigPipe_Straight11 3
+    3301222: MFBigPipe_Straight6
+    3301224: MFBigPipe_Straight6 1
+    3301226: MFBigPipe_Straight6 2
+    3301228: MFBigPipe_Straight6 3
+    3301230: MFBigPipe_Straight7
+    3301232: MFBigPipe_Straight7 1
+    3301234: MFBigPipe_Straight7 2
+    3301236: MFBigPipe_Straight7 3
+    3301238: MFBigPipe_Straight8
+    3301240: MFBigPipe_Straight8 1
+    3301242: MFBigPipe_Straight8 2
+    3301244: MFBigPipe_Straight8 3
+    3301246: MFBigPipe_Straight9
+    3301248: MFBigPipe_Straight9 1
+    3301250: MFBigPipe_Straight9 2
+    3301252: MFBigPipe_Straight9 3
+    3301254: MFBigPipe_WallCon
+    3301256: MFBigPipe_WallCon 1
+    3301258: MFBigPipe_WallCon 2
+    3301260: MFBigPipe_WallCon3
+    3301262: MFBigPipe_WallCon3 1
+    3301264: MFBigPipe_WallCon3 2
+    3301266: MFBigPipe_WallCon3 3
+    3301268: MFBigPipe_WallCon4
+    3301270: MFBigPipe_WallCon4 1
+    3301272: MFBigPipe_WallCon4 2
+    3301274: MFBigPipe_WallCon4 3
+    3301276: Middle_Railing
+    3301278: Middle_Railing1
+    3301280: Middle_Railing1 1
+    3301282: Middle_Railing10
+    3301284: Middle_Railing11
+    3301286: Middle_Railing12
+    3301288: Middle_Railing13
+    3301290: Middle_Railing14
+    3301292: Middle_Railing15
+    3301294: Middle_Railing16
+    3301296: Middle_Railing17
+    3301298: Middle_Railing17 1
+    3301300: Middle_Railing18
+    3301302: Middle_Railing19
+    3301304: Middle_Railing2
+    3301306: Middle_Railing2 1
+    3301308: Middle_Railing2 2
+    3301310: Middle_Railing20
+    3301312: Middle_Railing21
+    3301314: Middle_Railing22
+    3301316: Middle_Railing23
+    3301318: Middle_Railing24
+    3301320: Middle_Railing25
+    3301322: Middle_Railing26
+    3301324: Middle_Railing27
+    3301326: Middle_Railing27 1
+    3301328: Middle_Railing28
+    3301330: Middle_Railing28 1
+    3301332: Middle_Railing29
+    3301334: Middle_Railing29 1
+    3301336: Middle_Railing3
+    3301338: Middle_Railing30
+    3301340: Middle_Railing30 1
+    3301342: Middle_Railing31
+    3301344: Middle_Railing31 1
+    3301346: Middle_Railing32
+    3301348: Middle_Railing33
+    3301350: Middle_Railing34
+    3301352: Middle_Railing35
+    3301354: Middle_Railing36
+    3301356: Middle_Railing37
+    3301358: Middle_Railing38
+    3301360: Middle_Railing39
+    3301362: Middle_Railing4
+    3301364: Middle_Railing40
+    3301366: Middle_Railing41
+    3301368: Middle_Railing42
+    3301370: Middle_Railing43
+    3301372: Middle_Railing44
+    3301374: Middle_Railing45
+    3301376: Middle_Railing46
+    3301378: Middle_Railing47
+    3301380: Middle_Railing48
+    3301382: Middle_Railing49
+    3301384: Middle_Railing5
+    3301386: Middle_Railing50
+    3301388: Middle_Railing51
+    3301390: Middle_Railing52
+    3301392: Middle_Railing53
+    3301394: Middle_Railing54
+    3301396: Middle_Railing55
+    3301398: Middle_Railing56
+    3301400: Middle_Railing57
+    3301402: Middle_Railing58
+    3301404: Middle_Railing59
+    3301406: Middle_Railing6
+    3301408: Middle_Railing60
+    3301410: Middle_Railing61
+    3301412: Middle_Railing62
+    3301414: Middle_Railing63
+    3301416: Middle_Railing64
+    3301418: Middle_Railing65
+    3301420: Middle_Railing66
+    3301422: Middle_Railing67
+    3301424: Middle_Railing68
+    3301426: Middle_Railing69
+    3301428: Middle_Railing7
+    3301430: Middle_Railing70
+    3301432: Middle_Railing71
+    3301434: Middle_Railing72
+    3301436: Middle_Railing73
+    3301438: Middle_Railing8
+    3301440: Middle_Railing9
+    3301442: NavMesh
+    3301444: NineTBend
+    3301446: NineTBend 1
+    3301448: NineTBend 2
+    3301450: NineTBend 3
+    3301452: NineTBend1
+    3301454: NineTBend1 1
+    3301456: NineTBend1 2
+    3301458: NineTBend1 3
+    3301460: NineTBend10
+    3301462: NineTBend10 1
+    3301464: NineTBend10 2
+    3301466: NineTBend10 3
+    3301468: NineTBend11
+    3301470: NineTBend11 1
+    3301472: NineTBend11 2
+    3301474: NineTBend11 3
+    3301476: NineTBend12
+    3301478: NineTBend12 1
+    3301480: NineTBend12 2
+    3301482: NineTBend12 3
+    3301484: NineTBend13
+    3301486: NineTBend13 1
+    3301488: NineTBend13 2
+    3301490: NineTBend13 3
+    3301492: NineTBend14
+    3301494: NineTBend14 1
+    3301496: NineTBend14 2
+    3301498: NineTBend14 3
+    3301500: NineTBend15
+    3301502: NineTBend15 1
+    3301504: NineTBend15 2
+    3301506: NineTBend15 3
+    3301508: NineTBend16
+    3301510: NineTBend16 1
+    3301512: NineTBend16 2
+    3301514: NineTBend16 3
+    3301516: NineTBend17
+    3301518: NineTBend17 1
+    3301520: NineTBend17 2
+    3301522: NineTBend17 3
+    3301524: NineTBend18
+    3301526: NineTBend18 1
+    3301528: NineTBend18 2
+    3301530: NineTBend18 3
+    3301532: NineTBend19
+    3301534: NineTBend19 1
+    3301536: NineTBend19 2
+    3301538: NineTBend19 3
+    3301540: NineTBend2
+    3301542: NineTBend2 1
+    3301544: NineTBend2 2
+    3301546: NineTBend2 3
+    3301548: NineTBend20
+    3301550: NineTBend20 1
+    3301552: NineTBend20 2
+    3301554: NineTBend20 3
+    3301556: NineTBend21
+    3301558: NineTBend21 1
+    3301560: NineTBend21 2
+    3301562: NineTBend21 3
+    3301564: NineTBend22
+    3301566: NineTBend22 1
+    3301568: NineTBend22 2
+    3301570: NineTBend22 3
+    3301572: NineTBend23
+    3301574: NineTBend23 1
+    3301576: NineTBend23 2
+    3301578: NineTBend23 3
+    3301580: NineTBend24
+    3301582: NineTBend24 1
+    3301584: NineTBend24 2
+    3301586: NineTBend24 3
+    3301588: NineTBend25
+    3301590: NineTBend25 1
+    3301592: NineTBend25 2
+    3301594: NineTBend3
+    3301596: NineTBend3 1
+    3301598: NineTBend3 2
+    3301600: NineTBend3 3
+    3301602: NineTBend4
+    3301604: NineTBend4 1
+    3301606: NineTBend4 2
+    3301608: NineTBend4 3
+    3301610: NineTBend5
+    3301612: NineTBend5 1
+    3301614: NineTBend5 2
+    3301616: NineTBend5 3
+    3301618: NineTBend6
+    3301620: NineTBend6 1
+    3301622: NineTBend6 2
+    3301624: NineTBend6 3
+    3301626: NineTBend7
+    3301628: NineTBend7 1
+    3301630: NineTBend7 2
+    3301632: NineTBend7 3
+    3301634: NineTBend8
+    3301636: NineTBend8 1
+    3301638: NineTBend8 2
+    3301640: NineTBend8 3
+    3301642: NineTBend9
+    3301644: NineTBend9 1
+    3301646: NineTBend9 2
+    3301648: NineTBend9 3
+    3301650: OrigStairs
+    3301652: Pillars
+    3301654: PipeBendSet:NineTBend
+    3301656: polySurface1
+    3301658: polySurface1 1
+    3301660: polySurface10
+    3301662: polySurface11
+    3301664: polySurface12
+    3301666: polySurface13
+    3301668: polySurface14
+    3301670: polySurface15
+    3301672: polySurface16
+    3301674: polySurface17
+    3301676: polySurface18
+    3301678: polySurface19
+    3301680: polySurface2
+    3301682: polySurface20
+    3301684: polySurface21
+    3301686: polySurface22
+    3301688: polySurface23
+    3301690: polySurface24
+    3301692: polySurface25
+    3301694: polySurface26
+    3301696: polySurface27
+    3301698: polySurface28
+    3301700: polySurface29
+    3301702: polySurface30
+    3301704: polySurface31
+    3301706: polySurface32
+    3301708: polySurface33
+    3301710: polySurface34
+    3301712: polySurface35
+    3301714: polySurface36
+    3301716: polySurface37
+    3301718: polySurface38
+    3301720: polySurface39
+    3301722: polySurface4
+    3301724: polySurface40
+    3301726: polySurface41
+    3301728: polySurface42
+    3301730: polySurface43
+    3301732: polySurface44
+    3301734: polySurface45
+    3301736: polySurface46
+    3301738: polySurface47
+    3301740: polySurface48
+    3301742: polySurface49
+    3301744: polySurface5
+    3301746: polySurface50
+    3301748: polySurface51
+    3301750: polySurface52
+    3301752: polySurface53
+    3301754: polySurface54
+    3301756: polySurface55
+    3301758: polySurface56
+    3301760: polySurface57
+    3301762: polySurface58
+    3301764: polySurface59
+    3301766: polySurface6
+    3301768: polySurface60
+    3301770: polySurface61
+    3301772: polySurface62
+    3301774: polySurface63
+    3301776: polySurface64
+    3301778: polySurface65
+    3301780: polySurface66
+    3301782: polySurface67
+    3301784: polySurface68
+    3301786: polySurface7
+    3301788: polySurface8
+    3301790: polySurface9
+    3301792: Railing_Hite:End_Railing
+    3301794: Railing_Hite:Middle_Railing
+    3301796: Railing_Hite:polySurface66
+    3301798: Railing_Hite:Straight_Railing
+    3301800: Railing_Hite:WallEnd_Railing
+    3301802: RailingCorner_Hite:Corner_Railing
+    3301804: RecyclingCan_Var1_Hite:polySurface1
+    3301806: RightElevator
+    3301808: Roof
+    3301810: RoundRecBin_Hite:RoundRecyclingBinBase
+    3301812: RoundRecBin_Hite:RoundRecyclingBinLid
+    3301814: RoundRecyclingBinBase
+    3301816: RoundRecyclingBinBase 1
+    3301818: RoundRecyclingBinBase 10
+    3301820: RoundRecyclingBinBase 11
+    3301822: RoundRecyclingBinBase 12
+    3301824: RoundRecyclingBinBase 13
+    3301826: RoundRecyclingBinBase 14
+    3301828: RoundRecyclingBinBase 2
+    3301830: RoundRecyclingBinBase 3
+    3301832: RoundRecyclingBinBase 4
+    3301834: RoundRecyclingBinBase 5
+    3301836: RoundRecyclingBinBase 6
+    3301838: RoundRecyclingBinBase 7
+    3301840: RoundRecyclingBinBase 8
+    3301842: RoundRecyclingBinBase 9
+    3301844: RoundRecyclingBinLid
+    3301846: RoundRecyclingBinLid 1
+    3301848: RoundRecyclingBinLid 10
+    3301850: RoundRecyclingBinLid 11
+    3301852: RoundRecyclingBinLid 12
+    3301854: RoundRecyclingBinLid 13
+    3301856: RoundRecyclingBinLid 14
+    3301858: RoundRecyclingBinLid 2
+    3301860: RoundRecyclingBinLid 3
+    3301862: RoundRecyclingBinLid 4
+    3301864: RoundRecyclingBinLid 5
+    3301866: RoundRecyclingBinLid 6
+    3301868: RoundRecyclingBinLid 7
+    3301870: RoundRecyclingBinLid 8
+    3301872: RoundRecyclingBinLid 9
+    3301874: StairsEastAux
+    3301876: StairsMainLobby
+    3301878: StairsWestAux
+    3301880: Straight_Railing
+    3301882: Straight_Railing1
+    3301884: Straight_Railing10
+    3301886: Straight_Railing11
+    3301888: Straight_Railing12
+    3301890: Straight_Railing13
+    3301892: Straight_Railing14
+    3301894: Straight_Railing15
+    3301896: Straight_Railing16
+    3301898: Straight_Railing17
+    3301900: Straight_Railing18
+    3301902: Straight_Railing19
+    3301904: Straight_Railing20
+    3301906: Straight_Railing21
+    3301908: Straight_Railing22
+    3301910: Straight_Railing23
+    3301912: Straight_Railing24
+    3301914: Straight_Railing25
+    3301916: Straight_Railing25 1
+    3301918: Straight_Railing26
+    3301920: Straight_Railing26 1
+    3301922: Straight_Railing27
+    3301924: Straight_Railing28
+    3301926: Straight_Railing29
+    3301928: Straight_Railing3
+    3301930: Straight_Railing3 1
+    3301932: Straight_Railing30
+    3301934: Straight_Railing31
+    3301936: Straight_Railing32
+    3301938: Straight_Railing33
+    3301940: Straight_Railing34
+    3301942: Straight_Railing35
+    3301944: Straight_Railing36
+    3301946: Straight_Railing38
+    3301948: Straight_Railing38 1
+    3301950: Straight_Railing39
+    3301952: Straight_Railing39 1
+    3301954: Straight_Railing4
+    3301956: Straight_Railing4 1
+    3301958: Straight_Railing4 2
+    3301960: Straight_Railing40
+    3301962: Straight_Railing40 1
+    3301964: Straight_Railing41
+    3301966: Straight_Railing41 1
+    3301968: Straight_Railing42
+    3301970: Straight_Railing42 1
+    3301972: Straight_Railing43
+    3301974: Straight_Railing43 1
+    3301976: Straight_Railing44
+    3301978: Straight_Railing45
+    3301980: Straight_Railing46
+    3301982: Straight_Railing47
+    3301984: Straight_Railing48
+    3301986: Straight_Railing49
+    3301988: Straight_Railing5
+    3301990: Straight_Railing50
+    3301992: Straight_Railing51
+    3301994: Straight_Railing52
+    3301996: Straight_Railing53
+    3301998: Straight_Railing54
+    3302000: Straight_Railing55
+    3302002: Straight_Railing56
+    3302004: Straight_Railing57
+    3302006: Straight_Railing58
+    3302008: Straight_Railing59
+    3302010: Straight_Railing6
+    3302012: Straight_Railing60
+    3302014: Straight_Railing61
+    3302016: Straight_Railing62
+    3302018: Straight_Railing63
+    3302020: Straight_Railing64
+    3302022: Straight_Railing65
+    3302024: Straight_Railing66
+    3302026: Straight_Railing67
+    3302028: Straight_Railing68
+    3302030: Straight_Railing69
+    3302032: Straight_Railing7
+    3302034: Straight_Railing70
+    3302036: Straight_Railing71
+    3302038: Straight_Railing72
+    3302040: Straight_Railing73
+    3302042: Straight_Railing74
+    3302044: Straight_Railing75
+    3302046: Straight_Railing76
+    3302048: Straight_Railing77
+    3302050: Straight_Railing78
+    3302052: Straight_Railing79
+    3302054: Straight_Railing8
+    3302056: Straight_Railing80
+    3302058: Straight_Railing81
+    3302060: Straight_Railing82
+    3302062: Straight_Railing83
+    3302064: Straight_Railing84
+    3302066: Straight_Railing85
+    3302068: Straight_Railing86
+    3302070: Straight_Railing87
+    3302072: Straight_Railing88
+    3302074: Straight_Railing89
+    3302076: Straight_Railing9
+    3302078: Straight_Railing90
+    3302080: Straight_Railing91
+    3302082: Straight_Railing92
+    3302084: Straight_Railing93
+    3302086: Straight_Railing94
+    3302088: Straight_Railing95
+    3302090: Straight_Railing96
+    3302092: Straight_Railing97
+    3302094: WallEnd_Railing1
+    3302096: WallEnd_Railing10
+    3302098: WallEnd_Railing10 1
+    3302100: WallEnd_Railing11
+    3302102: WallEnd_Railing11 1
+    3302104: WallEnd_Railing12
+    3302106: WallEnd_Railing12 1
+    3302108: WallEnd_Railing13
+    3302110: WallEnd_Railing14
+    3302112: WallEnd_Railing15
+    3302114: WallEnd_Railing16
+    3302116: WallEnd_Railing17
+    3302118: WallEnd_Railing18
+    3302120: WallEnd_Railing19
+    3302122: WallEnd_Railing20
+    3302124: WallEnd_Railing21
+    3302126: WallEnd_Railing3
+    3302128: WallEnd_Railing4
+    3302130: WallEnd_Railing4 1
+    3302132: WallEnd_Railing4 2
+    3302134: WallEnd_Railing6
+    3302136: WallEnd_Railing7
+    3302138: WallEnd_Railing8
+    3302140: WallEnd_Railing9
+    4300000: ElevatorTubes
+    4300002: RightElevator
+    4300004: LeftElevator
+    4300006: CS_Building1
+    4300008: Railing_Hite:Middle_Railing
+    4300010: Railing_Hite:WallEnd_Railing
+    4300012: Railing_Hite:End_Railing
+    4300014: Railing_Hite:polySurface66
+    4300016: Railing_Hite:Straight_Railing
+    4300018: RailingCorner_Hite:Corner_Railing
+    4300020: Straight_Railing42
+    4300022: Middle_Railing31
+    4300024: WallEnd_Railing12
+    4300026: Straight_Railing38
+    4300028: WallEnd_Railing18
+    4300030: Straight_Railing62
+    4300032: Middle_Railing29
+    4300034: Straight_Railing39
+    4300036: Middle_Railing30
+    4300038: Straight_Railing40
+    4300040: End_Railing5
+    4300042: Straight_Railing43
+    4300044: End_Railing4
+    4300046: WallEnd_Railing11
+    4300048: Middle_Railing27
+    4300050: End_Railing10
+    4300052: Straight_Railing49
+    4300054: Middle_Railing32
+    4300056: Straight_Railing48
+    4300058: WallEnd_Railing13
+    4300060: Straight_Railing15
+    4300062: WallEnd_Railing19
+    4300064: WallEnd_Railing20
+    4300066: Corner_Railing1
+    4300068: Straight_Railing16
+    4300070: Middle_Railing6
+    4300072: WallEnd_Railing1
+    4300074: Straight_Railing63
+    4300076: Straight_Railing41
+    4300078: Middle_Railing43
+    4300080: Straight_Railing64
+    4300082: Middle_Railing28
+    4300084: Middle_Railing44
+    4300086: Straight_Railing65
+    4300088: Middle_Railing45
+    4300090: Straight_Railing66
+    4300092: Middle_Railing
+    4300094: Straight_Railing1
+    4300096: Straight_Railing
+    4300098: Straight_Railing5
+    4300100: WallEnd_Railing6
+    4300102: End_Railing
+    4300104: Corner_Railing3
+    4300106: Straight_Railing14
+    4300108: Middle_Railing3
+    4300110: Straight_Railing6
+    4300112: Straight_Railing12
+    4300114: Straight_Railing11
+    4300116: Middle_Railing10
+    4300118: Straight_Railing67
+    4300120: Middle_Railing46
+    4300122: Straight_Railing7
+    4300124: Middle_Railing5
+    4300126: Middle_Railing4
+    4300128: Straight_Railing68
+    4300130: WallEnd_Railing21
+    4300132: Middle_Railing7
+    4300134: WallEnd_Railing8
+    4300136: Middle_Railing8
+    4300138: Middle_Railing47
+    4300140: Straight_Railing69
+    4300142: Middle_Railing48
+    4300144: Straight_Railing70
+    4300146: Straight_Railing71
+    4300148: Middle_Railing11
+    4300150: Straight_Railing72
+    4300152: Straight_Railing10
+    4300154: Middle_Railing49
+    4300156: Corner_Railing
+    4300158: Middle_Railing9
+    4300160: Straight_Railing73
+    4300162: Straight_Railing74
+    4300164: Middle_Railing50
+    4300166: Straight_Railing13
+    4300168: Straight_Railing75
+    4300170: Middle_Railing51
+    4300172: Middle_Railing52
+    4300174: Middle_Railing53
+    4300176: WallEnd_Railing7
+    4300178: Middle_Railing54
+    4300180: Middle_Railing55
+    4300182: Straight_Railing76
+    4300184: Straight_Railing77
+    4300186: Middle_Railing15
+    4300188: Straight_Railing21
+    4300190: Straight_Railing22
+    4300192: Straight_Railing9
+    4300194: Straight_Railing78
+    4300196: Straight_Railing8
+    4300198: Middle_Railing2
+    4300200: Straight_Railing4
+    4300202: WallEnd_Railing4
+    4300204: Middle_Railing56
+    4300206: Middle_Railing57
+    4300208: Straight_Railing79
+    4300210: Middle_Railing58
+    4300212: Corner_Railing4
+    4300214: Straight_Railing80
+    4300216: Middle_Railing12
+    4300218: Straight_Railing17
+    4300220: Middle_Railing13
+    4300222: Straight_Railing18
+    4300224: Straight_Railing20
+    4300226: Middle_Railing14
+    4300228: Straight_Railing19
+    4300230: Straight_Railing81
+    4300232: Middle_Railing59
+    4300234: Straight_Railing82
+    4300236: Middle_Railing60
+    4300238: Straight_Railing83
+    4300240: Middle_Railing61
+    4300242: Straight_Railing84
+    4300244: Middle_Railing62
+    4300246: Straight_Railing85
+    4300248: Straight_Railing86
+    4300250: Middle_Railing63
+    4300252: Straight_Railing87
+    4300254: Middle_Railing64
+    4300256: Straight_Railing88
+    4300258: Middle_Railing65
+    4300260: Straight_Railing89
+    4300262: Middle_Railing66
+    4300264: Straight_Railing90
+    4300266: Middle_Railing28
+    4300268: Straight_Railing39
+    4300270: Straight_Railing42
+    4300272: Middle_Railing31
+    4300274: Middle_Railing29
+    4300276: Straight_Railing41
+    4300278: Middle_Railing30
+    4300280: Straight_Railing50
+    4300282: Middle_Railing33
+    4300284: Straight_Railing38
+    4300286: Straight_Railing51
+    4300288: Middle_Railing34
+    4300290: Middle_Railing35
+    4300292: WallEnd_Railing11
+    4300294: WallEnd_Railing12
+    4300296: Straight_Railing52
+    4300298: Straight_Railing53
+    4300300: Middle_Railing36
+    4300302: Middle_Railing37
+    4300304: Straight_Railing54
+    4300306: Middle_Railing38
+    4300308: Straight_Railing40
+    4300310: WallEnd_Railing14
+    4300312: WallEnd_Railing15
+    4300314: Straight_Railing43
+    4300316: Straight_Railing55
+    4300318: Middle_Railing27
+    4300320: Straight_Railing56
+    4300322: Middle_Railing39
+    4300324: WallEnd_Railing16
+    4300326: Middle_Railing40
+    4300328: Middle_Railing41
+    4300330: Straight_Railing57
+    4300332: WallEnd_Railing17
+    4300334: Straight_Railing58
+    4300336: Middle_Railing42
+    4300338: Straight_Railing59
+    4300340: Straight_Railing3
+    4300342: WallEnd_Railing3
+    4300344: Straight_Railing45
+    4300346: Middle_Railing1
+    4300348: WallEnd_Railing4
+    4300350: Straight_Railing4
+    4300352: Middle_Railing2
+    4300354: Straight_Railing44
+    4300356: End_Railing6
+    4300358: Straight_Railing60
+    4300360: Straight_Railing61
+    4300362: Straight_Railing26
+    4300364: WallEnd_Railing10
+    4300366: Middle_Railing17
+    4300368: Middle_Railing16
+    4300370: Straight_Railing24
+    4300372: End_Railing1
+    4300374: WallEnd_Railing9
+    4300376: Straight_Railing23
+    4300378: End_Railing2
+    4300380: Straight_Railing25
+    4300382: End_Railing7
+    4300384: Middle_Railing18
+    4300386: Straight_Railing27
+    4300388: End_Railing3
+    4300390: Middle_Railing1
+    4300392: End_Railing8
+    4300394: Straight_Railing31
+    4300396: Middle_Railing20
+    4300398: Middle_Railing21
+    4300400: WallEnd_Railing4
+    4300402: Straight_Railing3
+    4300404: Middle_Railing2
+    4300406: Straight_Railing4
+    4300408: Straight_Railing47
+    4300410: Middle_Railing23
+    4300412: Straight_Railing33
+    4300414: Middle_Railing22
+    4300416: Straight_Railing32
+    4300418: Middle_Railing24
+    4300420: Corner_Railing2
+    4300422: Straight_Railing29
+    4300424: Middle_Railing25
+    4300426: Straight_Railing35
+    4300428: Straight_Railing46
+    4300430: End_Railing9
+    4300432: Middle_Railing17
+    4300434: WallEnd_Railing10
+    4300436: Straight_Railing26
+    4300438: Straight_Railing30
+    4300440: Middle_Railing19
+    4300442: Straight_Railing34
+    4300444: End_Railing2
+    4300446: Middle_Railing26
+    4300448: Straight_Railing36
+    4300450: Straight_Railing25
+    4300452: Straight_Railing28
+    4300454: Middle_Railing73
+    4300456: Corner_Railing5
+    4300458: Straight_Railing97
+    4300460: Middle_Railing72
+    4300462: Straight_Railing96
+    4300464: Middle_Railing71
+    4300466: Straight_Railing95
+    4300468: Middle_Railing70
+    4300470: Straight_Railing94
+    4300472: Middle_Railing69
+    4300474: Straight_Railing93
+    4300476: Middle_Railing68
+    4300478: Straight_Railing92
+    4300480: Middle_Railing67
+    4300482: Straight_Railing91
+    4300484: Pillars
+    4300486: polySurface38
+    4300488: polySurface37
+    4300490: polySurface28
+    4300492: polySurface33
+    4300494: polySurface34
+    4300496: polySurface54
+    4300498: polySurface53
+    4300500: polySurface4
+    4300502: polySurface8
+    4300504: polySurface12
+    4300506: polySurface24
+    4300508: polySurface26
+    4300510: polySurface51
+    4300512: polySurface50
+    4300514: CS_Building_Door:polySurface1
+    4300516: polySurface1
+    4300518: polySurface49
+    4300520: polySurface32
+    4300522: polySurface31
+    4300524: polySurface29
+    4300526: polySurface6
+    4300528: polySurface5
+    4300530: polySurface7
+    4300532: polySurface35
+    4300534: polySurface21
+    4300536: polySurface22
+    4300538: polySurface36
+    4300540: polySurface11
+    4300542: polySurface10
+    4300544: polySurface9
+    4300546: polySurface62
+    4300548: polySurface61
+    4300550: polySurface60
+    4300552: polySurface46
+    4300554: polySurface47
+    4300556: polySurface44
+    4300558: polySurface43
+    4300560: polySurface45
+    4300562: polySurface13
+    4300564: polySurface63
+    4300566: polySurface23
+    4300568: polySurface17
+    4300570: polySurface18
+    4300572: polySurface25
+    4300574: polySurface16
+    4300576: polySurface15
+    4300578: polySurface14
+    4300580: polySurface20
+    4300582: polySurface19
+    4300584: polySurface58
+    4300586: polySurface57
+    4300588: polySurface56
+    4300590: polySurface48
+    4300592: polySurface52
+    4300594: polySurface41
+    4300596: polySurface40
+    4300598: polySurface39
+    4300600: polySurface42
+    4300602: polySurface55
+    4300604: polySurface59
+    4300606: polySurface27
+    4300608: polySurface30
+    4300610: OrigStairs
+    4300612: MainFloorBigPipe_Hite:MFBigPipe_Straight
+    4300614: MainFloorBigPipe_Hite:MFBigPipe_FloorCon
+    4300616: MainFloorBigPipe_Hite:MFBigPipe_WallCon
+    4300618: MainFloorBigPipe_Hite:MFBigPipe_Cap
+    4300620: MainFloorBigPipe_Hite:MFBigPipe_PipeCon
+    4300622: MFBigPipe_Straight
+    4300624: MFBigPipe_Connector1
+    4300626: MFBigPipe_Connector10
+    4300628: MFBigPipe_Connector11
+    4300630: MFBigPipe_Connector12
+    4300632: MFBigPipe_Straight6
+    4300634: MFBigPipe_Connector13
+    4300636: MFBigPipe_Straight7
+    4300638: MFBigPipe_Connector14
+    4300640: MFBigPipe_PipeCon3
+    4300642: MFBigPipe_Connector15
+    4300644: MFBigPipe_WallCon3
+    4300646: MFBigPipe_Connector16
+    4300648: MFBigPipe_Connector17
+    4300650: MFBigPipe_WallCon4
+    4300652: MFBigPipe_Connector18
+    4300654: MFBigPipe_PipeCon4
+    4300656: MFBigPipe_Connector19
+    4300658: MFBigPipe_Straight8
+    4300660: MFBigPipe_Connector20
+    4300662: MFBigPipe_Straight9
+    4300664: MFBigPipe_Straight10
+    4300666: MFBigPipe_Connector21
+    4300668: MFBigPipe_Straight11
+    4300670: MFBigPipe_Connector22
+    4300672: MFBigPipe_PipeCon5
+    4300674: MFBigPipe_Connector23
+    4300676: MFBigPipe_Straight
+    4300678: MFBigPipe_FloorCon
+    4300680: MFBigPipe_WallCon
+    4300682: MFBigPipe_Cap
+    4300684: MFBigPipe_PipeCon
+    4300686: MFBigPipe_Straight1
+    4300688: MFBigPipe_Connector1
+    4300690: MFBigPipe_Connector10
+    4300692: MFBigPipe_Connector11
+    4300694: MFBigPipe_Connector12
+    4300696: MFBigPipe_Straight6
+    4300698: MFBigPipe_Connector13
+    4300700: MFBigPipe_Straight7
+    4300702: MFBigPipe_Connector14
+    4300704: MFBigPipe_PipeCon3
+    4300706: MFBigPipe_Connector15
+    4300708: MFBigPipe_WallCon3
+    4300710: MFBigPipe_Connector16
+    4300712: MFBigPipe_Connector17
+    4300714: MFBigPipe_WallCon4
+    4300716: MFBigPipe_Connector18
+    4300718: MFBigPipe_PipeCon4
+    4300720: MFBigPipe_Connector19
+    4300722: MFBigPipe_Straight8
+    4300724: MFBigPipe_Connector20
+    4300726: MFBigPipe_Straight9
+    4300728: MFBigPipe_Straight10
+    4300730: MFBigPipe_Connector21
+    4300732: MFBigPipe_Straight11
+    4300734: MFBigPipe_Connector22
+    4300736: MFBigPipe_PipeCon5
+    4300738: MFBigPipe_Connector23
+    4300740: MFBigPipe_Straight
+    4300742: MFBigPipe_FloorCon
+    4300744: MFBigPipe_WallCon
+    4300746: MFBigPipe_Cap
+    4300748: MFBigPipe_PipeCon
+    4300750: MFBigPipe_Straight1
+    4300752: MFBigPipe_Connector1
+    4300754: MFBigPipe_Connector10
+    4300756: MFBigPipe_Connector11
+    4300758: MFBigPipe_Connector12
+    4300760: MFBigPipe_Straight6
+    4300762: MFBigPipe_Connector13
+    4300764: MFBigPipe_Straight7
+    4300766: MFBigPipe_Connector14
+    4300768: MFBigPipe_PipeCon3
+    4300770: MFBigPipe_Connector15
+    4300772: MFBigPipe_WallCon3
+    4300774: MFBigPipe_Connector16
+    4300776: MFBigPipe_Connector17
+    4300778: MFBigPipe_WallCon4
+    4300780: MFBigPipe_Connector18
+    4300782: MFBigPipe_PipeCon4
+    4300784: MFBigPipe_Connector19
+    4300786: MFBigPipe_Straight8
+    4300788: MFBigPipe_Connector20
+    4300790: MFBigPipe_Straight9
+    4300792: MFBigPipe_Straight10
+    4300794: MFBigPipe_Connector21
+    4300796: MFBigPipe_Straight11
+    4300798: MFBigPipe_Connector22
+    4300800: MFBigPipe_PipeCon5
+    4300802: MFBigPipe_Connector23
+    4300804: MFBigPipe_Straight
+    4300806: MFBigPipe_FloorCon
+    4300808: MFBigPipe_WallCon
+    4300810: MFBigPipe_Cap
+    4300812: MFBigPipe_PipeCon
+    4300814: MFBigPipe_Straight1
+    4300816: MFBigPipe_Connector1
+    4300818: MFBigPipe_Connector10
+    4300820: MFBigPipe_Connector11
+    4300822: MFBigPipe_Connector12
+    4300824: MFBigPipe_Straight6
+    4300826: MFBigPipe_Connector13
+    4300828: MFBigPipe_Straight7
+    4300830: MFBigPipe_Connector14
+    4300832: MFBigPipe_PipeCon3
+    4300834: MFBigPipe_Connector15
+    4300836: MFBigPipe_WallCon3
+    4300838: MFBigPipe_Connector16
+    4300840: MFBigPipe_Connector17
+    4300842: MFBigPipe_WallCon4
+    4300844: MFBigPipe_Connector18
+    4300846: MFBigPipe_PipeCon4
+    4300848: MFBigPipe_Connector19
+    4300850: MFBigPipe_Straight8
+    4300852: MFBigPipe_Connector20
+    4300854: MFBigPipe_Straight9
+    4300856: MFBigPipe_Straight10
+    4300858: MFBigPipe_Connector21
+    4300860: MFBigPipe_Straight11
+    4300862: MFBigPipe_Connector22
+    4300864: MFBigPipe_PipeCon5
+    4300866: MFBigPipe_Connector23
+    4300868: AuxBigPipe_Hite:AuxBigPipe_Straight
+    4300870: AuxBigPipe_Hite:AuxBigPipe_FloorCon
+    4300872: AuxBigPipe_Hite:AuxBigPipe_PipeCon
+    4300874: AuxBigPipe_Straight
+    4300876: AuxBigPipe_PipeCon
+    4300878: AuxBigPipe_Straight1
+    4300880: StairsMainLobby
+    4300882: StairsEastAux
+    4300884: StairsWestAux
+    4300886: BathRoomInfoSign_Hite:BathroomInfoSign_Pole
+    4300888: BathRoomInfoSign_Hite:BathroomInfoSign_Sign
+    4300890: BathroomInfoSign_Pole
+    4300892: BathroomInfoSign_Sign
+    4300894: BathroomInfoSign_Pole
+    4300896: BathroomInfoSign_Sign
+    4300898: BathroomInfoSign_Pole
+    4300900: BathroomInfoSign_Sign
+    4300902: BathroomInfoSign_Pole
+    4300904: BathroomInfoSign_Sign
+    4300906: BathroomInfoSign_Pole
+    4300908: BathroomInfoSign_Sign
+    4300910: BathroomInfoSign_Pole
+    4300912: BathroomInfoSign_Sign
+    4300914: BathroomInfoSign_Pole
+    4300916: BathroomInfoSign_Sign
+    4300918: FlyerWallMount_Hite:pCube1
+    4300920: FlyerWallMount_Hite:pPlane1
+    4300922: FlyerWallMount_Hite:pCube12
+    4300924: CeilingLight_Var2_Hite:CeilingLight_Var2_Base
+    4300926: CeilingLight_Var2_Hite:CeilingLight_Var2_Mount
+    4300928: CeilingLight_Var2_Hite:CeilingLight_Var2_Slats
+    4300930: CeilingLight_Var2_Hite:CeilingLight_Var2_Poles
+    4300932: CeilingLight_Var2_Base
+    4300934: CeilingLight_Var2_Mount
+    4300936: CeilingLight_Var2_Slats
+    4300938: CeilingLight_Var2_Poles
+    4300940: CeilingLight_Var2_Base
+    4300942: CeilingLight_Var2_Mount
+    4300944: CeilingLight_Var2_Slats
+    4300946: CeilingLight_Var2_Poles
+    4300948: CeilingLight_Var2_Base
+    4300950: CeilingLight_Var2_Mount
+    4300952: CeilingLight_Var2_Slats
+    4300954: CeilingLight_Var2_Poles
+    4300956: CeilingLight_Var2_Poles1
+    4300958: CeilingLight_Var2_Mount1
+    4300960: CeilingLight_Var2_Base
+    4300962: CeilingLight_Var2_Mount
+    4300964: CeilingLight_Var2_Slats
+    4300966: CeilingLight_Var2_Poles
+    4300968: CeilingLight_Var2_Poles1
+    4300970: CeilingLight_Var2_Mount1
+    4300972: CeilingLight_Var2_Base
+    4300974: CeilingLight_Var2_Mount
+    4300976: CeilingLight_Var2_Slats
+    4300978: CeilingLight_Var2_Poles
+    4300980: CeilingLight_Var2_Base
+    4300982: CeilingLight_Var2_Mount
+    4300984: CeilingLight_Var2_Slats
+    4300986: CeilingLight_Var2_Poles
+    4300988: CeilingLight_Var2_Base
+    4300990: CeilingLight_Var2_Mount
+    4300992: CeilingLight_Var2_Slats
+    4300994: CeilingLight_Var2_Poles
+    4300996: Roof
+    4300998: MetalFrame_L4
+    4301000: MetalDoor_Var1_Handle
+    4301002: MetalFrame_T10
+    4301004: MetalFrame_DbleStraight3
+    4301006: MetalFrame_T11
+    4301008: MetalFrame_T12
+    4301010: MetalFrame_L5
+    4301012: MetalFrame_L6
+    4301014: MetalFrame_L7
+    4301016: MetalDoor_Var1_PullH
+    4301018: MetalFrame_Cross4
+    4301020: MetalFrame_DbleStraight4
+    4301022: MetalFrame_T13
+    4301024: MetalFrame_Cross5
+    4301026: MetalFrame_T14
+    4301028: MetalDoor_Var1_Frame
+    4301030: MetalDoor_Var1_PushH
+    4301032: MetalDoor_Var1_PullH1
+    4301034: MetalDoor_Var1_PushH1
+    4301036: MetalDoor_Var1_Frame1
+    4301038: MetalFrame_T15
+    4301040: MetalFrame_T16
+    4301042: MetalDoor_Var1_Handle1
+    4301044: FrameBkp
+    4301046: FrameBkp
+    4301048: MetalDoor_Var1_Handle
+    4301050: FrameBkp
+    4301052: MetalDoor_Var1_Frame
+    4301054: MetalDoor_Var1_PushH
+    4301056: MetalDoor_Var1_PullH
+    4301058: MetalFrame_Hite:MetalFrame_ConVarStright
+    4301060: MetalFrame_Hite:MetalFrame_L
+    4301062: MetalFrame_Hite:MetalFrame_T
+    4301064: MetalFrame_Hite:MetalFrame_DbleStraight
+    4301066: MetalFrame_Hite:MetalFrame_Cross
+    4301068: MetalFrame_Hite:MetalFrame_Straight
+    4301070: MetalFrame_T
+    4301072: MetalFrame_L
+    4301074: MetalFrame_Cross
+    4301076: MetalFrame_T1
+    4301078: MetalFrame_T2
+    4301080: MetalFrame_T3
+    4301082: MetalFrame_Cross1
+    4301084: MetalFrame_DbleStraight
+    4301086: MetalFrame_L1
+    4301088: MetalFrame_T4
+    4301090: MetalFrame_T5
+    4301092: MetalFrame_L2
+    4301094: MetalFrame_L3
+    4301096: MetalFrame_T6
+    4301098: MetalFrame_Cross2
+    4301100: MetalFrame_T7
+    4301102: MetalFrame_Cross3
+    4301104: MetalFrame_T9
+    4301106: MetalFrame_DbleStraight2
+    4301108: MetalDoor_Var1_Hite:MetalDoor_Var1_Handle
+    4301110: MetalDoor_Var1_Hite:FrameBkp
+    4301112: MetalDoor_Var1_Hite:MetalDoor_Var1_Frame
+    4301114: MetalDoor_Var1_Hite:MetalDoor_Var1_PushH
+    4301116: MetalDoor_Var1_Hite:MetalDoor_Var1_PullH
+    4301118: MetalFrame_L4
+    4301120: MetalDoor_Var1_Handle
+    4301122: MetalFrame_T10
+    4301124: MetalFrame_DbleStraight3
+    4301126: MetalFrame_T11
+    4301128: MetalFrame_T12
+    4301130: MetalFrame_L5
+    4301132: MetalFrame_L6
+    4301134: MetalFrame_L7
+    4301136: MetalDoor_Var1_PullH
+    4301138: MetalFrame_Cross4
+    4301140: MetalFrame_DbleStraight4
+    4301142: MetalFrame_T13
+    4301144: MetalFrame_Cross5
+    4301146: MetalFrame_T14
+    4301148: MetalDoor_Var1_Frame
+    4301150: MetalDoor_Var1_PushH
+    4301152: MetalDoor_Var1_PullH1
+    4301154: MetalDoor_Var1_PushH1
+    4301156: MetalDoor_Var1_Frame1
+    4301158: MetalFrame_T15
+    4301160: MetalFrame_T16
+    4301162: MetalDoor_Var1_Handle1
+    4301164: FrameBkp
+    4301166: FrameBkp
+    4301168: MetalDoor_Var1_Handle
+    4301170: FrameBkp
+    4301172: MetalDoor_Var1_Frame
+    4301174: MetalDoor_Var1_PushH
+    4301176: MetalDoor_Var1_PullH
+    4301178: MetalFrame_ConVarStright
+    4301180: MetalFrame_L
+    4301182: MetalFrame_T
+    4301184: MetalFrame_DbleStraight
+    4301186: MetalFrame_Cross
+    4301188: MetalFrame_Straight
+    4301190: MetalFrame_T17
+    4301192: MetalFrame_L8
+    4301194: MetalFrame_Cross6
+    4301196: MetalFrame_T1
+    4301198: MetalFrame_T2
+    4301200: MetalFrame_T3
+    4301202: MetalFrame_Cross1
+    4301204: MetalFrame_DbleStraight5
+    4301206: MetalFrame_L1
+    4301208: MetalFrame_T4
+    4301210: MetalFrame_T5
+    4301212: MetalFrame_L2
+    4301214: MetalFrame_L3
+    4301216: MetalFrame_T6
+    4301218: MetalFrame_Cross2
+    4301220: MetalFrame_T7
+    4301222: MetalFrame_Cross3
+    4301224: MetalFrame_T9
+    4301226: MetalFrame_DbleStraight2
+    4301228: MetalDoor_Var1_Handle
+    4301230: FrameBkp
+    4301232: MetalDoor_Var1_Frame
+    4301234: MetalDoor_Var1_PushH
+    4301236: MetalDoor_Var1_PullH
+    4301238: MetalFrame_L4
+    4301240: MetalDoor_Var1_Handle
+    4301242: MetalFrame_T10
+    4301244: MetalFrame_DbleStraight3
+    4301246: MetalFrame_T11
+    4301248: MetalFrame_T12
+    4301250: MetalFrame_L5
+    4301252: MetalFrame_L6
+    4301254: MetalFrame_L7
+    4301256: MetalDoor_Var1_PullH
+    4301258: MetalFrame_Cross4
+    4301260: MetalFrame_DbleStraight4
+    4301262: MetalFrame_T13
+    4301264: MetalFrame_Cross5
+    4301266: MetalFrame_T14
+    4301268: MetalDoor_Var1_Frame
+    4301270: MetalDoor_Var1_PushH
+    4301272: MetalDoor_Var1_PullH1
+    4301274: MetalDoor_Var1_PushH1
+    4301276: MetalDoor_Var1_Frame1
+    4301278: MetalFrame_T15
+    4301280: MetalFrame_T16
+    4301282: MetalDoor_Var1_Handle1
+    4301284: FrameBkp
+    4301286: FrameBkp
+    4301288: MetalDoor_Var1_Handle
+    4301290: FrameBkp
+    4301292: MetalDoor_Var1_Frame
+    4301294: MetalDoor_Var1_PushH
+    4301296: MetalDoor_Var1_PullH
+    4301298: MetalFrame_ConVarStright
+    4301300: MetalFrame_L
+    4301302: MetalFrame_T
+    4301304: MetalFrame_DbleStraight
+    4301306: MetalFrame_Cross
+    4301308: MetalFrame_Straight
+    4301310: MetalFrame_T17
+    4301312: MetalFrame_L8
+    4301314: MetalFrame_Cross6
+    4301316: MetalFrame_T1
+    4301318: MetalFrame_T2
+    4301320: MetalFrame_T3
+    4301322: MetalFrame_Cross1
+    4301324: MetalFrame_DbleStraight5
+    4301326: MetalFrame_L1
+    4301328: MetalFrame_T4
+    4301330: MetalFrame_T5
+    4301332: MetalFrame_L2
+    4301334: MetalFrame_L3
+    4301336: MetalFrame_T6
+    4301338: MetalFrame_Cross2
+    4301340: MetalFrame_T7
+    4301342: MetalFrame_Cross3
+    4301344: MetalFrame_T9
+    4301346: MetalFrame_DbleStraight2
+    4301348: MetalDoor_Var1_Handle
+    4301350: FrameBkp
+    4301352: MetalDoor_Var1_Frame
+    4301354: MetalDoor_Var1_PushH
+    4301356: MetalDoor_Var1_PullH
+    4301358: MetalFrame_L4
+    4301360: MetalDoor_Var1_Handle
+    4301362: MetalFrame_T10
+    4301364: MetalFrame_DbleStraight3
+    4301366: MetalFrame_T11
+    4301368: MetalFrame_T12
+    4301370: MetalFrame_L5
+    4301372: MetalFrame_L6
+    4301374: MetalFrame_L7
+    4301376: MetalDoor_Var1_PullH
+    4301378: MetalFrame_Cross4
+    4301380: MetalFrame_DbleStraight4
+    4301382: MetalFrame_T13
+    4301384: MetalFrame_Cross5
+    4301386: MetalFrame_T14
+    4301388: MetalDoor_Var1_Frame
+    4301390: MetalDoor_Var1_PushH
+    4301392: MetalDoor_Var1_PullH1
+    4301394: MetalDoor_Var1_PushH1
+    4301396: MetalDoor_Var1_Frame1
+    4301398: MetalFrame_T15
+    4301400: MetalFrame_T16
+    4301402: MetalDoor_Var1_Handle1
+    4301404: FrameBkp
+    4301406: FrameBkp
+    4301408: MetalDoor_Var1_Handle
+    4301410: FrameBkp
+    4301412: MetalDoor_Var1_Frame
+    4301414: MetalDoor_Var1_PushH
+    4301416: MetalDoor_Var1_PullH
+    4301418: MetalFrame_ConVarStright
+    4301420: MetalFrame_L
+    4301422: MetalFrame_T
+    4301424: MetalFrame_DbleStraight
+    4301426: MetalFrame_Cross
+    4301428: MetalFrame_Straight
+    4301430: MetalFrame_T17
+    4301432: MetalFrame_L8
+    4301434: MetalFrame_Cross6
+    4301436: MetalFrame_T1
+    4301438: MetalFrame_T2
+    4301440: MetalFrame_T3
+    4301442: MetalFrame_Cross1
+    4301444: MetalFrame_DbleStraight5
+    4301446: MetalFrame_L1
+    4301448: MetalFrame_T4
+    4301450: MetalFrame_T5
+    4301452: MetalFrame_L2
+    4301454: MetalFrame_L3
+    4301456: MetalFrame_T6
+    4301458: MetalFrame_Cross2
+    4301460: MetalFrame_T7
+    4301462: MetalFrame_Cross3
+    4301464: MetalFrame_T9
+    4301466: MetalFrame_DbleStraight2
+    4301468: MetalDoor_Var1_Handle
+    4301470: FrameBkp
+    4301472: MetalDoor_Var1_Frame
+    4301474: MetalDoor_Var1_PushH
+    4301476: MetalDoor_Var1_PullH
+    4301478: MetalFrame_L4
+    4301480: MetalDoor_Var1_Handle
+    4301482: MetalFrame_T10
+    4301484: MetalFrame_DbleStraight3
+    4301486: MetalFrame_T11
+    4301488: MetalFrame_T12
+    4301490: MetalFrame_L5
+    4301492: MetalFrame_L6
+    4301494: MetalFrame_L7
+    4301496: MetalDoor_Var1_PullH
+    4301498: MetalFrame_Cross4
+    4301500: MetalFrame_DbleStraight4
+    4301502: MetalFrame_T13
+    4301504: MetalFrame_Cross5
+    4301506: MetalFrame_T14
+    4301508: MetalDoor_Var1_Frame
+    4301510: MetalDoor_Var1_PushH
+    4301512: MetalDoor_Var1_PullH1
+    4301514: MetalDoor_Var1_PushH1
+    4301516: MetalDoor_Var1_Frame1
+    4301518: MetalFrame_T15
+    4301520: MetalFrame_T16
+    4301522: MetalDoor_Var1_Handle1
+    4301524: FrameBkp
+    4301526: FrameBkp
+    4301528: MetalDoor_Var1_Handle
+    4301530: FrameBkp
+    4301532: MetalDoor_Var1_Frame
+    4301534: MetalDoor_Var1_PushH
+    4301536: MetalDoor_Var1_PullH
+    4301538: MetalFrame_ConVarStright
+    4301540: MetalFrame_L
+    4301542: MetalFrame_T
+    4301544: MetalFrame_DbleStraight
+    4301546: MetalFrame_Cross
+    4301548: MetalFrame_Straight
+    4301550: MetalFrame_T17
+    4301552: MetalFrame_L8
+    4301554: MetalFrame_Cross6
+    4301556: MetalFrame_T1
+    4301558: MetalFrame_T2
+    4301560: MetalFrame_T3
+    4301562: MetalFrame_Cross1
+    4301564: MetalFrame_DbleStraight5
+    4301566: MetalFrame_L1
+    4301568: MetalFrame_T4
+    4301570: MetalFrame_T5
+    4301572: MetalFrame_L2
+    4301574: MetalFrame_L3
+    4301576: MetalFrame_T6
+    4301578: MetalFrame_Cross2
+    4301580: MetalFrame_T7
+    4301582: MetalFrame_Cross3
+    4301584: MetalFrame_T9
+    4301586: MetalFrame_DbleStraight2
+    4301588: MetalDoor_Var1_Handle
+    4301590: FrameBkp
+    4301592: MetalDoor_Var1_Frame
+    4301594: MetalDoor_Var1_PushH
+    4301596: MetalDoor_Var1_PullH
+    4301598: MetalFrame_L4
+    4301600: MetalDoor_Var1_Handle
+    4301602: MetalFrame_T10
+    4301604: MetalFrame_DbleStraight3
+    4301606: MetalFrame_T11
+    4301608: MetalFrame_T12
+    4301610: MetalFrame_L5
+    4301612: MetalFrame_L6
+    4301614: MetalFrame_L7
+    4301616: MetalDoor_Var1_PullH
+    4301618: MetalFrame_Cross4
+    4301620: MetalFrame_DbleStraight4
+    4301622: MetalFrame_T13
+    4301624: MetalFrame_Cross5
+    4301626: MetalFrame_T14
+    4301628: MetalDoor_Var1_Frame
+    4301630: MetalDoor_Var1_PushH
+    4301632: MetalDoor_Var1_PullH1
+    4301634: MetalDoor_Var1_PushH1
+    4301636: MetalDoor_Var1_Frame1
+    4301638: MetalFrame_T15
+    4301640: MetalFrame_T16
+    4301642: MetalDoor_Var1_Handle1
+    4301644: FrameBkp
+    4301646: FrameBkp
+    4301648: MetalDoor_Var1_Handle
+    4301650: FrameBkp
+    4301652: MetalDoor_Var1_Frame
+    4301654: MetalDoor_Var1_PushH
+    4301656: MetalDoor_Var1_PullH
+    4301658: MetalFrame_ConVarStright
+    4301660: MetalFrame_L
+    4301662: MetalFrame_T
+    4301664: MetalFrame_DbleStraight
+    4301666: MetalFrame_Cross
+    4301668: MetalFrame_Straight
+    4301670: MetalFrame_T17
+    4301672: MetalFrame_L8
+    4301674: MetalFrame_Cross6
+    4301676: MetalFrame_T1
+    4301678: MetalFrame_T2
+    4301680: MetalFrame_T3
+    4301682: MetalFrame_Cross1
+    4301684: MetalFrame_DbleStraight5
+    4301686: MetalFrame_L1
+    4301688: MetalFrame_T4
+    4301690: MetalFrame_T5
+    4301692: MetalFrame_L2
+    4301694: MetalFrame_L3
+    4301696: MetalFrame_T6
+    4301698: MetalFrame_Cross2
+    4301700: MetalFrame_T7
+    4301702: MetalFrame_Cross3
+    4301704: MetalFrame_T9
+    4301706: MetalFrame_DbleStraight2
+    4301708: MetalDoor_Var1_Handle
+    4301710: FrameBkp
+    4301712: MetalDoor_Var1_Frame
+    4301714: MetalDoor_Var1_PushH
+    4301716: MetalDoor_Var1_PullH
+    4301718: CenterPieceChip
+    4301720: NineTBend
+    4301722: NineTBend1
+    4301724: NineTBend2
+    4301726: NineTBend3
+    4301728: NineTBend4
+    4301730: NineTBend5
+    4301732: NineTBend6
+    4301734: NineTBend7
+    4301736: NineTBend8
+    4301738: NineTBend9
+    4301740: NineTBend10
+    4301742: NineTBend11
+    4301744: NineTBend12
+    4301746: NineTBend13
+    4301748: NineTBend14
+    4301750: NineTBend15
+    4301752: NineTBend16
+    4301754: NineTBend17
+    4301756: NineTBend18
+    4301758: NineTBend19
+    4301760: NineTBend20
+    4301762: NineTBend21
+    4301764: NineTBend22
+    4301766: NineTBend23
+    4301768: NineTBend24
+    4301770: PipeBendSet:NineTBend
+    4301772: NineTBend
+    4301774: NineTBend1
+    4301776: NineTBend2
+    4301778: NineTBend3
+    4301780: NineTBend4
+    4301782: NineTBend5
+    4301784: NineTBend6
+    4301786: NineTBend7
+    4301788: NineTBend8
+    4301790: NineTBend9
+    4301792: NineTBend10
+    4301794: NineTBend11
+    4301796: NineTBend12
+    4301798: NineTBend13
+    4301800: NineTBend14
+    4301802: NineTBend15
+    4301804: NineTBend16
+    4301806: NineTBend17
+    4301808: NineTBend18
+    4301810: NineTBend19
+    4301812: NineTBend20
+    4301814: NineTBend21
+    4301816: NineTBend22
+    4301818: NineTBend23
+    4301820: NineTBend24
+    4301822: NineTBend25
+    4301824: NineTBend
+    4301826: NineTBend1
+    4301828: NineTBend2
+    4301830: NineTBend3
+    4301832: NineTBend4
+    4301834: NineTBend5
+    4301836: NineTBend6
+    4301838: NineTBend7
+    4301840: NineTBend8
+    4301842: NineTBend9
+    4301844: NineTBend10
+    4301846: NineTBend11
+    4301848: NineTBend12
+    4301850: NineTBend13
+    4301852: NineTBend14
+    4301854: NineTBend15
+    4301856: NineTBend16
+    4301858: NineTBend17
+    4301860: NineTBend18
+    4301862: NineTBend19
+    4301864: NineTBend20
+    4301866: NineTBend21
+    4301868: NineTBend22
+    4301870: NineTBend23
+    4301872: NineTBend24
+    4301874: NineTBend25
+    4301876: NineTBend
+    4301878: NineTBend1
+    4301880: NineTBend2
+    4301882: NineTBend3
+    4301884: NineTBend4
+    4301886: NineTBend5
+    4301888: NineTBend6
+    4301890: NineTBend7
+    4301892: NineTBend8
+    4301894: NineTBend9
+    4301896: NineTBend10
+    4301898: NineTBend11
+    4301900: NineTBend12
+    4301902: NineTBend13
+    4301904: NineTBend14
+    4301906: NineTBend15
+    4301908: NineTBend16
+    4301910: NineTBend17
+    4301912: NineTBend18
+    4301914: NineTBend19
+    4301916: NineTBend20
+    4301918: NineTBend21
+    4301920: NineTBend22
+    4301922: NineTBend23
+    4301924: NineTBend24
+    4301926: NineTBend25
+    4301928: Clock_Base
+    4301930: Clock_Shield
+    4301932: Clock_MinuteHand
+    4301934: Clock_HourHand
+    4301936: Clock_SecondHand
+    4301938: Clock_HandPin
+    4301940: Clock_Base
+    4301942: Clock_Shield
+    4301944: Clock_MinuteHand
+    4301946: Clock_HourHand
+    4301948: Clock_SecondHand
+    4301950: Clock_HandPin
+    4301952: Clock_Base
+    4301954: Clock_Shield
+    4301956: Clock_MinuteHand
+    4301958: Clock_HourHand
+    4301960: Clock_SecondHand
+    4301962: Clock_HandPin
+    4301964: Clock_Hite:Clock_Base
+    4301966: Clock_Hite:Clock_Shield
+    4301968: Clock_Hite:Clock_MinuteHand
+    4301970: Clock_Hite:Clock_HourHand
+    4301972: Clock_Hite:Clock_SecondHand
+    4301974: Clock_Hite:Clock_HandPin
+    4301976: CylintricalDesk_Hite:CylinDesk_Support1
+    4301978: CylintricalDesk_Hite:CylinDesk_Support2
+    4301980: CylintricalDesk_Hite:CylinDesk_Support3
+    4301982: CylintricalDesk_Hite:CylinDesk_TableTop
+    4301984: ElevatorBtnPanel_Hite:ElevatorBtnPanel_DownBtn
+    4301986: ElevatorBtnPanel_Hite:ElevatorBtnPanel_UpBtn
+    4301988: ElevatorBtnPanel_Hite:ElevatorBtnPanel_Panel
+    4301990: ElevatorBtnPanel_DownBtn
+    4301992: ElevatorBtnPanel_UpBtn
+    4301994: ElevatorBtnPanel_Panel
+    4301996: ElevatorBtnPanel_DownBtn
+    4301998: ElevatorBtnPanel_UpBtn
+    4302000: ElevatorBtnPanel_Panel
+    4302002: ElevatorBtnPanel_DownBtn
+    4302004: ElevatorBtnPanel_UpBtn
+    4302006: ElevatorBtnPanel_Panel
+    4302008: ElevatorBtnPanel_DownBtn
+    4302010: ElevatorBtnPanel_UpBtn
+    4302012: ElevatorBtnPanel_Panel
+    4302014: ElevatorBtnPanel_DownBtn
+    4302016: ElevatorBtnPanel_UpBtn
+    4302018: ElevatorBtnPanel_Panel
+    4302020: ElevatorBtnPanel_DownBtn
+    4302022: ElevatorBtnPanel_UpBtn
+    4302024: ElevatorBtnPanel_Panel
+    4302026: ElevatorBtnPanel_DownBtn
+    4302028: ElevatorBtnPanel_UpBtn
+    4302030: ElevatorBtnPanel_Panel
+    4302032: InfoFlag_Hite:InfoFlag_Flag
+    4302034: InfoFlag_Hite:InfoFlag_Bolts
+    4302036: InfoFlag_Flag
+    4302038: InfoFlag_Bolts
+    4302040: InfoFlag_Flag
+    4302042: InfoFlag_Bolts
+    4302044: InfoFlag_Flag
+    4302046: InfoFlag_Bolts
+    4302048: InfoFlag_Flag
+    4302050: InfoFlag_Bolts
+    4302052: InfoSign_Hite:InfoSign_Base
+    4302054: InfoSign_Hite:InfoSign_Face
+    4302056: InfoSign_Hite:InfoSign_Supports
+    4302058: InfoSign_Hite:InfoSign_Flag
+    4302060: polySurface68
+    4302062: polySurface67
+    4302064: polySurface66
+    4302066: polySurface65
+    4302068: polySurface2
+    4302070: polySurface64
+    4302072: polySurface1
+    4302074: RecyclingCan_Var1_Hite:polySurface1
+    4302076: RoundRecyclingBinLid
+    4302078: RoundRecyclingBinBase
+    4302080: RoundRecyclingBinLid
+    4302082: RoundRecyclingBinBase
+    4302084: RoundRecyclingBinLid
+    4302086: RoundRecyclingBinBase
+    4302088: RoundRecyclingBinLid
+    4302090: RoundRecyclingBinBase
+    4302092: RoundRecyclingBinLid
+    4302094: RoundRecyclingBinBase
+    4302096: RoundRecyclingBinLid
+    4302098: RoundRecyclingBinBase
+    4302100: RoundRecyclingBinLid
+    4302102: RoundRecyclingBinBase
+    4302104: RoundRecyclingBinLid
+    4302106: RoundRecyclingBinBase
+    4302108: RoundRecyclingBinLid
+    4302110: RoundRecyclingBinBase
+    4302112: RoundRecyclingBinLid
+    4302114: RoundRecyclingBinBase
+    4302116: RoundRecyclingBinLid
+    4302118: RoundRecyclingBinBase
+    4302120: RoundRecyclingBinLid
+    4302122: RoundRecyclingBinBase
+    4302124: RoundRecyclingBinLid
+    4302126: RoundRecyclingBinBase
+    4302128: RoundRecyclingBinLid
+    4302130: RoundRecyclingBinBase
+    4302132: RoundRecyclingBinLid
+    4302134: RoundRecyclingBinBase
+    4302136: RoundRecBin_Hite:RoundRecyclingBinLid
+    4302138: RoundRecBin_Hite:RoundRecyclingBinBase
+    4302140: NavMesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
