@@ -1,16 +1,17 @@
 fileFormatVersion: 2
-guid: d91ea6420e124aa46870f5b8783996ae
+guid: a70cc033c036e1046bdd44b62f9b363d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: polySurface3
+    100002: ElevatorTubes_LooseAdornments
     400000: //RootNode
-    400002: polySurface3
+    400002: ElevatorTubes_LooseAdornments
     2100000: initialShadingGroup
-    2300000: polySurface3
-    3300000: polySurface3
-    4300000: polySurface3
+    2100002: ElevatorTubes_LooseAdornmentsMat
+    2300000: ElevatorTubes_LooseAdornments
+    3300000: ElevatorTubes_LooseAdornments
+    4300000: ElevatorTubes_LooseAdornments
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -45,6 +46,7 @@ ModelImporter:
     globalScale: 10
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -69,6 +71,9 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -83,7 +88,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

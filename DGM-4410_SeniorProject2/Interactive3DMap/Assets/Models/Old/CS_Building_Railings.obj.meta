@@ -1,16 +1,17 @@
 fileFormatVersion: 2
-guid: 9382956b248483546a3d81f8bf4278f6
+guid: d859e89db6050ae4e909b998c7b518a8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: CenterPieceChip
-    100002: //RootNode
-    400000: CenterPieceChip
-    400002: //RootNode
-    2100000: initialShadingGroup
-    2300000: CenterPieceChip
-    3300000: CenterPieceChip
-    4300000: CenterPieceChip
+    100000: //RootNode
+    100002: Straight_Railing33
+    400000: //RootNode
+    400002: Straight_Railing33
+    2100000: blinn1SG
+    2100002: Straight_Railing33Mat
+    2300000: Straight_Railing33
+    3300000: Straight_Railing33
+    4300000: Straight_Railing33
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -45,6 +46,7 @@ ModelImporter:
     globalScale: 10
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -69,6 +71,9 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -83,7 +88,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
