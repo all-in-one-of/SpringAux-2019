@@ -1,0 +1,15 @@
+<sbspresets count="1" formatversion="1.1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="PaintPreset_Hite">
+  <presetinput uid="2216812470" type="2" identifier="relief_balance" value="-0.164,-0.711,-0.143"/>
+  <presetinput uid="2248163775" type="4" identifier="make_it_tile" value="1"/>
+  <presetinput uid="2248540187" type="0" identifier="roughness_value" value="0.514"/>
+  <presetinput uid="2259198639" type="0" identifier="tiling_transition_precision" value="0"/>
+  <presetinput uid="2260298739" filepath="E:/PhonePhotos/PaintFixedV2_Hite.png" type="5" identifier="main_input"/>
+  <presetinput uid="2261766940" type="2" identifier="ao_levels" value="0,0.494,1"/>
+  <presetinput uid="2270841969" type="0" identifier="normal_intensity" value="1.969"/>
+  <presetinput uid="2270842600" type="0" identifier="light_equalizer" value="0.921"/>
+  <presetinput uid="2309681748" type="2" identifier="ao_balance" value="-1,-1,-0.773"/>
+  <presetinput uid="2310254644" type="0" identifier="tiling_transition_size" value="0.456"/>
+  <presetinput uid="4224312677" type="8" identifier="$outputsize" value="11,11"/>
+ </sbspreset>
+</sbspresets>
