@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
-//Name: FOHArchWay_Hite.ma
-//Last modified: Sun, Mar 10, 2019 10:42:58 PM
+//Name: FOHArchWay_V2_Hite.ma
+//Last modified: Sun, Mar 10, 2019 10:43:08 PM
 //Codeset: 1252
 requires maya "2019";
 requires "mtoa" "3.1.2";
@@ -51957,4 +51957,4 @@ connectAttr "groupId389.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId390.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId391.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId392.msg" ":initialShadingGroup.gn" -na;
-// End of FOHArchWay_Hite.ma
+// End of FOHArchWay_V2_Hite.ma
