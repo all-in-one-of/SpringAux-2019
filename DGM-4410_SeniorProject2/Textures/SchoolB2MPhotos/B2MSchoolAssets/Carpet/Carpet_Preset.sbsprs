@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.1" count="1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="Carpet_Preset">
+  <presetinput identifier="relief_balance" type="2" value="-0.768,-0.961,-0.068" uid="2216812470"/>
+  <presetinput identifier="make_it_tile" type="4" value="1" uid="2248163775"/>
+  <presetinput identifier="roughness_value" type="0" value="0.686" uid="2248540187"/>
+  <presetinput identifier="method" type="4" value="2" uid="2256729452"/>
+  <presetinput identifier="light_offset" type="0" value="0.094" uid="2258625655"/>
+  <presetinput identifier="saturation" type="0" value="0.529" uid="2258732119"/>
+  <presetinput identifier="tiling_random_angle_variation" type="0" value="0" uid="2259198632"/>
+  <presetinput identifier="tiling_transition_precision" type="0" value="0" uid="2259198639"/>
+  <presetinput identifier="main_input" type="5" uid="2260298739" filepath="../Carpet.jpg"/>
+  <presetinput identifier="light_angle" type="0" value="0.706" uid="2270226691"/>
+  <presetinput identifier="normal_intensity" type="0" value="3.844" uid="2270841969"/>
+  <presetinput identifier="light_equalizer" type="0" value="0.892" uid="2270842600"/>
+  <presetinput identifier="ao_balance" type="2" value="-1,-1,-0.256" uid="2309681748"/>
+  <presetinput identifier="tiling_transition_size" type="0" value="0.232" uid="2310254644"/>
+ </sbspreset>
+</sbspresets>

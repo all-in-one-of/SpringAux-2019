@@ -1,0 +1,13 @@
+<sbspresets count="1" formatversion="1.1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="BrickSample">
+  <presetinput identifier="make_it_tile" type="4" uid="2248163775" value="1"/>
+  <presetinput identifier="method" type="4" uid="2256729452" value="1"/>
+  <presetinput identifier="saturation" type="0" uid="2258732119" value="0.565"/>
+  <presetinput identifier="tiling_random_angle_variation" type="0" uid="2259198632" value="0"/>
+  <presetinput identifier="tiling_transition_precision" type="0" uid="2259198639" value="0.398"/>
+  <presetinput identifier="main_input" type="5" filepath="../brick sample.jpg" uid="2260298739"/>
+  <presetinput identifier="normal_intensity" type="0" uid="2270841969" value="15.281"/>
+  <presetinput identifier="ao_balance" type="2" uid="2309681748" value="-0.801,0,0"/>
+  <presetinput identifier="$outputsize" type="8" uid="4224312677" value="11,11"/>
+ </sbspreset>
+</sbspresets>

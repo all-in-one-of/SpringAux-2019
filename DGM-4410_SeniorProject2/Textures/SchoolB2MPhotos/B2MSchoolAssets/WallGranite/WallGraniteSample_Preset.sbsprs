@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.1" count="1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="WallGraniteSample_Preset">
+  <presetinput identifier="relief_balance" type="2" value="-0.512,-0.641,-1" uid="2216812470"/>
+  <presetinput identifier="make_it_tile" type="4" value="1" uid="2248163775"/>
+  <presetinput identifier="ao_radius" type="0" value="0.221" uid="2248633212"/>
+  <presetinput identifier="method" type="4" value="2" uid="2256729452"/>
+  <presetinput identifier="light_offset" type="0" value="0.5" uid="2258625655"/>
+  <presetinput identifier="contrast" type="0" value="-0.012" uid="2258746387"/>
+  <presetinput identifier="tiling_random_angle_variation" type="0" value="0.067" uid="2259198632"/>
+  <presetinput identifier="tiling_transition_precision" type="0" value="0.965" uid="2259198639"/>
+  <presetinput identifier="main_input" type="5" uid="2260298739" filepath="../WallGraniteSample1.jpg"/>
+  <presetinput identifier="light_angle" type="0" value="0.078" uid="2270226691"/>
+  <presetinput identifier="normal_intensity" type="0" value="3" uid="2270841969"/>
+  <presetinput identifier="light_equalizer" type="0" value="0.79" uid="2270842600"/>
+  <presetinput identifier="method_balance" type="0" value="0.301" uid="2282385217"/>
+  <presetinput identifier="invert_relief_type" type="4" value="1" uid="2309465891"/>
+  <presetinput identifier="ao_balance" type="2" value="-0.795,0,0" uid="2309681748"/>
+  <presetinput identifier="tiling_transition_size" type="0" value="0.584" uid="2310254644"/>
+ </sbspreset>
+</sbspresets>
