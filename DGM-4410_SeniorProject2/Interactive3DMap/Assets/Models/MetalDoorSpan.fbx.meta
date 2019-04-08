@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 110141b2db3de1349903827eac290929
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MetalDoorSpan_Var2_Deco
+    100004: MetalDoorSpan_Var2_Deco 1
+    100006: MetalDoorSpan_Var2_Deco 2
+    100008: MetalDoorSpan_Var2_Deco 3
+    100010: MetalDoorSpan_Var2_DoorGrp
+    100012: MetalDoorSpan_Var2_DoorGrp 1
+    100014: MetalDoorSpan_Var2_DoorGrp1
+    100016: MetalDoorSpan_Var2_DoorGrp1 1
+    100018: MetalDoorSpan_Var2_DoorsGrp
+    100020: MetalDoorSpan_Var2_DoorsGrp1
+    100022: MetalDoorSpan_Var2_Frame
+    100024: MetalDoorSpan_Var2_Frame 1
+    100026: MetalDoorSpan_Var2_Frame 2
+    100028: MetalDoorSpan_Var2_Frame 3
+    100030: MetalDoorSpan_Var2_Frame 4
+    100032: MetalDoorSpan_Var2_Handle
+    100034: MetalDoorSpan_Var2_Handle1
+    100036: MetalDoorSpan_Var2_Handle2
+    100038: MetalDoorSpan_Var2_Handle3
+    100040: MetalDoorSpan_Var2_HandleBlock
+    100042: MetalDoorSpan_Var2_HandleBlock 1
+    100044: MetalDoorSpan_Var2_HandleBlock 2
+    100046: MetalDoorSpan_Var2_HandleBlock 3
+    100048: MetalDoorSpan_Var2_PuchBase
+    100050: MetalDoorSpan_Var2_PuchBase 1
+    100052: MetalDoorSpan_Var2_PuchBase 2
+    100054: MetalDoorSpan_Var2_PuchBase 3
+    100056: MetalDoorSpan_Var2_PushBlock
+    100058: MetalDoorSpan_Var2_PushBlock 1
+    100060: MetalDoorSpan_Var2_PushBlock 2
+    100062: MetalDoorSpan_Var2_PushBlock 3
+    400000: //RootNode
+    400002: MetalDoorSpan_Var2_Deco
+    400004: MetalDoorSpan_Var2_Deco 1
+    400006: MetalDoorSpan_Var2_Deco 2
+    400008: MetalDoorSpan_Var2_Deco 3
+    400010: MetalDoorSpan_Var2_DoorGrp
+    400012: MetalDoorSpan_Var2_DoorGrp 1
+    400014: MetalDoorSpan_Var2_DoorGrp1
+    400016: MetalDoorSpan_Var2_DoorGrp1 1
+    400018: MetalDoorSpan_Var2_DoorsGrp
+    400020: MetalDoorSpan_Var2_DoorsGrp1
+    400022: MetalDoorSpan_Var2_Frame
+    400024: MetalDoorSpan_Var2_Frame 1
+    400026: MetalDoorSpan_Var2_Frame 2
+    400028: MetalDoorSpan_Var2_Frame 3
+    400030: MetalDoorSpan_Var2_Frame 4
+    400032: MetalDoorSpan_Var2_Handle
+    400034: MetalDoorSpan_Var2_Handle1
+    400036: MetalDoorSpan_Var2_Handle2
+    400038: MetalDoorSpan_Var2_Handle3
+    400040: MetalDoorSpan_Var2_HandleBlock
+    400042: MetalDoorSpan_Var2_HandleBlock 1
+    400044: MetalDoorSpan_Var2_HandleBlock 2
+    400046: MetalDoorSpan_Var2_HandleBlock 3
+    400048: MetalDoorSpan_Var2_PuchBase
+    400050: MetalDoorSpan_Var2_PuchBase 1
+    400052: MetalDoorSpan_Var2_PuchBase 2
+    400054: MetalDoorSpan_Var2_PuchBase 3
+    400056: MetalDoorSpan_Var2_PushBlock
+    400058: MetalDoorSpan_Var2_PushBlock 1
+    400060: MetalDoorSpan_Var2_PushBlock 2
+    400062: MetalDoorSpan_Var2_PushBlock 3
+    2100000: lambert2
+    2100002: lambert1
+    2100004: lambert4
+    2100006: lambert5
+    2100008: lambert3
+    2100010: lambert6
+    2300000: MetalDoorSpan_Var2_Deco
+    2300002: MetalDoorSpan_Var2_Deco 1
+    2300004: MetalDoorSpan_Var2_Deco 2
+    2300006: MetalDoorSpan_Var2_Deco 3
+    2300008: MetalDoorSpan_Var2_Frame
+    2300010: MetalDoorSpan_Var2_Frame 1
+    2300012: MetalDoorSpan_Var2_Frame 2
+    2300014: MetalDoorSpan_Var2_Frame 3
+    2300016: MetalDoorSpan_Var2_Frame 4
+    2300018: MetalDoorSpan_Var2_Handle
+    2300020: MetalDoorSpan_Var2_Handle1
+    2300022: MetalDoorSpan_Var2_Handle2
+    2300024: MetalDoorSpan_Var2_Handle3
+    2300026: MetalDoorSpan_Var2_HandleBlock
+    2300028: MetalDoorSpan_Var2_HandleBlock 1
+    2300030: MetalDoorSpan_Var2_HandleBlock 2
+    2300032: MetalDoorSpan_Var2_HandleBlock 3
+    2300034: MetalDoorSpan_Var2_PuchBase
+    2300036: MetalDoorSpan_Var2_PuchBase 1
+    2300038: MetalDoorSpan_Var2_PuchBase 2
+    2300040: MetalDoorSpan_Var2_PuchBase 3
+    2300042: MetalDoorSpan_Var2_PushBlock
+    2300044: MetalDoorSpan_Var2_PushBlock 1
+    2300046: MetalDoorSpan_Var2_PushBlock 2
+    2300048: MetalDoorSpan_Var2_PushBlock 3
+    3300000: MetalDoorSpan_Var2_Deco
+    3300002: MetalDoorSpan_Var2_Deco 1
+    3300004: MetalDoorSpan_Var2_Deco 2
+    3300006: MetalDoorSpan_Var2_Deco 3
+    3300008: MetalDoorSpan_Var2_Frame
+    3300010: MetalDoorSpan_Var2_Frame 1
+    3300012: MetalDoorSpan_Var2_Frame 2
+    3300014: MetalDoorSpan_Var2_Frame 3
+    3300016: MetalDoorSpan_Var2_Frame 4
+    3300018: MetalDoorSpan_Var2_Handle
+    3300020: MetalDoorSpan_Var2_Handle1
+    3300022: MetalDoorSpan_Var2_Handle2
+    3300024: MetalDoorSpan_Var2_Handle3
+    3300026: MetalDoorSpan_Var2_HandleBlock
+    3300028: MetalDoorSpan_Var2_HandleBlock 1
+    3300030: MetalDoorSpan_Var2_HandleBlock 2
+    3300032: MetalDoorSpan_Var2_HandleBlock 3
+    3300034: MetalDoorSpan_Var2_PuchBase
+    3300036: MetalDoorSpan_Var2_PuchBase 1
+    3300038: MetalDoorSpan_Var2_PuchBase 2
+    3300040: MetalDoorSpan_Var2_PuchBase 3
+    3300042: MetalDoorSpan_Var2_PushBlock
+    3300044: MetalDoorSpan_Var2_PushBlock 1
+    3300046: MetalDoorSpan_Var2_PushBlock 2
+    3300048: MetalDoorSpan_Var2_PushBlock 3
+    4300000: MetalDoorSpan_Var2_Frame
+    4300002: MetalDoorSpan_Var2_Deco
+    4300004: MetalDoorSpan_Var2_HandleBlock
+    4300006: MetalDoorSpan_Var2_PushBlock
+    4300008: MetalDoorSpan_Var2_PuchBase
+    4300010: MetalDoorSpan_Var2_Frame
+    4300012: MetalDoorSpan_Var2_Deco
+    4300014: MetalDoorSpan_Var2_HandleBlock
+    4300016: MetalDoorSpan_Var2_PushBlock
+    4300018: MetalDoorSpan_Var2_PuchBase
+    4300020: MetalDoorSpan_Var2_Frame
+    4300022: MetalDoorSpan_Var2_Deco
+    4300024: MetalDoorSpan_Var2_HandleBlock
+    4300026: MetalDoorSpan_Var2_PushBlock
+    4300028: MetalDoorSpan_Var2_PuchBase
+    4300030: MetalDoorSpan_Var2_Frame
+    4300032: MetalDoorSpan_Var2_Deco
+    4300034: MetalDoorSpan_Var2_HandleBlock
+    4300036: MetalDoorSpan_Var2_PushBlock
+    4300038: MetalDoorSpan_Var2_PuchBase
+    4300040: MetalDoorSpan_Var2_Frame
+    4300042: MetalDoorSpan_Var2_Handle
+    4300044: MetalDoorSpan_Var2_Handle1
+    4300046: MetalDoorSpan_Var2_Handle2
+    4300048: MetalDoorSpan_Var2_Handle3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
