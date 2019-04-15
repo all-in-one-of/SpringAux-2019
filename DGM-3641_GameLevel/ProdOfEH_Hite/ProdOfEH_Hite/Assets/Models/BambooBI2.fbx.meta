@@ -4,12 +4,22 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: BambooBI1
+    100004: BambooBI2
     400000: //RootNode
+    400002: BambooBI1
+    400004: BambooBI2
     2100000: Bamboo_Hite_initialShadingGroup1
     2100002: Bamboo_Hite_lambert2SG1
+    2100004: BambooTexture
     2300000: //RootNode
+    2300002: BambooBI1
+    2300004: BambooBI2
     3300000: //RootNode
+    3300002: BambooBI1
+    3300004: BambooBI2
     4300000: BambooBI2
+    4300002: BambooBI1
   externalObjects: {}
   materials:
     importMaterials: 1
