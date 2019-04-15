@@ -8,7 +8,7 @@ using UnityEngine.UI;
 using UnityEngine.WSA;
 
 public class Tools : EditorWindow {
-
+    /*
     private static string selectedObjectName;
     private static Material passMaterial;
     
@@ -41,6 +41,6 @@ public class Tools : EditorWindow {
     //    items get populated
     
     
-    
+    */
     
 }

@@ -10,7 +10,7 @@ using UnityEngine.UI;
 using UnityEngine.WSA;
 
 public class EditorProtoEnv : EditorWindow {
-
+    /*
     private static string selectedObjectName;
     private static Material passMaterial;
     
@@ -54,7 +54,7 @@ public class EditorProtoEnv : EditorWindow {
     //When I press a variant of the button I want it to open a window where I can control naming conventions and what
     //    items get populated
     
-    
+    */
     
     
 }

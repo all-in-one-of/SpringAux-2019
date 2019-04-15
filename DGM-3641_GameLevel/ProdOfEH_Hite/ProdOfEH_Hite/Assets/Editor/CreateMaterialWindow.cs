@@ -5,13 +5,12 @@ using System;
 using System.IO;
 using JetBrains.Annotations;
 using NUnit.Framework.Internal;
-using UnityEditor.LinuxStandalone;
 using UnityEngine.Windows;
 using File = System.IO.File;
 
 public class CreateMaterialWindow : EditorWindow
 {
-    public string colorSuffix = "";
+    /*public string colorSuffix = "";
     public string metallicSuffix = "";
     public string heightSuffix = "";
     public string normalSuffix = "";
@@ -63,5 +62,5 @@ public class CreateMaterialWindow : EditorWindow
             test.Write("Null");
             test.Close();
         }
-    }
+    }*/
 }

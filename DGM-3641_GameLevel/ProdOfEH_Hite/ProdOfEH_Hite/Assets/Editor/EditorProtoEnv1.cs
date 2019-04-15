@@ -13,7 +13,7 @@ using System.Linq;
 using UnityEditor;
 
 public class EditorProtoEnv : EditorWindow {
-
+    /*
     private static string selectedObjectName;
     private static Material passMaterial;
 
@@ -54,5 +54,5 @@ public class EditorProtoEnv : EditorWindow {
         //Need a type name for default\/
         passMaterial.SetTexture("_DetailAlbedoMap", (Texture2D)AssetDatabase.LoadAssetAtPath(folderPath + "/" + selectedObjectName + "_DetailAlbedoMap.png", typeof(Texture2D)));
         passMaterial.SetTexture("_DetailNormalMap", (Texture2D)AssetDatabase.LoadAssetAtPath(folderPath + "/" + selectedObjectName + "_DetailNormalMap.png", typeof(Texture2D)));
-    }
+    }*/
 }
