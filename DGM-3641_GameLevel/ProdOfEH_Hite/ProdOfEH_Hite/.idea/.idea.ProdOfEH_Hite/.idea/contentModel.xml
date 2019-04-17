@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10712935\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_ProdOfEH_Hite.1983185715.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10712935\Documents\ProdOfEH_Hite" t="IncludeRecursive">
+    <e p="C:\Github_Hite\SpringAux-2019\DGM-3641_GameLevel\ProdOfEH_Hite\ProdOfEH_Hite" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="CHTools.cs" t="Include" />
         <e p="Editor" t="Include">
+          <e p="CreateMaterialWindow.cs" t="Include" />
+          <e p="EditorProtoEnv1.cs" t="Include" />
           <e p="Tools.cs" t="Include" />
         </e>
         <e p="Resources" t="Include">
           <e p="Hold.txt" t="Include" />
         </e>
+        <e p="Rotate.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="GettingWarm.cs" t="Include" />
           <e p="LegacyScripts" t="Include">
@@ -274,5 +275,6 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
+    <e p="C:\Users\10712935\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_ProdOfEH_Hite.-849403575.00" t="ExcludeRecursive" />
   </component>
 </project>
