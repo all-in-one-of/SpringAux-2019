@@ -19,6 +19,7 @@
         <e p="Rotate.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="GettingWarm.cs" t="Include" />
+          <e p="LanternBehavior.cs" t="Include" />
           <e p="LegacyScripts" t="Include">
             <e p="DayTimeChange.cs" t="Include" />
           </e>
@@ -276,6 +277,7 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
-    <e p="C:\Users\10712935\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_ProdOfEH_Hite.-849403575.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10712935\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10712935\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_ProdOfEH_Hite.-849403575.00" t="ExcludeRecursive" />
   </component>
 </project>

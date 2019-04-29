@@ -119,6 +119,7 @@ GameObject:
   - component: {fileID: 4629284298829914789}
   - component: {fileID: 4629284298832781957}
   - component: {fileID: 4629284298831814725}
+  - component: {fileID: 303508866177732577}
   m_Layer: 0
   m_Name: LampBase
   m_TagString: Untagged
@@ -185,6 +186,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &303508866177732577
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4629284298829823621}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: 0759ad918fa84654aa390cada60c1758, type: 3}
 --- !u!1 &4629284298829823623
 GameObject:
   m_ObjectHideFlags: 0
@@ -19191,7 +19206,6 @@ MonoBehaviour:
   maxTime: 0.2
   intensityUpMax: 1.5
   intensityUpMin: 0.5
-  intensityDown: 0.5
 --- !u!1 &8745011843174542540
 GameObject:
   m_ObjectHideFlags: 0
@@ -23974,7 +23988,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8745011844138814483
 Transform:
   m_ObjectHideFlags: 0

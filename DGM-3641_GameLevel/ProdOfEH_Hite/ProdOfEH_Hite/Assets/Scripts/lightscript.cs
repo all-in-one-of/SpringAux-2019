@@ -12,7 +12,7 @@ public class lightscript : MonoBehaviour {
 
     public float intensityUpMax = 1.0f;
     public float intensityUpMin = 0.0f;
-    public float intensityDown = 0.5f;
+    //public float intensityDown = 0.5f;
     
     void Start() 
     {
@@ -27,7 +27,7 @@ public class lightscript : MonoBehaviour {
             yield return new WaitForSeconds(flickerIncrement);
             this.GetComponent<Light>().intensity = Random.RandomRange(intensityUpMin, intensityUpMax);
             yield return new WaitForSeconds(flickerIncrement);
-            this.GetComponent<Light>().intensity = intensityDown;
+            //this.GetComponent<Light>().intensity = intensityDown;
         }
     }
 }
