@@ -1,0 +1,10 @@
+<sbspresets count="1" formatversion="1.1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="DemoRock">
+  <presetinput identifier="make_it_tile" type="4" value="1" uid="2248163775"/>
+  <presetinput identifier="roughness_value" type="0" value="0.927" uid="2248540187"/>
+  <presetinput identifier="invert_relief" type="4" value="1" uid="2254568558"/>
+  <presetinput identifier="main_input" type="5" filepath="DemoPath_Hite.png" uid="2260298739"/>
+  <presetinput identifier="normal_intensity" type="0" value="16.781" uid="2270841969"/>
+  <presetinput identifier="$outputsize" type="8" value="10,10" uid="4224312677"/>
+ </sbspreset>
+</sbspresets>
